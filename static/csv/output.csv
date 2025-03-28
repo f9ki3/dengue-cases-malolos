@@ -1,0 +1,5509 @@
+Barangay,Year,Month,Cases
+Anilao,2016,January,0
+Atlag,2016,January,1
+Babatnin,2016,January,0
+Bagna,2016,January,0
+Bagong Bayan,2016,January,1
+Balayong,2016,January,0
+Balite,2016,January,0
+Bangkal,2016,January,1
+Barihan,2016,January,0
+Bulihan,2016,January,4
+Bungahan,2016,January,0
+Caingin,2016,January,0
+Calero,2016,January,0
+Caliligawan,2016,January,0
+Canalate,2016,January,0
+Caniogan,2016,January,0
+Catmon,2016,January,0
+Cofradia,2016,January,2
+Dakila,2016,January,1
+Guinhawa,2016,January,1
+Liang,2016,January,0
+Ligas,2016,January,0
+Longos,2016,January,1
+Look 1St,2016,January,1
+Look 2Nd,2016,January,0
+Lugam,2016,January,2
+Mabolo,2016,January,2
+Mambog,2016,January,1
+Masile,2016,January,0
+Matimbo,2016,January,0
+Mojon,2016,January,3
+Namayan,2016,January,0
+Niugan,2016,January,0
+Pamarawan,2016,January,0
+Panasahan,2016,January,0
+Pinagbakahan,2016,January,3
+San Agustin,2016,January,0
+San Gabriel,2016,January,0
+San Juan,2016,January,0
+San Pablo,2016,January,2
+San Vicente,2016,January,1
+Santiago,2016,January,0
+Santisima Trinidad,2016,January,0
+Santo Cristo,2016,January,0
+Santo Niño,2016,January,0
+Santo Rosario,2016,January,2
+Santor,2016,January,1
+Sumapang Bata,2016,January,1
+Sumapang Matanda,2016,January,0
+Taal,2016,January,0
+Tikay,2016,January,2
+Anilao,2016,February,0
+Atlag,2016,February,2
+Babatnin,2016,February,0
+Bagna,2016,February,0
+Bagong Bayan,2016,February,0
+Balayong,2016,February,0
+Balite,2016,February,0
+Bangkal,2016,February,0
+Barihan,2016,February,0
+Bulihan,2016,February,1
+Bungahan,2016,February,0
+Caingin,2016,February,1
+Calero,2016,February,0
+Caliligawan,2016,February,0
+Canalate,2016,February,1
+Caniogan,2016,February,0
+Catmon,2016,February,0
+Cofradia,2016,February,0
+Dakila,2016,February,1
+Guinhawa,2016,February,0
+Liang,2016,February,0
+Ligas,2016,February,0
+Longos,2016,February,1
+Look 1St,2016,February,2
+Look 2Nd,2016,February,0
+Lugam,2016,February,1
+Mabolo,2016,February,0
+Mambog,2016,February,2
+Masile,2016,February,0
+Matimbo,2016,February,0
+Mojon,2016,February,1
+Namayan,2016,February,0
+Niugan,2016,February,0
+Pamarawan,2016,February,0
+Panasahan,2016,February,2
+Pinagbakahan,2016,February,0
+San Agustin,2016,February,0
+San Gabriel,2016,February,0
+San Juan,2016,February,0
+San Pablo,2016,February,0
+San Vicente,2016,February,0
+Santiago,2016,February,0
+Santisima Trinidad,2016,February,0
+Santo Cristo,2016,February,0
+Santo Niño,2016,February,0
+Santo Rosario,2016,February,0
+Santor,2016,February,0
+Sumapang Bata,2016,February,1
+Sumapang Matanda,2016,February,1
+Taal,2016,February,0
+Tikay,2016,February,0
+Anilao,2016,March,0
+Atlag,2016,March,0
+Babatnin,2016,March,0
+Bagna,2016,March,0
+Bagong Bayan,2016,March,0
+Balayong,2016,March,0
+Balite,2016,March,0
+Bangkal,2016,March,0
+Barihan,2016,March,0
+Bulihan,2016,March,1
+Bungahan,2016,March,0
+Caingin,2016,March,0
+Calero,2016,March,0
+Caliligawan,2016,March,0
+Canalate,2016,March,0
+Caniogan,2016,March,0
+Catmon,2016,March,0
+Cofradia,2016,March,2
+Dakila,2016,March,0
+Guinhawa,2016,March,0
+Liang,2016,March,0
+Ligas,2016,March,1
+Longos,2016,March,0
+Look 1St,2016,March,1
+Look 2Nd,2016,March,1
+Lugam,2016,March,0
+Mabolo,2016,March,0
+Mambog,2016,March,0
+Masile,2016,March,0
+Matimbo,2016,March,1
+Mojon,2016,March,1
+Namayan,2016,March,0
+Niugan,2016,March,0
+Pamarawan,2016,March,0
+Panasahan,2016,March,0
+Pinagbakahan,2016,March,0
+San Agustin,2016,March,0
+San Gabriel,2016,March,0
+San Juan,2016,March,0
+San Pablo,2016,March,0
+San Vicente,2016,March,1
+Santiago,2016,March,0
+Santisima Trinidad,2016,March,0
+Santo Cristo,2016,March,0
+Santo Niño,2016,March,0
+Santo Rosario,2016,March,0
+Santor,2016,March,0
+Sumapang Bata,2016,March,0
+Sumapang Matanda,2016,March,0
+Taal,2016,March,0
+Tikay,2016,March,1
+Anilao,2016,April,0
+Atlag,2016,April,0
+Babatnin,2016,April,0
+Bagna,2016,April,0
+Bagong Bayan,2016,April,0
+Balayong,2016,April,0
+Balite,2016,April,0
+Bangkal,2016,April,0
+Barihan,2016,April,0
+Bulihan,2016,April,0
+Bungahan,2016,April,0
+Caingin,2016,April,0
+Calero,2016,April,0
+Caliligawan,2016,April,0
+Canalate,2016,April,0
+Caniogan,2016,April,0
+Catmon,2016,April,0
+Cofradia,2016,April,0
+Dakila,2016,April,0
+Guinhawa,2016,April,0
+Liang,2016,April,0
+Ligas,2016,April,0
+Longos,2016,April,0
+Look 1St,2016,April,1
+Look 2Nd,2016,April,0
+Lugam,2016,April,0
+Mabolo,2016,April,1
+Mambog,2016,April,0
+Masile,2016,April,0
+Matimbo,2016,April,0
+Mojon,2016,April,1
+Namayan,2016,April,0
+Niugan,2016,April,0
+Pamarawan,2016,April,0
+Panasahan,2016,April,0
+Pinagbakahan,2016,April,0
+San Agustin,2016,April,0
+San Gabriel,2016,April,0
+San Juan,2016,April,0
+San Pablo,2016,April,0
+San Vicente,2016,April,0
+Santiago,2016,April,0
+Santisima Trinidad,2016,April,0
+Santo Cristo,2016,April,0
+Santo Niño,2016,April,0
+Santo Rosario,2016,April,0
+Santor,2016,April,0
+Sumapang Bata,2016,April,0
+Sumapang Matanda,2016,April,0
+Taal,2016,April,0
+Tikay,2016,April,0
+Anilao,2016,May,0
+Atlag,2016,May,0
+Babatnin,2016,May,0
+Bagna,2016,May,0
+Bagong Bayan,2016,May,0
+Balayong,2016,May,0
+Balite,2016,May,0
+Bangkal,2016,May,0
+Barihan,2016,May,0
+Bulihan,2016,May,0
+Bungahan,2016,May,0
+Caingin,2016,May,0
+Calero,2016,May,0
+Caliligawan,2016,May,0
+Canalate,2016,May,0
+Caniogan,2016,May,0
+Catmon,2016,May,0
+Cofradia,2016,May,0
+Dakila,2016,May,0
+Guinhawa,2016,May,0
+Liang,2016,May,0
+Ligas,2016,May,1
+Longos,2016,May,1
+Look 1St,2016,May,0
+Look 2Nd,2016,May,0
+Lugam,2016,May,0
+Mabolo,2016,May,0
+Mambog,2016,May,0
+Masile,2016,May,0
+Matimbo,2016,May,0
+Mojon,2016,May,0
+Namayan,2016,May,0
+Niugan,2016,May,0
+Pamarawan,2016,May,0
+Panasahan,2016,May,0
+Pinagbakahan,2016,May,0
+San Agustin,2016,May,0
+San Gabriel,2016,May,0
+San Juan,2016,May,0
+San Pablo,2016,May,0
+San Vicente,2016,May,0
+Santiago,2016,May,0
+Santisima Trinidad,2016,May,0
+Santo Cristo,2016,May,0
+Santo Niño,2016,May,0
+Santo Rosario,2016,May,0
+Santor,2016,May,0
+Sumapang Bata,2016,May,0
+Sumapang Matanda,2016,May,0
+Taal,2016,May,0
+Tikay,2016,May,0
+Anilao,2016,June,0
+Atlag,2016,June,1
+Babatnin,2016,June,0
+Bagna,2016,June,0
+Bagong Bayan,2016,June,0
+Balayong,2016,June,0
+Balite,2016,June,1
+Bangkal,2016,June,0
+Barihan,2016,June,0
+Bulihan,2016,June,0
+Bungahan,2016,June,0
+Caingin,2016,June,0
+Calero,2016,June,0
+Caliligawan,2016,June,0
+Canalate,2016,June,0
+Caniogan,2016,June,0
+Catmon,2016,June,0
+Cofradia,2016,June,0
+Dakila,2016,June,0
+Guinhawa,2016,June,0
+Liang,2016,June,0
+Ligas,2016,June,0
+Longos,2016,June,0
+Look 1St,2016,June,0
+Look 2Nd,2016,June,0
+Lugam,2016,June,0
+Mabolo,2016,June,0
+Mambog,2016,June,0
+Masile,2016,June,0
+Matimbo,2016,June,0
+Mojon,2016,June,0
+Namayan,2016,June,0
+Niugan,2016,June,0
+Pamarawan,2016,June,0
+Panasahan,2016,June,0
+Pinagbakahan,2016,June,0
+San Agustin,2016,June,0
+San Gabriel,2016,June,0
+San Juan,2016,June,0
+San Pablo,2016,June,0
+San Vicente,2016,June,0
+Santiago,2016,June,0
+Santisima Trinidad,2016,June,0
+Santo Cristo,2016,June,0
+Santo Niño,2016,June,0
+Santo Rosario,2016,June,0
+Santor,2016,June,0
+Sumapang Bata,2016,June,0
+Sumapang Matanda,2016,June,0
+Taal,2016,June,0
+Tikay,2016,June,0
+Anilao,2016,July,0
+Atlag,2016,July,2
+Babatnin,2016,July,0
+Bagna,2016,July,0
+Bagong Bayan,2016,July,0
+Balayong,2016,July,3
+Balite,2016,July,4
+Bangkal,2016,July,2
+Barihan,2016,July,1
+Bulihan,2016,July,2
+Bungahan,2016,July,0
+Caingin,2016,July,0
+Calero,2016,July,0
+Caliligawan,2016,July,0
+Canalate,2016,July,1
+Caniogan,2016,July,2
+Catmon,2016,July,0
+Cofradia,2016,July,0
+Dakila,2016,July,1
+Guinhawa,2016,July,0
+Liang,2016,July,0
+Ligas,2016,July,0
+Longos,2016,July,1
+Look 1St,2016,July,0
+Look 2Nd,2016,July,0
+Lugam,2016,July,0
+Mabolo,2016,July,1
+Mambog,2016,July,0
+Masile,2016,July,0
+Matimbo,2016,July,2
+Mojon,2016,July,1
+Namayan,2016,July,1
+Niugan,2016,July,0
+Pamarawan,2016,July,0
+Panasahan,2016,July,0
+Pinagbakahan,2016,July,1
+San Agustin,2016,July,0
+San Gabriel,2016,July,0
+San Juan,2016,July,0
+San Pablo,2016,July,0
+San Vicente,2016,July,0
+Santiago,2016,July,0
+Santisima Trinidad,2016,July,0
+Santo Cristo,2016,July,1
+Santo Niño,2016,July,0
+Santo Rosario,2016,July,0
+Santor,2016,July,2
+Sumapang Bata,2016,July,0
+Sumapang Matanda,2016,July,1
+Taal,2016,July,0
+Tikay,2016,July,0
+Anilao,2016,August,2
+Atlag,2016,August,1
+Babatnin,2016,August,0
+Bagna,2016,August,2
+Bagong Bayan,2016,August,1
+Balayong,2016,August,4
+Balite,2016,August,3
+Bangkal,2016,August,0
+Barihan,2016,August,7
+Bulihan,2016,August,3
+Bungahan,2016,August,1
+Caingin,2016,August,5
+Calero,2016,August,0
+Caliligawan,2016,August,0
+Canalate,2016,August,0
+Caniogan,2016,August,1
+Catmon,2016,August,1
+Cofradia,2016,August,1
+Dakila,2016,August,0
+Guinhawa,2016,August,0
+Liang,2016,August,0
+Ligas,2016,August,1
+Longos,2016,August,1
+Look 1St,2016,August,1
+Look 2Nd,2016,August,1
+Lugam,2016,August,0
+Mabolo,2016,August,2
+Mambog,2016,August,3
+Masile,2016,August,0
+Matimbo,2016,August,4
+Mojon,2016,August,8
+Namayan,2016,August,0
+Niugan,2016,August,0
+Pamarawan,2016,August,1
+Panasahan,2016,August,0
+Pinagbakahan,2016,August,1
+San Agustin,2016,August,1
+San Gabriel,2016,August,0
+San Juan,2016,August,2
+San Pablo,2016,August,0
+San Vicente,2016,August,0
+Santiago,2016,August,0
+Santisima Trinidad,2016,August,0
+Santo Cristo,2016,August,0
+Santo Niño,2016,August,0
+Santo Rosario,2016,August,1
+Santor,2016,August,0
+Sumapang Bata,2016,August,0
+Sumapang Matanda,2016,August,1
+Taal,2016,August,1
+Tikay,2016,August,6
+Anilao,2016,September,0
+Atlag,2016,September,1
+Babatnin,2016,September,0
+Bagna,2016,September,1
+Bagong Bayan,2016,September,0
+Balayong,2016,September,1
+Balite,2016,September,2
+Bangkal,2016,September,0
+Barihan,2016,September,9
+Bulihan,2016,September,4
+Bungahan,2016,September,1
+Caingin,2016,September,0
+Calero,2016,September,2
+Caliligawan,2016,September,0
+Canalate,2016,September,0
+Caniogan,2016,September,2
+Catmon,2016,September,0
+Cofradia,2016,September,1
+Dakila,2016,September,0
+Guinhawa,2016,September,1
+Liang,2016,September,0
+Ligas,2016,September,3
+Longos,2016,September,3
+Look 1St,2016,September,1
+Look 2Nd,2016,September,2
+Lugam,2016,September,1
+Mabolo,2016,September,1
+Mambog,2016,September,0
+Masile,2016,September,0
+Matimbo,2016,September,7
+Mojon,2016,September,8
+Namayan,2016,September,1
+Niugan,2016,September,0
+Pamarawan,2016,September,0
+Panasahan,2016,September,0
+Pinagbakahan,2016,September,0
+San Agustin,2016,September,1
+San Gabriel,2016,September,0
+San Juan,2016,September,0
+San Pablo,2016,September,1
+San Vicente,2016,September,1
+Santiago,2016,September,0
+Santisima Trinidad,2016,September,2
+Santo Cristo,2016,September,0
+Santo Niño,2016,September,0
+Santo Rosario,2016,September,0
+Santor,2016,September,1
+Sumapang Bata,2016,September,0
+Sumapang Matanda,2016,September,1
+Taal,2016,September,0
+Tikay,2016,September,2
+Anilao,2016,October,0
+Atlag,2016,October,3
+Babatnin,2016,October,0
+Bagna,2016,October,0
+Bagong Bayan,2016,October,2
+Balayong,2016,October,0
+Balite,2016,October,0
+Bangkal,2016,October,0
+Barihan,2016,October,2
+Bulihan,2016,October,4
+Bungahan,2016,October,0
+Caingin,2016,October,3
+Calero,2016,October,0
+Caliligawan,2016,October,0
+Canalate,2016,October,0
+Caniogan,2016,October,0
+Catmon,2016,October,0
+Cofradia,2016,October,0
+Dakila,2016,October,0
+Guinhawa,2016,October,0
+Liang,2016,October,0
+Ligas,2016,October,2
+Longos,2016,October,5
+Look 1St,2016,October,1
+Look 2Nd,2016,October,0
+Lugam,2016,October,0
+Mabolo,2016,October,0
+Mambog,2016,October,0
+Masile,2016,October,0
+Matimbo,2016,October,0
+Mojon,2016,October,1
+Namayan,2016,October,0
+Niugan,2016,October,0
+Pamarawan,2016,October,0
+Panasahan,2016,October,2
+Pinagbakahan,2016,October,1
+San Agustin,2016,October,1
+San Gabriel,2016,October,0
+San Juan,2016,October,1
+San Pablo,2016,October,4
+San Vicente,2016,October,0
+Santiago,2016,October,0
+Santisima Trinidad,2016,October,0
+Santo Cristo,2016,October,1
+Santo Niño,2016,October,0
+Santo Rosario,2016,October,0
+Santor,2016,October,0
+Sumapang Bata,2016,October,0
+Sumapang Matanda,2016,October,3
+Taal,2016,October,0
+Tikay,2016,October,0
+Anilao,2016,November,0
+Atlag,2016,November,0
+Babatnin,2016,November,0
+Bagna,2016,November,1
+Bagong Bayan,2016,November,0
+Balayong,2016,November,0
+Balite,2016,November,0
+Bangkal,2016,November,0
+Barihan,2016,November,0
+Bulihan,2016,November,3
+Bungahan,2016,November,0
+Caingin,2016,November,1
+Calero,2016,November,0
+Caliligawan,2016,November,0
+Canalate,2016,November,0
+Caniogan,2016,November,0
+Catmon,2016,November,0
+Cofradia,2016,November,0
+Dakila,2016,November,0
+Guinhawa,2016,November,0
+Liang,2016,November,0
+Ligas,2016,November,0
+Longos,2016,November,1
+Look 1St,2016,November,0
+Look 2Nd,2016,November,0
+Lugam,2016,November,0
+Mabolo,2016,November,0
+Mambog,2016,November,0
+Masile,2016,November,0
+Matimbo,2016,November,0
+Mojon,2016,November,1
+Namayan,2016,November,0
+Niugan,2016,November,0
+Pamarawan,2016,November,0
+Panasahan,2016,November,2
+Pinagbakahan,2016,November,1
+San Agustin,2016,November,0
+San Gabriel,2016,November,0
+San Juan,2016,November,0
+San Pablo,2016,November,1
+San Vicente,2016,November,0
+Santiago,2016,November,0
+Santisima Trinidad,2016,November,1
+Santo Cristo,2016,November,0
+Santo Niño,2016,November,0
+Santo Rosario,2016,November,0
+Santor,2016,November,0
+Sumapang Bata,2016,November,0
+Sumapang Matanda,2016,November,0
+Taal,2016,November,0
+Tikay,2016,November,0
+Anilao,2016,December,0
+Atlag,2016,December,0
+Babatnin,2016,December,0
+Bagna,2016,December,1
+Bagong Bayan,2016,December,0
+Balayong,2016,December,0
+Balite,2016,December,0
+Bangkal,2016,December,0
+Barihan,2016,December,0
+Bulihan,2016,December,2
+Bungahan,2016,December,0
+Caingin,2016,December,1
+Calero,2016,December,0
+Caliligawan,2016,December,0
+Canalate,2016,December,0
+Caniogan,2016,December,0
+Catmon,2016,December,0
+Cofradia,2016,December,0
+Dakila,2016,December,2
+Guinhawa,2016,December,0
+Liang,2016,December,0
+Ligas,2016,December,2
+Longos,2016,December,2
+Look 1St,2016,December,2
+Look 2Nd,2016,December,0
+Lugam,2016,December,2
+Mabolo,2016,December,0
+Mambog,2016,December,0
+Masile,2016,December,0
+Matimbo,2016,December,1
+Mojon,2016,December,5
+Namayan,2016,December,0
+Niugan,2016,December,0
+Pamarawan,2016,December,0
+Panasahan,2016,December,1
+Pinagbakahan,2016,December,0
+San Agustin,2016,December,0
+San Gabriel,2016,December,0
+San Juan,2016,December,0
+San Pablo,2016,December,0
+San Vicente,2016,December,0
+Santiago,2016,December,0
+Santisima Trinidad,2016,December,1
+Santo Cristo,2016,December,0
+Santo Niño,2016,December,0
+Santo Rosario,2016,December,0
+Santor,2016,December,1
+Sumapang Bata,2016,December,0
+Sumapang Matanda,2016,December,3
+Taal,2016,December,0
+Tikay,2016,December,3
+Anilao,2017,January,0
+Atlag,2017,January,4
+Babatnin,2017,January,0
+Bagna,2017,January,2
+Bagong Bayan,2017,January,0
+Balayong,2017,January,0
+Balite,2017,January,1
+Bangkal,2017,January,2
+Barihan,2017,January,0
+Bulihan,2017,January,2
+Bungahan,2017,January,1
+Caingin,2017,January,3
+Calero,2017,January,0
+Caliligawan,2017,January,1
+Canalate,2017,January,1
+Caniogan,2017,January,1
+Catmon,2017,January,1
+Cofradia,2017,January,0
+Dakila,2017,January,0
+Guinhawa,2017,January,0
+Liang,2017,January,0
+Ligas,2017,January,0
+Longos,2017,January,1
+Look 1St,2017,January,10
+Look 2Nd,2017,January,0
+Lugam,2017,January,3
+Mabolo,2017,January,1
+Mambog,2017,January,0
+Masile,2017,January,0
+Matimbo,2017,January,2
+Mojon,2017,January,7
+Namayan,2017,January,0
+Niugan,2017,January,0
+Pamarawan,2017,January,0
+Panasahan,2017,January,0
+Pinagbakahan,2017,January,3
+San Agustin,2017,January,0
+San Gabriel,2017,January,0
+San Juan,2017,January,2
+San Pablo,2017,January,4
+San Vicente,2017,January,0
+Santiago,2017,January,0
+Santisima Trinidad,2017,January,2
+Santo Cristo,2017,January,0
+Santo Niño,2017,January,0
+Santo Rosario,2017,January,1
+Santor,2017,January,0
+Sumapang Bata,2017,January,0
+Sumapang Matanda,2017,January,1
+Taal,2017,January,0
+Tikay,2017,January,6
+Anilao,2017,February,0
+Atlag,2017,February,1
+Babatnin,2017,February,0
+Bagna,2017,February,0
+Bagong Bayan,2017,February,0
+Balayong,2017,February,0
+Balite,2017,February,2
+Bangkal,2017,February,0
+Barihan,2017,February,0
+Bulihan,2017,February,4
+Bungahan,2017,February,0
+Caingin,2017,February,2
+Calero,2017,February,0
+Caliligawan,2017,February,0
+Canalate,2017,February,1
+Caniogan,2017,February,2
+Catmon,2017,February,0
+Cofradia,2017,February,1
+Dakila,2017,February,0
+Guinhawa,2017,February,0
+Liang,2017,February,0
+Ligas,2017,February,0
+Longos,2017,February,7
+Look 1St,2017,February,1
+Look 2Nd,2017,February,0
+Lugam,2017,February,0
+Mabolo,2017,February,0
+Mambog,2017,February,0
+Masile,2017,February,0
+Matimbo,2017,February,0
+Mojon,2017,February,2
+Namayan,2017,February,0
+Niugan,2017,February,0
+Pamarawan,2017,February,0
+Panasahan,2017,February,0
+Pinagbakahan,2017,February,1
+San Agustin,2017,February,0
+San Gabriel,2017,February,0
+San Juan,2017,February,0
+San Pablo,2017,February,0
+San Vicente,2017,February,2
+Santiago,2017,February,0
+Santisima Trinidad,2017,February,1
+Santo Cristo,2017,February,0
+Santo Niño,2017,February,0
+Santo Rosario,2017,February,2
+Santor,2017,February,0
+Sumapang Bata,2017,February,0
+Sumapang Matanda,2017,February,1
+Taal,2017,February,0
+Tikay,2017,February,1
+Anilao,2017,March,1
+Atlag,2017,March,0
+Babatnin,2017,March,0
+Bagna,2017,March,1
+Bagong Bayan,2017,March,1
+Balayong,2017,March,0
+Balite,2017,March,1
+Bangkal,2017,March,2
+Barihan,2017,March,0
+Bulihan,2017,March,2
+Bungahan,2017,March,0
+Caingin,2017,March,0
+Calero,2017,March,0
+Caliligawan,2017,March,0
+Canalate,2017,March,0
+Caniogan,2017,March,0
+Catmon,2017,March,0
+Cofradia,2017,March,0
+Dakila,2017,March,0
+Guinhawa,2017,March,0
+Liang,2017,March,0
+Ligas,2017,March,0
+Longos,2017,March,1
+Look 1St,2017,March,0
+Look 2Nd,2017,March,0
+Lugam,2017,March,0
+Mabolo,2017,March,0
+Mambog,2017,March,0
+Masile,2017,March,0
+Matimbo,2017,March,1
+Mojon,2017,March,4
+Namayan,2017,March,0
+Niugan,2017,March,0
+Pamarawan,2017,March,0
+Panasahan,2017,March,0
+Pinagbakahan,2017,March,0
+San Agustin,2017,March,0
+San Gabriel,2017,March,0
+San Juan,2017,March,0
+San Pablo,2017,March,0
+San Vicente,2017,March,1
+Santiago,2017,March,0
+Santisima Trinidad,2017,March,2
+Santo Cristo,2017,March,0
+Santo Niño,2017,March,0
+Santo Rosario,2017,March,1
+Santor,2017,March,0
+Sumapang Bata,2017,March,0
+Sumapang Matanda,2017,March,0
+Taal,2017,March,1
+Tikay,2017,March,0
+Anilao,2017,April,0
+Atlag,2017,April,0
+Babatnin,2017,April,0
+Bagna,2017,April,1
+Bagong Bayan,2017,April,0
+Balayong,2017,April,0
+Balite,2017,April,0
+Bangkal,2017,April,0
+Barihan,2017,April,0
+Bulihan,2017,April,0
+Bungahan,2017,April,0
+Caingin,2017,April,0
+Calero,2017,April,0
+Caliligawan,2017,April,0
+Canalate,2017,April,1
+Caniogan,2017,April,0
+Catmon,2017,April,0
+Cofradia,2017,April,0
+Dakila,2017,April,0
+Guinhawa,2017,April,0
+Liang,2017,April,0
+Ligas,2017,April,0
+Longos,2017,April,0
+Look 1St,2017,April,0
+Look 2Nd,2017,April,0
+Lugam,2017,April,1
+Mabolo,2017,April,0
+Mambog,2017,April,0
+Masile,2017,April,0
+Matimbo,2017,April,0
+Mojon,2017,April,2
+Namayan,2017,April,0
+Niugan,2017,April,0
+Pamarawan,2017,April,0
+Panasahan,2017,April,0
+Pinagbakahan,2017,April,0
+San Agustin,2017,April,0
+San Gabriel,2017,April,0
+San Juan,2017,April,0
+San Pablo,2017,April,0
+San Vicente,2017,April,0
+Santiago,2017,April,0
+Santisima Trinidad,2017,April,0
+Santo Cristo,2017,April,1
+Santo Niño,2017,April,0
+Santo Rosario,2017,April,0
+Santor,2017,April,0
+Sumapang Bata,2017,April,0
+Sumapang Matanda,2017,April,0
+Taal,2017,April,0
+Tikay,2017,April,0
+Anilao,2017,May,0
+Atlag,2017,May,0
+Babatnin,2017,May,0
+Bagna,2017,May,0
+Bagong Bayan,2017,May,0
+Balayong,2017,May,0
+Balite,2017,May,1
+Bangkal,2017,May,0
+Barihan,2017,May,0
+Bulihan,2017,May,5
+Bungahan,2017,May,0
+Caingin,2017,May,0
+Calero,2017,May,0
+Caliligawan,2017,May,0
+Canalate,2017,May,0
+Caniogan,2017,May,0
+Catmon,2017,May,0
+Cofradia,2017,May,0
+Dakila,2017,May,0
+Guinhawa,2017,May,0
+Liang,2017,May,0
+Ligas,2017,May,0
+Longos,2017,May,1
+Look 1St,2017,May,0
+Look 2Nd,2017,May,0
+Lugam,2017,May,0
+Mabolo,2017,May,0
+Mambog,2017,May,0
+Masile,2017,May,0
+Matimbo,2017,May,0
+Mojon,2017,May,0
+Namayan,2017,May,0
+Niugan,2017,May,0
+Pamarawan,2017,May,0
+Panasahan,2017,May,0
+Pinagbakahan,2017,May,0
+San Agustin,2017,May,0
+San Gabriel,2017,May,0
+San Juan,2017,May,0
+San Pablo,2017,May,0
+San Vicente,2017,May,0
+Santiago,2017,May,0
+Santisima Trinidad,2017,May,0
+Santo Cristo,2017,May,0
+Santo Niño,2017,May,0
+Santo Rosario,2017,May,0
+Santor,2017,May,0
+Sumapang Bata,2017,May,0
+Sumapang Matanda,2017,May,0
+Taal,2017,May,0
+Tikay,2017,May,0
+Anilao,2017,June,0
+Atlag,2017,June,0
+Babatnin,2017,June,0
+Bagna,2017,June,0
+Bagong Bayan,2017,June,0
+Balayong,2017,June,0
+Balite,2017,June,0
+Bangkal,2017,June,1
+Barihan,2017,June,0
+Bulihan,2017,June,3
+Bungahan,2017,June,0
+Caingin,2017,June,0
+Calero,2017,June,0
+Caliligawan,2017,June,0
+Canalate,2017,June,0
+Caniogan,2017,June,0
+Catmon,2017,June,0
+Cofradia,2017,June,0
+Dakila,2017,June,3
+Guinhawa,2017,June,0
+Liang,2017,June,0
+Ligas,2017,June,0
+Longos,2017,June,0
+Look 1St,2017,June,0
+Look 2Nd,2017,June,0
+Lugam,2017,June,0
+Mabolo,2017,June,1
+Mambog,2017,June,0
+Masile,2017,June,0
+Matimbo,2017,June,1
+Mojon,2017,June,0
+Namayan,2017,June,0
+Niugan,2017,June,0
+Pamarawan,2017,June,0
+Panasahan,2017,June,0
+Pinagbakahan,2017,June,0
+San Agustin,2017,June,0
+San Gabriel,2017,June,0
+San Juan,2017,June,0
+San Pablo,2017,June,0
+San Vicente,2017,June,0
+Santiago,2017,June,0
+Santisima Trinidad,2017,June,0
+Santo Cristo,2017,June,0
+Santo Niño,2017,June,0
+Santo Rosario,2017,June,0
+Santor,2017,June,1
+Sumapang Bata,2017,June,0
+Sumapang Matanda,2017,June,2
+Taal,2017,June,0
+Tikay,2017,June,0
+Anilao,2017,July,0
+Atlag,2017,July,0
+Babatnin,2017,July,0
+Bagna,2017,July,0
+Bagong Bayan,2017,July,0
+Balayong,2017,July,0
+Balite,2017,July,2
+Bangkal,2017,July,0
+Barihan,2017,July,0
+Bulihan,2017,July,14
+Bungahan,2017,July,0
+Caingin,2017,July,0
+Calero,2017,July,0
+Caliligawan,2017,July,0
+Canalate,2017,July,1
+Caniogan,2017,July,1
+Catmon,2017,July,2
+Cofradia,2017,July,2
+Dakila,2017,July,3
+Guinhawa,2017,July,1
+Liang,2017,July,0
+Ligas,2017,July,0
+Longos,2017,July,3
+Look 1St,2017,July,2
+Look 2Nd,2017,July,1
+Lugam,2017,July,1
+Mabolo,2017,July,2
+Mambog,2017,July,0
+Masile,2017,July,0
+Matimbo,2017,July,5
+Mojon,2017,July,5
+Namayan,2017,July,0
+Niugan,2017,July,1
+Pamarawan,2017,July,0
+Panasahan,2017,July,0
+Pinagbakahan,2017,July,1
+San Agustin,2017,July,2
+San Gabriel,2017,July,2
+San Juan,2017,July,0
+San Pablo,2017,July,0
+San Vicente,2017,July,1
+Santiago,2017,July,0
+Santisima Trinidad,2017,July,2
+Santo Cristo,2017,July,0
+Santo Niño,2017,July,0
+Santo Rosario,2017,July,1
+Santor,2017,July,0
+Sumapang Bata,2017,July,0
+Sumapang Matanda,2017,July,1
+Taal,2017,July,1
+Tikay,2017,July,4
+Anilao,2017,August,4
+Atlag,2017,August,0
+Babatnin,2017,August,0
+Bagna,2017,August,1
+Bagong Bayan,2017,August,2
+Balayong,2017,August,1
+Balite,2017,August,2
+Bangkal,2017,August,2
+Barihan,2017,August,2
+Bulihan,2017,August,12
+Bungahan,2017,August,2
+Caingin,2017,August,3
+Calero,2017,August,0
+Caliligawan,2017,August,0
+Canalate,2017,August,3
+Caniogan,2017,August,3
+Catmon,2017,August,2
+Cofradia,2017,August,0
+Dakila,2017,August,2
+Guinhawa,2017,August,0
+Liang,2017,August,0
+Ligas,2017,August,3
+Longos,2017,August,10
+Look 1St,2017,August,4
+Look 2Nd,2017,August,0
+Lugam,2017,August,0
+Mabolo,2017,August,2
+Mambog,2017,August,1
+Masile,2017,August,0
+Matimbo,2017,August,5
+Mojon,2017,August,9
+Namayan,2017,August,0
+Niugan,2017,August,0
+Pamarawan,2017,August,0
+Panasahan,2017,August,0
+Pinagbakahan,2017,August,2
+San Agustin,2017,August,5
+San Gabriel,2017,August,0
+San Juan,2017,August,0
+San Pablo,2017,August,1
+San Vicente,2017,August,1
+Santiago,2017,August,0
+Santisima Trinidad,2017,August,2
+Santo Cristo,2017,August,1
+Santo Niño,2017,August,0
+Santo Rosario,2017,August,3
+Santor,2017,August,2
+Sumapang Bata,2017,August,0
+Sumapang Matanda,2017,August,3
+Taal,2017,August,1
+Tikay,2017,August,1
+Anilao,2017,September,1
+Atlag,2017,September,0
+Babatnin,2017,September,0
+Bagna,2017,September,1
+Bagong Bayan,2017,September,0
+Balayong,2017,September,0
+Balite,2017,September,0
+Bangkal,2017,September,1
+Barihan,2017,September,1
+Bulihan,2017,September,9
+Bungahan,2017,September,2
+Caingin,2017,September,1
+Calero,2017,September,0
+Caliligawan,2017,September,0
+Canalate,2017,September,2
+Caniogan,2017,September,2
+Catmon,2017,September,1
+Cofradia,2017,September,0
+Dakila,2017,September,0
+Guinhawa,2017,September,0
+Liang,2017,September,0
+Ligas,2017,September,2
+Longos,2017,September,5
+Look 1St,2017,September,0
+Look 2Nd,2017,September,0
+Lugam,2017,September,3
+Mabolo,2017,September,0
+Mambog,2017,September,1
+Masile,2017,September,0
+Matimbo,2017,September,1
+Mojon,2017,September,12
+Namayan,2017,September,0
+Niugan,2017,September,0
+Pamarawan,2017,September,0
+Panasahan,2017,September,0
+Pinagbakahan,2017,September,0
+San Agustin,2017,September,3
+San Gabriel,2017,September,3
+San Juan,2017,September,1
+San Pablo,2017,September,0
+San Vicente,2017,September,0
+Santiago,2017,September,0
+Santisima Trinidad,2017,September,3
+Santo Cristo,2017,September,2
+Santo Niño,2017,September,0
+Santo Rosario,2017,September,0
+Santor,2017,September,5
+Sumapang Bata,2017,September,3
+Sumapang Matanda,2017,September,2
+Taal,2017,September,0
+Tikay,2017,September,2
+Anilao,2017,October,0
+Atlag,2017,October,1
+Babatnin,2017,October,0
+Bagna,2017,October,1
+Bagong Bayan,2017,October,1
+Balayong,2017,October,0
+Balite,2017,October,2
+Bangkal,2017,October,0
+Barihan,2017,October,0
+Bulihan,2017,October,7
+Bungahan,2017,October,0
+Caingin,2017,October,2
+Calero,2017,October,1
+Caliligawan,2017,October,0
+Canalate,2017,October,1
+Caniogan,2017,October,1
+Catmon,2017,October,0
+Cofradia,2017,October,0
+Dakila,2017,October,0
+Guinhawa,2017,October,0
+Liang,2017,October,0
+Ligas,2017,October,0
+Longos,2017,October,6
+Look 1St,2017,October,0
+Look 2Nd,2017,October,0
+Lugam,2017,October,2
+Mabolo,2017,October,1
+Mambog,2017,October,0
+Masile,2017,October,1
+Matimbo,2017,October,1
+Mojon,2017,October,6
+Namayan,2017,October,1
+Niugan,2017,October,0
+Pamarawan,2017,October,0
+Panasahan,2017,October,0
+Pinagbakahan,2017,October,0
+San Agustin,2017,October,0
+San Gabriel,2017,October,0
+San Juan,2017,October,0
+San Pablo,2017,October,0
+San Vicente,2017,October,2
+Santiago,2017,October,0
+Santisima Trinidad,2017,October,1
+Santo Cristo,2017,October,0
+Santo Niño,2017,October,0
+Santo Rosario,2017,October,0
+Santor,2017,October,1
+Sumapang Bata,2017,October,2
+Sumapang Matanda,2017,October,3
+Taal,2017,October,0
+Tikay,2017,October,1
+Anilao,2017,November,1
+Atlag,2017,November,1
+Babatnin,2017,November,0
+Bagna,2017,November,0
+Bagong Bayan,2017,November,0
+Balayong,2017,November,0
+Balite,2017,November,0
+Bangkal,2017,November,5
+Barihan,2017,November,0
+Bulihan,2017,November,2
+Bungahan,2017,November,0
+Caingin,2017,November,1
+Calero,2017,November,0
+Caliligawan,2017,November,0
+Canalate,2017,November,0
+Caniogan,2017,November,1
+Catmon,2017,November,0
+Cofradia,2017,November,0
+Dakila,2017,November,1
+Guinhawa,2017,November,1
+Liang,2017,November,0
+Ligas,2017,November,2
+Longos,2017,November,1
+Look 1St,2017,November,1
+Look 2Nd,2017,November,1
+Lugam,2017,November,0
+Mabolo,2017,November,0
+Mambog,2017,November,0
+Masile,2017,November,0
+Matimbo,2017,November,0
+Mojon,2017,November,5
+Namayan,2017,November,0
+Niugan,2017,November,1
+Pamarawan,2017,November,0
+Panasahan,2017,November,0
+Pinagbakahan,2017,November,1
+San Agustin,2017,November,0
+San Gabriel,2017,November,0
+San Juan,2017,November,0
+San Pablo,2017,November,1
+San Vicente,2017,November,0
+Santiago,2017,November,0
+Santisima Trinidad,2017,November,1
+Santo Cristo,2017,November,0
+Santo Niño,2017,November,0
+Santo Rosario,2017,November,2
+Santor,2017,November,1
+Sumapang Bata,2017,November,2
+Sumapang Matanda,2017,November,1
+Taal,2017,November,0
+Tikay,2017,November,1
+Anilao,2017,December,1
+Atlag,2017,December,0
+Babatnin,2017,December,0
+Bagna,2017,December,0
+Bagong Bayan,2017,December,0
+Balayong,2017,December,1
+Balite,2017,December,0
+Bangkal,2017,December,8
+Barihan,2017,December,1
+Bulihan,2017,December,3
+Bungahan,2017,December,0
+Caingin,2017,December,1
+Calero,2017,December,0
+Caliligawan,2017,December,0
+Canalate,2017,December,1
+Caniogan,2017,December,3
+Catmon,2017,December,1
+Cofradia,2017,December,0
+Dakila,2017,December,0
+Guinhawa,2017,December,0
+Liang,2017,December,0
+Ligas,2017,December,0
+Longos,2017,December,3
+Look 1St,2017,December,0
+Look 2Nd,2017,December,0
+Lugam,2017,December,0
+Mabolo,2017,December,1
+Mambog,2017,December,0
+Masile,2017,December,0
+Matimbo,2017,December,0
+Mojon,2017,December,4
+Namayan,2017,December,0
+Niugan,2017,December,0
+Pamarawan,2017,December,0
+Panasahan,2017,December,0
+Pinagbakahan,2017,December,0
+San Agustin,2017,December,1
+San Gabriel,2017,December,0
+San Juan,2017,December,0
+San Pablo,2017,December,0
+San Vicente,2017,December,1
+Santiago,2017,December,0
+Santisima Trinidad,2017,December,1
+Santo Cristo,2017,December,0
+Santo Niño,2017,December,0
+Santo Rosario,2017,December,1
+Santor,2017,December,0
+Sumapang Bata,2017,December,0
+Sumapang Matanda,2017,December,1
+Taal,2017,December,0
+Tikay,2017,December,1
+Anilao,2018,January,0
+Atlag,2018,January,0
+Babatnin,2018,January,1
+Bagna,2018,January,0
+Bagong Bayan,2018,January,0
+Balayong,2018,January,0
+Balite,2018,January,0
+Bangkal,2018,January,2
+Barihan,2018,January,0
+Bulihan,2018,January,2
+Bungahan,2018,January,0
+Caingin,2018,January,0
+Calero,2018,January,0
+Caliligawan,2018,January,0
+Canalate,2018,January,0
+Caniogan,2018,January,1
+Catmon,2018,January,0
+Cofradia,2018,January,1
+Dakila,2018,January,1
+Guinhawa,2018,January,0
+Liang,2018,January,0
+Ligas,2018,January,1
+Longos,2018,January,3
+Look 1St,2018,January,0
+Look 2Nd,2018,January,1
+Lugam,2018,January,0
+Mabolo,2018,January,0
+Mambog,2018,January,3
+Masile,2018,January,0
+Matimbo,2018,January,1
+Mojon,2018,January,2
+Namayan,2018,January,0
+Niugan,2018,January,0
+Pamarawan,2018,January,0
+Panasahan,2018,January,2
+Pinagbakahan,2018,January,0
+San Agustin,2018,January,0
+San Gabriel,2018,January,0
+San Juan,2018,January,2
+San Pablo,2018,January,1
+San Vicente,2018,January,0
+Santiago,2018,January,0
+Santisima Trinidad,2018,January,0
+Santo Cristo,2018,January,0
+Santo Niño,2018,January,0
+Santo Rosario,2018,January,0
+Santor,2018,January,0
+Sumapang Bata,2018,January,0
+Sumapang Matanda,2018,January,2
+Taal,2018,January,0
+Tikay,2018,January,2
+Anilao,2018,February,0
+Atlag,2018,February,0
+Babatnin,2018,February,8
+Bagna,2018,February,0
+Bagong Bayan,2018,February,0
+Balayong,2018,February,1
+Balite,2018,February,0
+Bangkal,2018,February,1
+Barihan,2018,February,0
+Bulihan,2018,February,4
+Bungahan,2018,February,1
+Caingin,2018,February,2
+Calero,2018,February,0
+Caliligawan,2018,February,0
+Canalate,2018,February,2
+Caniogan,2018,February,0
+Catmon,2018,February,1
+Cofradia,2018,February,1
+Dakila,2018,February,1
+Guinhawa,2018,February,0
+Liang,2018,February,0
+Ligas,2018,February,0
+Longos,2018,February,1
+Look 1St,2018,February,0
+Look 2Nd,2018,February,0
+Lugam,2018,February,0
+Mabolo,2018,February,1
+Mambog,2018,February,1
+Masile,2018,February,1
+Matimbo,2018,February,1
+Mojon,2018,February,2
+Namayan,2018,February,0
+Niugan,2018,February,1
+Pamarawan,2018,February,0
+Panasahan,2018,February,2
+Pinagbakahan,2018,February,0
+San Agustin,2018,February,0
+San Gabriel,2018,February,0
+San Juan,2018,February,0
+San Pablo,2018,February,0
+San Vicente,2018,February,0
+Santiago,2018,February,0
+Santisima Trinidad,2018,February,0
+Santo Cristo,2018,February,0
+Santo Niño,2018,February,0
+Santo Rosario,2018,February,0
+Santor,2018,February,0
+Sumapang Bata,2018,February,0
+Sumapang Matanda,2018,February,0
+Taal,2018,February,0
+Tikay,2018,February,0
+Anilao,2018,March,0
+Atlag,2018,March,1
+Babatnin,2018,March,2
+Bagna,2018,March,0
+Bagong Bayan,2018,March,0
+Balayong,2018,March,0
+Balite,2018,March,0
+Bangkal,2018,March,0
+Barihan,2018,March,0
+Bulihan,2018,March,1
+Bungahan,2018,March,0
+Caingin,2018,March,0
+Calero,2018,March,0
+Caliligawan,2018,March,0
+Canalate,2018,March,0
+Caniogan,2018,March,0
+Catmon,2018,March,0
+Cofradia,2018,March,0
+Dakila,2018,March,0
+Guinhawa,2018,March,0
+Liang,2018,March,0
+Ligas,2018,March,0
+Longos,2018,March,1
+Look 1St,2018,March,0
+Look 2Nd,2018,March,0
+Lugam,2018,March,0
+Mabolo,2018,March,1
+Mambog,2018,March,0
+Masile,2018,March,0
+Matimbo,2018,March,1
+Mojon,2018,March,2
+Namayan,2018,March,0
+Niugan,2018,March,4
+Pamarawan,2018,March,0
+Panasahan,2018,March,2
+Pinagbakahan,2018,March,1
+San Agustin,2018,March,0
+San Gabriel,2018,March,0
+San Juan,2018,March,1
+San Pablo,2018,March,0
+San Vicente,2018,March,0
+Santiago,2018,March,0
+Santisima Trinidad,2018,March,0
+Santo Cristo,2018,March,0
+Santo Niño,2018,March,0
+Santo Rosario,2018,March,0
+Santor,2018,March,2
+Sumapang Bata,2018,March,0
+Sumapang Matanda,2018,March,0
+Taal,2018,March,0
+Tikay,2018,March,0
+Anilao,2018,April,0
+Atlag,2018,April,0
+Babatnin,2018,April,0
+Bagna,2018,April,0
+Bagong Bayan,2018,April,0
+Balayong,2018,April,0
+Balite,2018,April,0
+Bangkal,2018,April,0
+Barihan,2018,April,0
+Bulihan,2018,April,0
+Bungahan,2018,April,0
+Caingin,2018,April,0
+Calero,2018,April,0
+Caliligawan,2018,April,0
+Canalate,2018,April,0
+Caniogan,2018,April,0
+Catmon,2018,April,1
+Cofradia,2018,April,0
+Dakila,2018,April,0
+Guinhawa,2018,April,0
+Liang,2018,April,0
+Ligas,2018,April,0
+Longos,2018,April,1
+Look 1St,2018,April,0
+Look 2Nd,2018,April,0
+Lugam,2018,April,0
+Mabolo,2018,April,0
+Mambog,2018,April,0
+Masile,2018,April,0
+Matimbo,2018,April,0
+Mojon,2018,April,2
+Namayan,2018,April,0
+Niugan,2018,April,0
+Pamarawan,2018,April,0
+Panasahan,2018,April,0
+Pinagbakahan,2018,April,0
+San Agustin,2018,April,0
+San Gabriel,2018,April,0
+San Juan,2018,April,0
+San Pablo,2018,April,0
+San Vicente,2018,April,0
+Santiago,2018,April,0
+Santisima Trinidad,2018,April,0
+Santo Cristo,2018,April,0
+Santo Niño,2018,April,0
+Santo Rosario,2018,April,0
+Santor,2018,April,0
+Sumapang Bata,2018,April,0
+Sumapang Matanda,2018,April,0
+Taal,2018,April,0
+Tikay,2018,April,0
+Anilao,2018,May,0
+Atlag,2018,May,0
+Babatnin,2018,May,0
+Bagna,2018,May,0
+Bagong Bayan,2018,May,0
+Balayong,2018,May,0
+Balite,2018,May,0
+Bangkal,2018,May,0
+Barihan,2018,May,0
+Bulihan,2018,May,1
+Bungahan,2018,May,0
+Caingin,2018,May,0
+Calero,2018,May,0
+Caliligawan,2018,May,0
+Canalate,2018,May,0
+Caniogan,2018,May,0
+Catmon,2018,May,0
+Cofradia,2018,May,0
+Dakila,2018,May,0
+Guinhawa,2018,May,0
+Liang,2018,May,0
+Ligas,2018,May,0
+Longos,2018,May,0
+Look 1St,2018,May,0
+Look 2Nd,2018,May,1
+Lugam,2018,May,0
+Mabolo,2018,May,0
+Mambog,2018,May,0
+Masile,2018,May,0
+Matimbo,2018,May,0
+Mojon,2018,May,1
+Namayan,2018,May,0
+Niugan,2018,May,0
+Pamarawan,2018,May,0
+Panasahan,2018,May,0
+Pinagbakahan,2018,May,0
+San Agustin,2018,May,0
+San Gabriel,2018,May,0
+San Juan,2018,May,0
+San Pablo,2018,May,0
+San Vicente,2018,May,0
+Santiago,2018,May,0
+Santisima Trinidad,2018,May,0
+Santo Cristo,2018,May,0
+Santo Niño,2018,May,0
+Santo Rosario,2018,May,0
+Santor,2018,May,0
+Sumapang Bata,2018,May,0
+Sumapang Matanda,2018,May,0
+Taal,2018,May,0
+Tikay,2018,May,0
+Anilao,2018,June,0
+Atlag,2018,June,0
+Babatnin,2018,June,0
+Bagna,2018,June,0
+Bagong Bayan,2018,June,0
+Balayong,2018,June,0
+Balite,2018,June,0
+Bangkal,2018,June,0
+Barihan,2018,June,0
+Bulihan,2018,June,0
+Bungahan,2018,June,0
+Caingin,2018,June,0
+Calero,2018,June,0
+Caliligawan,2018,June,0
+Canalate,2018,June,0
+Caniogan,2018,June,0
+Catmon,2018,June,0
+Cofradia,2018,June,0
+Dakila,2018,June,0
+Guinhawa,2018,June,0
+Liang,2018,June,0
+Ligas,2018,June,0
+Longos,2018,June,0
+Look 1St,2018,June,0
+Look 2Nd,2018,June,0
+Lugam,2018,June,0
+Mabolo,2018,June,0
+Mambog,2018,June,0
+Masile,2018,June,0
+Matimbo,2018,June,0
+Mojon,2018,June,0
+Namayan,2018,June,0
+Niugan,2018,June,0
+Pamarawan,2018,June,0
+Panasahan,2018,June,0
+Pinagbakahan,2018,June,1
+San Agustin,2018,June,0
+San Gabriel,2018,June,0
+San Juan,2018,June,0
+San Pablo,2018,June,0
+San Vicente,2018,June,0
+Santiago,2018,June,0
+Santisima Trinidad,2018,June,0
+Santo Cristo,2018,June,0
+Santo Niño,2018,June,0
+Santo Rosario,2018,June,0
+Santor,2018,June,0
+Sumapang Bata,2018,June,0
+Sumapang Matanda,2018,June,0
+Taal,2018,June,0
+Tikay,2018,June,0
+Anilao,2018,July,0
+Atlag,2018,July,0
+Babatnin,2018,July,0
+Bagna,2018,July,0
+Bagong Bayan,2018,July,0
+Balayong,2018,July,1
+Balite,2018,July,0
+Bangkal,2018,July,0
+Barihan,2018,July,0
+Bulihan,2018,July,0
+Bungahan,2018,July,0
+Caingin,2018,July,0
+Calero,2018,July,0
+Caliligawan,2018,July,0
+Canalate,2018,July,0
+Caniogan,2018,July,1
+Catmon,2018,July,0
+Cofradia,2018,July,0
+Dakila,2018,July,0
+Guinhawa,2018,July,0
+Liang,2018,July,0
+Ligas,2018,July,0
+Longos,2018,July,4
+Look 1St,2018,July,0
+Look 2Nd,2018,July,0
+Lugam,2018,July,1
+Mabolo,2018,July,1
+Mambog,2018,July,0
+Masile,2018,July,0
+Matimbo,2018,July,0
+Mojon,2018,July,1
+Namayan,2018,July,0
+Niugan,2018,July,0
+Pamarawan,2018,July,0
+Panasahan,2018,July,0
+Pinagbakahan,2018,July,1
+San Agustin,2018,July,0
+San Gabriel,2018,July,0
+San Juan,2018,July,0
+San Pablo,2018,July,0
+San Vicente,2018,July,0
+Santiago,2018,July,0
+Santisima Trinidad,2018,July,0
+Santo Cristo,2018,July,1
+Santo Niño,2018,July,0
+Santo Rosario,2018,July,0
+Santor,2018,July,0
+Sumapang Bata,2018,July,0
+Sumapang Matanda,2018,July,0
+Taal,2018,July,0
+Tikay,2018,July,1
+Anilao,2018,August,0
+Atlag,2018,August,2
+Babatnin,2018,August,0
+Bagna,2018,August,0
+Bagong Bayan,2018,August,0
+Balayong,2018,August,0
+Balite,2018,August,0
+Bangkal,2018,August,0
+Barihan,2018,August,3
+Bulihan,2018,August,0
+Bungahan,2018,August,0
+Caingin,2018,August,0
+Calero,2018,August,0
+Caliligawan,2018,August,0
+Canalate,2018,August,0
+Caniogan,2018,August,0
+Catmon,2018,August,0
+Cofradia,2018,August,1
+Dakila,2018,August,0
+Guinhawa,2018,August,0
+Liang,2018,August,0
+Ligas,2018,August,0
+Longos,2018,August,0
+Look 1St,2018,August,2
+Look 2Nd,2018,August,1
+Lugam,2018,August,0
+Mabolo,2018,August,0
+Mambog,2018,August,0
+Masile,2018,August,0
+Matimbo,2018,August,0
+Mojon,2018,August,4
+Namayan,2018,August,0
+Niugan,2018,August,0
+Pamarawan,2018,August,0
+Panasahan,2018,August,0
+Pinagbakahan,2018,August,3
+San Agustin,2018,August,0
+San Gabriel,2018,August,1
+San Juan,2018,August,0
+San Pablo,2018,August,0
+San Vicente,2018,August,0
+Santiago,2018,August,0
+Santisima Trinidad,2018,August,1
+Santo Cristo,2018,August,1
+Santo Niño,2018,August,0
+Santo Rosario,2018,August,0
+Santor,2018,August,0
+Sumapang Bata,2018,August,0
+Sumapang Matanda,2018,August,1
+Taal,2018,August,0
+Tikay,2018,August,2
+Anilao,2018,September,0
+Atlag,2018,September,2
+Babatnin,2018,September,0
+Bagna,2018,September,0
+Bagong Bayan,2018,September,0
+Balayong,2018,September,0
+Balite,2018,September,0
+Bangkal,2018,September,0
+Barihan,2018,September,1
+Bulihan,2018,September,3
+Bungahan,2018,September,0
+Caingin,2018,September,1
+Calero,2018,September,0
+Caliligawan,2018,September,0
+Canalate,2018,September,0
+Caniogan,2018,September,1
+Catmon,2018,September,0
+Cofradia,2018,September,0
+Dakila,2018,September,0
+Guinhawa,2018,September,0
+Liang,2018,September,0
+Ligas,2018,September,0
+Longos,2018,September,2
+Look 1St,2018,September,0
+Look 2Nd,2018,September,0
+Lugam,2018,September,0
+Mabolo,2018,September,0
+Mambog,2018,September,0
+Masile,2018,September,0
+Matimbo,2018,September,6
+Mojon,2018,September,3
+Namayan,2018,September,0
+Niugan,2018,September,0
+Pamarawan,2018,September,0
+Panasahan,2018,September,0
+Pinagbakahan,2018,September,1
+San Agustin,2018,September,0
+San Gabriel,2018,September,0
+San Juan,2018,September,0
+San Pablo,2018,September,1
+San Vicente,2018,September,0
+Santiago,2018,September,0
+Santisima Trinidad,2018,September,0
+Santo Cristo,2018,September,0
+Santo Niño,2018,September,0
+Santo Rosario,2018,September,0
+Santor,2018,September,0
+Sumapang Bata,2018,September,0
+Sumapang Matanda,2018,September,0
+Taal,2018,September,0
+Tikay,2018,September,3
+Anilao,2018,October,0
+Atlag,2018,October,4
+Babatnin,2018,October,1
+Bagna,2018,October,0
+Bagong Bayan,2018,October,1
+Balayong,2018,October,0
+Balite,2018,October,1
+Bangkal,2018,October,3
+Barihan,2018,October,0
+Bulihan,2018,October,6
+Bungahan,2018,October,0
+Caingin,2018,October,2
+Calero,2018,October,0
+Caliligawan,2018,October,0
+Canalate,2018,October,1
+Caniogan,2018,October,1
+Catmon,2018,October,2
+Cofradia,2018,October,0
+Dakila,2018,October,0
+Guinhawa,2018,October,0
+Liang,2018,October,0
+Ligas,2018,October,1
+Longos,2018,October,3
+Look 1St,2018,October,3
+Look 2Nd,2018,October,0
+Lugam,2018,October,0
+Mabolo,2018,October,0
+Mambog,2018,October,0
+Masile,2018,October,0
+Matimbo,2018,October,3
+Mojon,2018,October,1
+Namayan,2018,October,0
+Niugan,2018,October,0
+Pamarawan,2018,October,1
+Panasahan,2018,October,1
+Pinagbakahan,2018,October,1
+San Agustin,2018,October,1
+San Gabriel,2018,October,1
+San Juan,2018,October,3
+San Pablo,2018,October,0
+San Vicente,2018,October,0
+Santiago,2018,October,0
+Santisima Trinidad,2018,October,1
+Santo Cristo,2018,October,1
+Santo Niño,2018,October,0
+Santo Rosario,2018,October,1
+Santor,2018,October,1
+Sumapang Bata,2018,October,0
+Sumapang Matanda,2018,October,2
+Taal,2018,October,0
+Tikay,2018,October,0
+Anilao,2018,November,0
+Atlag,2018,November,0
+Babatnin,2018,November,0
+Bagna,2018,November,1
+Bagong Bayan,2018,November,1
+Balayong,2018,November,0
+Balite,2018,November,1
+Bangkal,2018,November,0
+Barihan,2018,November,0
+Bulihan,2018,November,2
+Bungahan,2018,November,0
+Caingin,2018,November,0
+Calero,2018,November,0
+Caliligawan,2018,November,0
+Canalate,2018,November,1
+Caniogan,2018,November,2
+Catmon,2018,November,0
+Cofradia,2018,November,3
+Dakila,2018,November,0
+Guinhawa,2018,November,0
+Liang,2018,November,0
+Ligas,2018,November,0
+Longos,2018,November,1
+Look 1St,2018,November,1
+Look 2Nd,2018,November,0
+Lugam,2018,November,1
+Mabolo,2018,November,1
+Mambog,2018,November,0
+Masile,2018,November,0
+Matimbo,2018,November,2
+Mojon,2018,November,3
+Namayan,2018,November,0
+Niugan,2018,November,0
+Pamarawan,2018,November,0
+Panasahan,2018,November,0
+Pinagbakahan,2018,November,1
+San Agustin,2018,November,0
+San Gabriel,2018,November,0
+San Juan,2018,November,0
+San Pablo,2018,November,0
+San Vicente,2018,November,0
+Santiago,2018,November,0
+Santisima Trinidad,2018,November,0
+Santo Cristo,2018,November,0
+Santo Niño,2018,November,0
+Santo Rosario,2018,November,0
+Santor,2018,November,0
+Sumapang Bata,2018,November,1
+Sumapang Matanda,2018,November,1
+Taal,2018,November,0
+Tikay,2018,November,0
+Anilao,2018,December,0
+Atlag,2018,December,0
+Babatnin,2018,December,0
+Bagna,2018,December,0
+Bagong Bayan,2018,December,0
+Balayong,2018,December,0
+Balite,2018,December,0
+Bangkal,2018,December,1
+Barihan,2018,December,0
+Bulihan,2018,December,2
+Bungahan,2018,December,1
+Caingin,2018,December,0
+Calero,2018,December,0
+Caliligawan,2018,December,0
+Canalate,2018,December,1
+Caniogan,2018,December,0
+Catmon,2018,December,0
+Cofradia,2018,December,0
+Dakila,2018,December,1
+Guinhawa,2018,December,0
+Liang,2018,December,0
+Ligas,2018,December,0
+Longos,2018,December,1
+Look 1St,2018,December,1
+Look 2Nd,2018,December,1
+Lugam,2018,December,0
+Mabolo,2018,December,1
+Mambog,2018,December,0
+Masile,2018,December,0
+Matimbo,2018,December,0
+Mojon,2018,December,2
+Namayan,2018,December,0
+Niugan,2018,December,0
+Pamarawan,2018,December,0
+Panasahan,2018,December,0
+Pinagbakahan,2018,December,1
+San Agustin,2018,December,2
+San Gabriel,2018,December,1
+San Juan,2018,December,1
+San Pablo,2018,December,0
+San Vicente,2018,December,0
+Santiago,2018,December,0
+Santisima Trinidad,2018,December,0
+Santo Cristo,2018,December,0
+Santo Niño,2018,December,0
+Santo Rosario,2018,December,0
+Santor,2018,December,2
+Sumapang Bata,2018,December,0
+Sumapang Matanda,2018,December,1
+Taal,2018,December,0
+Tikay,2018,December,1
+Anilao,2019,January,0
+Atlag,2019,January,0
+Babatnin,2019,January,0
+Bagna,2019,January,2
+Bagong Bayan,2019,January,0
+Balayong,2019,January,0
+Balite,2019,January,0
+Bangkal,2019,January,1
+Barihan,2019,January,2
+Bulihan,2019,January,1
+Bungahan,2019,January,1
+Caingin,2019,January,1
+Calero,2019,January,0
+Caliligawan,2019,January,0
+Canalate,2019,January,0
+Caniogan,2019,January,1
+Catmon,2019,January,0
+Cofradia,2019,January,1
+Dakila,2019,January,2
+Guinhawa,2019,January,0
+Liang,2019,January,0
+Ligas,2019,January,0
+Longos,2019,January,3
+Look 1St,2019,January,1
+Look 2Nd,2019,January,3
+Lugam,2019,January,0
+Mabolo,2019,January,1
+Mambog,2019,January,1
+Masile,2019,January,0
+Matimbo,2019,January,2
+Mojon,2019,January,2
+Namayan,2019,January,0
+Niugan,2019,January,0
+Pamarawan,2019,January,0
+Panasahan,2019,January,1
+Pinagbakahan,2019,January,0
+San Agustin,2019,January,0
+San Gabriel,2019,January,0
+San Juan,2019,January,0
+San Pablo,2019,January,1
+San Vicente,2019,January,2
+Santiago,2019,January,0
+Santisima Trinidad,2019,January,1
+Santo Cristo,2019,January,2
+Santo Niño,2019,January,0
+Santo Rosario,2019,January,0
+Santor,2019,January,1
+Sumapang Bata,2019,January,1
+Sumapang Matanda,2019,January,3
+Taal,2019,January,0
+Tikay,2019,January,3
+Anilao,2019,February,0
+Atlag,2019,February,0
+Babatnin,2019,February,0
+Bagna,2019,February,0
+Bagong Bayan,2019,February,1
+Balayong,2019,February,1
+Balite,2019,February,0
+Bangkal,2019,February,0
+Barihan,2019,February,0
+Bulihan,2019,February,0
+Bungahan,2019,February,1
+Caingin,2019,February,1
+Calero,2019,February,0
+Caliligawan,2019,February,0
+Canalate,2019,February,0
+Caniogan,2019,February,0
+Catmon,2019,February,0
+Cofradia,2019,February,1
+Dakila,2019,February,0
+Guinhawa,2019,February,0
+Liang,2019,February,0
+Ligas,2019,February,1
+Longos,2019,February,1
+Look 1St,2019,February,0
+Look 2Nd,2019,February,0
+Lugam,2019,February,0
+Mabolo,2019,February,0
+Mambog,2019,February,0
+Masile,2019,February,2
+Matimbo,2019,February,1
+Mojon,2019,February,2
+Namayan,2019,February,0
+Niugan,2019,February,0
+Pamarawan,2019,February,0
+Panasahan,2019,February,2
+Pinagbakahan,2019,February,1
+San Agustin,2019,February,0
+San Gabriel,2019,February,0
+San Juan,2019,February,0
+San Pablo,2019,February,0
+San Vicente,2019,February,1
+Santiago,2019,February,1
+Santisima Trinidad,2019,February,0
+Santo Cristo,2019,February,1
+Santo Niño,2019,February,0
+Santo Rosario,2019,February,0
+Santor,2019,February,0
+Sumapang Bata,2019,February,0
+Sumapang Matanda,2019,February,4
+Taal,2019,February,0
+Tikay,2019,February,2
+Anilao,2019,March,2
+Atlag,2019,March,0
+Babatnin,2019,March,0
+Bagna,2019,March,0
+Bagong Bayan,2019,March,0
+Balayong,2019,March,0
+Balite,2019,March,1
+Bangkal,2019,March,1
+Barihan,2019,March,0
+Bulihan,2019,March,0
+Bungahan,2019,March,0
+Caingin,2019,March,1
+Calero,2019,March,0
+Caliligawan,2019,March,0
+Canalate,2019,March,1
+Caniogan,2019,March,0
+Catmon,2019,March,1
+Cofradia,2019,March,0
+Dakila,2019,March,0
+Guinhawa,2019,March,0
+Liang,2019,March,0
+Ligas,2019,March,0
+Longos,2019,March,0
+Look 1St,2019,March,1
+Look 2Nd,2019,March,0
+Lugam,2019,March,0
+Mabolo,2019,March,0
+Mambog,2019,March,0
+Masile,2019,March,2
+Matimbo,2019,March,0
+Mojon,2019,March,1
+Namayan,2019,March,0
+Niugan,2019,March,0
+Pamarawan,2019,March,0
+Panasahan,2019,March,0
+Pinagbakahan,2019,March,0
+San Agustin,2019,March,0
+San Gabriel,2019,March,0
+San Juan,2019,March,0
+San Pablo,2019,March,0
+San Vicente,2019,March,0
+Santiago,2019,March,0
+Santisima Trinidad,2019,March,0
+Santo Cristo,2019,March,0
+Santo Niño,2019,March,0
+Santo Rosario,2019,March,0
+Santor,2019,March,0
+Sumapang Bata,2019,March,0
+Sumapang Matanda,2019,March,8
+Taal,2019,March,0
+Tikay,2019,March,2
+Anilao,2019,April,0
+Atlag,2019,April,0
+Babatnin,2019,April,0
+Bagna,2019,April,0
+Bagong Bayan,2019,April,0
+Balayong,2019,April,0
+Balite,2019,April,0
+Bangkal,2019,April,0
+Barihan,2019,April,0
+Bulihan,2019,April,2
+Bungahan,2019,April,0
+Caingin,2019,April,0
+Calero,2019,April,0
+Caliligawan,2019,April,0
+Canalate,2019,April,0
+Caniogan,2019,April,0
+Catmon,2019,April,0
+Cofradia,2019,April,0
+Dakila,2019,April,0
+Guinhawa,2019,April,0
+Liang,2019,April,0
+Ligas,2019,April,0
+Longos,2019,April,1
+Look 1St,2019,April,0
+Look 2Nd,2019,April,0
+Lugam,2019,April,0
+Mabolo,2019,April,0
+Mambog,2019,April,0
+Masile,2019,April,0
+Matimbo,2019,April,0
+Mojon,2019,April,1
+Namayan,2019,April,0
+Niugan,2019,April,0
+Pamarawan,2019,April,0
+Panasahan,2019,April,0
+Pinagbakahan,2019,April,0
+San Agustin,2019,April,0
+San Gabriel,2019,April,0
+San Juan,2019,April,1
+San Pablo,2019,April,1
+San Vicente,2019,April,0
+Santiago,2019,April,0
+Santisima Trinidad,2019,April,0
+Santo Cristo,2019,April,0
+Santo Niño,2019,April,0
+Santo Rosario,2019,April,0
+Santor,2019,April,1
+Sumapang Bata,2019,April,0
+Sumapang Matanda,2019,April,4
+Taal,2019,April,0
+Tikay,2019,April,1
+Anilao,2019,May,0
+Atlag,2019,May,0
+Babatnin,2019,May,0
+Bagna,2019,May,0
+Bagong Bayan,2019,May,0
+Balayong,2019,May,0
+Balite,2019,May,0
+Bangkal,2019,May,0
+Barihan,2019,May,2
+Bulihan,2019,May,0
+Bungahan,2019,May,0
+Caingin,2019,May,0
+Calero,2019,May,0
+Caliligawan,2019,May,0
+Canalate,2019,May,0
+Caniogan,2019,May,0
+Catmon,2019,May,0
+Cofradia,2019,May,0
+Dakila,2019,May,1
+Guinhawa,2019,May,0
+Liang,2019,May,0
+Ligas,2019,May,0
+Longos,2019,May,1
+Look 1St,2019,May,1
+Look 2Nd,2019,May,0
+Lugam,2019,May,0
+Mabolo,2019,May,1
+Mambog,2019,May,0
+Masile,2019,May,1
+Matimbo,2019,May,0
+Mojon,2019,May,0
+Namayan,2019,May,0
+Niugan,2019,May,0
+Pamarawan,2019,May,0
+Panasahan,2019,May,0
+Pinagbakahan,2019,May,0
+San Agustin,2019,May,0
+San Gabriel,2019,May,0
+San Juan,2019,May,0
+San Pablo,2019,May,0
+San Vicente,2019,May,0
+Santiago,2019,May,0
+Santisima Trinidad,2019,May,0
+Santo Cristo,2019,May,0
+Santo Niño,2019,May,0
+Santo Rosario,2019,May,0
+Santor,2019,May,0
+Sumapang Bata,2019,May,0
+Sumapang Matanda,2019,May,0
+Taal,2019,May,0
+Tikay,2019,May,0
+Anilao,2019,June,0
+Atlag,2019,June,0
+Babatnin,2019,June,0
+Bagna,2019,June,0
+Bagong Bayan,2019,June,0
+Balayong,2019,June,0
+Balite,2019,June,0
+Bangkal,2019,June,0
+Barihan,2019,June,1
+Bulihan,2019,June,1
+Bungahan,2019,June,0
+Caingin,2019,June,0
+Calero,2019,June,0
+Caliligawan,2019,June,0
+Canalate,2019,June,0
+Caniogan,2019,June,0
+Catmon,2019,June,0
+Cofradia,2019,June,0
+Dakila,2019,June,0
+Guinhawa,2019,June,0
+Liang,2019,June,0
+Ligas,2019,June,0
+Longos,2019,June,0
+Look 1St,2019,June,1
+Look 2Nd,2019,June,0
+Lugam,2019,June,0
+Mabolo,2019,June,1
+Mambog,2019,June,0
+Masile,2019,June,0
+Matimbo,2019,June,0
+Mojon,2019,June,2
+Namayan,2019,June,0
+Niugan,2019,June,0
+Pamarawan,2019,June,0
+Panasahan,2019,June,0
+Pinagbakahan,2019,June,0
+San Agustin,2019,June,0
+San Gabriel,2019,June,0
+San Juan,2019,June,0
+San Pablo,2019,June,0
+San Vicente,2019,June,0
+Santiago,2019,June,0
+Santisima Trinidad,2019,June,0
+Santo Cristo,2019,June,0
+Santo Niño,2019,June,0
+Santo Rosario,2019,June,0
+Santor,2019,June,0
+Sumapang Bata,2019,June,0
+Sumapang Matanda,2019,June,0
+Taal,2019,June,0
+Tikay,2019,June,1
+Anilao,2019,July,0
+Atlag,2019,July,0
+Babatnin,2019,July,0
+Bagna,2019,July,0
+Bagong Bayan,2019,July,0
+Balayong,2019,July,1
+Balite,2019,July,1
+Bangkal,2019,July,0
+Barihan,2019,July,2
+Bulihan,2019,July,2
+Bungahan,2019,July,1
+Caingin,2019,July,0
+Calero,2019,July,0
+Caliligawan,2019,July,0
+Canalate,2019,July,1
+Caniogan,2019,July,0
+Catmon,2019,July,0
+Cofradia,2019,July,0
+Dakila,2019,July,0
+Guinhawa,2019,July,0
+Liang,2019,July,0
+Ligas,2019,July,0
+Longos,2019,July,2
+Look 1St,2019,July,0
+Look 2Nd,2019,July,0
+Lugam,2019,July,0
+Mabolo,2019,July,0
+Mambog,2019,July,0
+Masile,2019,July,0
+Matimbo,2019,July,1
+Mojon,2019,July,1
+Namayan,2019,July,0
+Niugan,2019,July,0
+Pamarawan,2019,July,0
+Panasahan,2019,July,0
+Pinagbakahan,2019,July,1
+San Agustin,2019,July,0
+San Gabriel,2019,July,0
+San Juan,2019,July,0
+San Pablo,2019,July,2
+San Vicente,2019,July,1
+Santiago,2019,July,0
+Santisima Trinidad,2019,July,1
+Santo Cristo,2019,July,0
+Santo Niño,2019,July,0
+Santo Rosario,2019,July,5
+Santor,2019,July,0
+Sumapang Bata,2019,July,0
+Sumapang Matanda,2019,July,0
+Taal,2019,July,0
+Tikay,2019,July,0
+Anilao,2019,August,0
+Atlag,2019,August,1
+Babatnin,2019,August,0
+Bagna,2019,August,2
+Bagong Bayan,2019,August,0
+Balayong,2019,August,0
+Balite,2019,August,1
+Bangkal,2019,August,4
+Barihan,2019,August,1
+Bulihan,2019,August,9
+Bungahan,2019,August,1
+Caingin,2019,August,0
+Calero,2019,August,0
+Caliligawan,2019,August,0
+Canalate,2019,August,7
+Caniogan,2019,August,2
+Catmon,2019,August,2
+Cofradia,2019,August,1
+Dakila,2019,August,2
+Guinhawa,2019,August,1
+Liang,2019,August,0
+Ligas,2019,August,2
+Longos,2019,August,8
+Look 1St,2019,August,6
+Look 2Nd,2019,August,0
+Lugam,2019,August,0
+Mabolo,2019,August,2
+Mambog,2019,August,0
+Masile,2019,August,0
+Matimbo,2019,August,3
+Mojon,2019,August,17
+Namayan,2019,August,0
+Niugan,2019,August,0
+Pamarawan,2019,August,1
+Panasahan,2019,August,0
+Pinagbakahan,2019,August,2
+San Agustin,2019,August,1
+San Gabriel,2019,August,2
+San Juan,2019,August,1
+San Pablo,2019,August,2
+San Vicente,2019,August,2
+Santiago,2019,August,0
+Santisima Trinidad,2019,August,2
+Santo Cristo,2019,August,3
+Santo Niño,2019,August,0
+Santo Rosario,2019,August,4
+Santor,2019,August,3
+Sumapang Bata,2019,August,0
+Sumapang Matanda,2019,August,3
+Taal,2019,August,0
+Tikay,2019,August,5
+Anilao,2019,September,0
+Atlag,2019,September,1
+Babatnin,2019,September,0
+Bagna,2019,September,4
+Bagong Bayan,2019,September,0
+Balayong,2019,September,0
+Balite,2019,September,1
+Bangkal,2019,September,0
+Barihan,2019,September,2
+Bulihan,2019,September,13
+Bungahan,2019,September,2
+Caingin,2019,September,4
+Calero,2019,September,0
+Caliligawan,2019,September,0
+Canalate,2019,September,3
+Caniogan,2019,September,4
+Catmon,2019,September,4
+Cofradia,2019,September,1
+Dakila,2019,September,4
+Guinhawa,2019,September,2
+Liang,2019,September,0
+Ligas,2019,September,6
+Longos,2019,September,12
+Look 1St,2019,September,1
+Look 2Nd,2019,September,1
+Lugam,2019,September,1
+Mabolo,2019,September,6
+Mambog,2019,September,0
+Masile,2019,September,0
+Matimbo,2019,September,4
+Mojon,2019,September,14
+Namayan,2019,September,0
+Niugan,2019,September,1
+Pamarawan,2019,September,0
+Panasahan,2019,September,1
+Pinagbakahan,2019,September,2
+San Agustin,2019,September,0
+San Gabriel,2019,September,0
+San Juan,2019,September,2
+San Pablo,2019,September,2
+San Vicente,2019,September,2
+Santiago,2019,September,1
+Santisima Trinidad,2019,September,1
+Santo Cristo,2019,September,2
+Santo Niño,2019,September,0
+Santo Rosario,2019,September,0
+Santor,2019,September,3
+Sumapang Bata,2019,September,0
+Sumapang Matanda,2019,September,10
+Taal,2019,September,0
+Tikay,2019,September,14
+Anilao,2019,October,0
+Atlag,2019,October,3
+Babatnin,2019,October,0
+Bagna,2019,October,2
+Bagong Bayan,2019,October,0
+Balayong,2019,October,0
+Balite,2019,October,0
+Bangkal,2019,October,3
+Barihan,2019,October,0
+Bulihan,2019,October,1
+Bungahan,2019,October,0
+Caingin,2019,October,1
+Calero,2019,October,0
+Caliligawan,2019,October,0
+Canalate,2019,October,1
+Caniogan,2019,October,0
+Catmon,2019,October,0
+Cofradia,2019,October,0
+Dakila,2019,October,1
+Guinhawa,2019,October,0
+Liang,2019,October,0
+Ligas,2019,October,3
+Longos,2019,October,8
+Look 1St,2019,October,0
+Look 2Nd,2019,October,1
+Lugam,2019,October,0
+Mabolo,2019,October,1
+Mambog,2019,October,0
+Masile,2019,October,1
+Matimbo,2019,October,0
+Mojon,2019,October,11
+Namayan,2019,October,0
+Niugan,2019,October,0
+Pamarawan,2019,October,0
+Panasahan,2019,October,0
+Pinagbakahan,2019,October,1
+San Agustin,2019,October,0
+San Gabriel,2019,October,0
+San Juan,2019,October,1
+San Pablo,2019,October,1
+San Vicente,2019,October,0
+Santiago,2019,October,0
+Santisima Trinidad,2019,October,0
+Santo Cristo,2019,October,0
+Santo Niño,2019,October,1
+Santo Rosario,2019,October,0
+Santor,2019,October,1
+Sumapang Bata,2019,October,0
+Sumapang Matanda,2019,October,4
+Taal,2019,October,0
+Tikay,2019,October,2
+Anilao,2019,November,0
+Atlag,2019,November,1
+Babatnin,2019,November,0
+Bagna,2019,November,0
+Bagong Bayan,2019,November,1
+Balayong,2019,November,0
+Balite,2019,November,0
+Bangkal,2019,November,0
+Barihan,2019,November,0
+Bulihan,2019,November,1
+Bungahan,2019,November,0
+Caingin,2019,November,0
+Calero,2019,November,0
+Caliligawan,2019,November,0
+Canalate,2019,November,1
+Caniogan,2019,November,1
+Catmon,2019,November,0
+Cofradia,2019,November,0
+Dakila,2019,November,0
+Guinhawa,2019,November,0
+Liang,2019,November,0
+Ligas,2019,November,1
+Longos,2019,November,3
+Look 1St,2019,November,1
+Look 2Nd,2019,November,0
+Lugam,2019,November,0
+Mabolo,2019,November,0
+Mambog,2019,November,0
+Masile,2019,November,0
+Matimbo,2019,November,1
+Mojon,2019,November,5
+Namayan,2019,November,0
+Niugan,2019,November,0
+Pamarawan,2019,November,0
+Panasahan,2019,November,1
+Pinagbakahan,2019,November,0
+San Agustin,2019,November,0
+San Gabriel,2019,November,0
+San Juan,2019,November,1
+San Pablo,2019,November,0
+San Vicente,2019,November,0
+Santiago,2019,November,0
+Santisima Trinidad,2019,November,0
+Santo Cristo,2019,November,0
+Santo Niño,2019,November,0
+Santo Rosario,2019,November,0
+Santor,2019,November,1
+Sumapang Bata,2019,November,0
+Sumapang Matanda,2019,November,2
+Taal,2019,November,0
+Tikay,2019,November,3
+Anilao,2019,December,0
+Atlag,2019,December,1
+Babatnin,2019,December,0
+Bagna,2019,December,1
+Bagong Bayan,2019,December,0
+Balayong,2019,December,1
+Balite,2019,December,0
+Bangkal,2019,December,0
+Barihan,2019,December,0
+Bulihan,2019,December,2
+Bungahan,2019,December,0
+Caingin,2019,December,1
+Calero,2019,December,0
+Caliligawan,2019,December,0
+Canalate,2019,December,0
+Caniogan,2019,December,0
+Catmon,2019,December,0
+Cofradia,2019,December,0
+Dakila,2019,December,0
+Guinhawa,2019,December,0
+Liang,2019,December,1
+Ligas,2019,December,1
+Longos,2019,December,1
+Look 1St,2019,December,0
+Look 2Nd,2019,December,1
+Lugam,2019,December,0
+Mabolo,2019,December,0
+Mambog,2019,December,0
+Masile,2019,December,0
+Matimbo,2019,December,1
+Mojon,2019,December,4
+Namayan,2019,December,0
+Niugan,2019,December,0
+Pamarawan,2019,December,0
+Panasahan,2019,December,0
+Pinagbakahan,2019,December,3
+San Agustin,2019,December,0
+San Gabriel,2019,December,1
+San Juan,2019,December,0
+San Pablo,2019,December,3
+San Vicente,2019,December,0
+Santiago,2019,December,0
+Santisima Trinidad,2019,December,0
+Santo Cristo,2019,December,0
+Santo Niño,2019,December,0
+Santo Rosario,2019,December,0
+Santor,2019,December,1
+Sumapang Bata,2019,December,0
+Sumapang Matanda,2019,December,0
+Taal,2019,December,0
+Tikay,2019,December,1
+Anilao,2020,January,0
+Atlag,2020,January,5
+Babatnin,2020,January,0
+Bagna,2020,January,0
+Bagong Bayan,2020,January,0
+Balayong,2020,January,2
+Balite,2020,January,0
+Bangkal,2020,January,1
+Barihan,2020,January,1
+Bulihan,2020,January,1
+Bungahan,2020,January,0
+Caingin,2020,January,1
+Calero,2020,January,0
+Caliligawan,2020,January,0
+Canalate,2020,January,1
+Caniogan,2020,January,3
+Catmon,2020,January,0
+Cofradia,2020,January,0
+Dakila,2020,January,1
+Guinhawa,2020,January,0
+Liang,2020,January,0
+Ligas,2020,January,0
+Longos,2020,January,2
+Look 1St,2020,January,0
+Look 2Nd,2020,January,2
+Lugam,2020,January,1
+Mabolo,2020,January,0
+Mambog,2020,January,0
+Masile,2020,January,0
+Matimbo,2020,January,1
+Mojon,2020,January,9
+Namayan,2020,January,0
+Niugan,2020,January,0
+Pamarawan,2020,January,0
+Panasahan,2020,January,2
+Pinagbakahan,2020,January,0
+San Agustin,2020,January,0
+San Gabriel,2020,January,0
+San Juan,2020,January,0
+San Pablo,2020,January,3
+San Vicente,2020,January,0
+Santiago,2020,January,0
+Santisima Trinidad,2020,January,0
+Santo Cristo,2020,January,1
+Santo Niño,2020,January,0
+Santo Rosario,2020,January,2
+Santor,2020,January,2
+Sumapang Bata,2020,January,0
+Sumapang Matanda,2020,January,0
+Taal,2020,January,0
+Tikay,2020,January,2
+Anilao,2020,February,1
+Atlag,2020,February,2
+Babatnin,2020,February,0
+Bagna,2020,February,0
+Bagong Bayan,2020,February,0
+Balayong,2020,February,1
+Balite,2020,February,0
+Bangkal,2020,February,1
+Barihan,2020,February,1
+Bulihan,2020,February,3
+Bungahan,2020,February,0
+Caingin,2020,February,0
+Calero,2020,February,0
+Caliligawan,2020,February,0
+Canalate,2020,February,0
+Caniogan,2020,February,1
+Catmon,2020,February,0
+Cofradia,2020,February,1
+Dakila,2020,February,1
+Guinhawa,2020,February,0
+Liang,2020,February,0
+Ligas,2020,February,0
+Longos,2020,February,2
+Look 1St,2020,February,0
+Look 2Nd,2020,February,0
+Lugam,2020,February,0
+Mabolo,2020,February,2
+Mambog,2020,February,1
+Masile,2020,February,0
+Matimbo,2020,February,1
+Mojon,2020,February,6
+Namayan,2020,February,0
+Niugan,2020,February,0
+Pamarawan,2020,February,0
+Panasahan,2020,February,0
+Pinagbakahan,2020,February,1
+San Agustin,2020,February,0
+San Gabriel,2020,February,0
+San Juan,2020,February,0
+San Pablo,2020,February,1
+San Vicente,2020,February,1
+Santiago,2020,February,0
+Santisima Trinidad,2020,February,0
+Santo Cristo,2020,February,0
+Santo Niño,2020,February,0
+Santo Rosario,2020,February,1
+Santor,2020,February,1
+Sumapang Bata,2020,February,0
+Sumapang Matanda,2020,February,1
+Taal,2020,February,0
+Tikay,2020,February,2
+Anilao,2020,March,0
+Atlag,2020,March,0
+Babatnin,2020,March,0
+Bagna,2020,March,0
+Bagong Bayan,2020,March,0
+Balayong,2020,March,0
+Balite,2020,March,0
+Bangkal,2020,March,0
+Barihan,2020,March,0
+Bulihan,2020,March,0
+Bungahan,2020,March,0
+Caingin,2020,March,1
+Calero,2020,March,0
+Caliligawan,2020,March,0
+Canalate,2020,March,0
+Caniogan,2020,March,0
+Catmon,2020,March,0
+Cofradia,2020,March,0
+Dakila,2020,March,0
+Guinhawa,2020,March,0
+Liang,2020,March,0
+Ligas,2020,March,0
+Longos,2020,March,4
+Look 1St,2020,March,0
+Look 2Nd,2020,March,0
+Lugam,2020,March,0
+Mabolo,2020,March,0
+Mambog,2020,March,0
+Masile,2020,March,0
+Matimbo,2020,March,1
+Mojon,2020,March,2
+Namayan,2020,March,0
+Niugan,2020,March,0
+Pamarawan,2020,March,0
+Panasahan,2020,March,0
+Pinagbakahan,2020,March,0
+San Agustin,2020,March,0
+San Gabriel,2020,March,0
+San Juan,2020,March,0
+San Pablo,2020,March,0
+San Vicente,2020,March,0
+Santiago,2020,March,0
+Santisima Trinidad,2020,March,0
+Santo Cristo,2020,March,0
+Santo Niño,2020,March,0
+Santo Rosario,2020,March,0
+Santor,2020,March,0
+Sumapang Bata,2020,March,0
+Sumapang Matanda,2020,March,0
+Taal,2020,March,0
+Tikay,2020,March,1
+Anilao,2020,April,0
+Atlag,2020,April,0
+Babatnin,2020,April,0
+Bagna,2020,April,0
+Bagong Bayan,2020,April,0
+Balayong,2020,April,0
+Balite,2020,April,0
+Bangkal,2020,April,0
+Barihan,2020,April,0
+Bulihan,2020,April,0
+Bungahan,2020,April,0
+Caingin,2020,April,0
+Calero,2020,April,0
+Caliligawan,2020,April,0
+Canalate,2020,April,0
+Caniogan,2020,April,0
+Catmon,2020,April,0
+Cofradia,2020,April,0
+Dakila,2020,April,0
+Guinhawa,2020,April,0
+Liang,2020,April,0
+Ligas,2020,April,0
+Longos,2020,April,0
+Look 1St,2020,April,0
+Look 2Nd,2020,April,0
+Lugam,2020,April,0
+Mabolo,2020,April,0
+Mambog,2020,April,0
+Masile,2020,April,0
+Matimbo,2020,April,0
+Mojon,2020,April,0
+Namayan,2020,April,0
+Niugan,2020,April,0
+Pamarawan,2020,April,0
+Panasahan,2020,April,0
+Pinagbakahan,2020,April,0
+San Agustin,2020,April,0
+San Gabriel,2020,April,0
+San Juan,2020,April,0
+San Pablo,2020,April,0
+San Vicente,2020,April,0
+Santiago,2020,April,0
+Santisima Trinidad,2020,April,0
+Santo Cristo,2020,April,0
+Santo Niño,2020,April,0
+Santo Rosario,2020,April,0
+Santor,2020,April,0
+Sumapang Bata,2020,April,0
+Sumapang Matanda,2020,April,0
+Taal,2020,April,0
+Tikay,2020,April,0
+Anilao,2020,May,0
+Atlag,2020,May,0
+Babatnin,2020,May,0
+Bagna,2020,May,0
+Bagong Bayan,2020,May,0
+Balayong,2020,May,0
+Balite,2020,May,0
+Bangkal,2020,May,0
+Barihan,2020,May,0
+Bulihan,2020,May,0
+Bungahan,2020,May,0
+Caingin,2020,May,0
+Calero,2020,May,0
+Caliligawan,2020,May,0
+Canalate,2020,May,0
+Caniogan,2020,May,0
+Catmon,2020,May,0
+Cofradia,2020,May,0
+Dakila,2020,May,0
+Guinhawa,2020,May,0
+Liang,2020,May,0
+Ligas,2020,May,0
+Longos,2020,May,0
+Look 1St,2020,May,0
+Look 2Nd,2020,May,0
+Lugam,2020,May,0
+Mabolo,2020,May,0
+Mambog,2020,May,0
+Masile,2020,May,0
+Matimbo,2020,May,0
+Mojon,2020,May,0
+Namayan,2020,May,0
+Niugan,2020,May,0
+Pamarawan,2020,May,0
+Panasahan,2020,May,0
+Pinagbakahan,2020,May,0
+San Agustin,2020,May,0
+San Gabriel,2020,May,0
+San Juan,2020,May,0
+San Pablo,2020,May,0
+San Vicente,2020,May,0
+Santiago,2020,May,0
+Santisima Trinidad,2020,May,0
+Santo Cristo,2020,May,0
+Santo Niño,2020,May,0
+Santo Rosario,2020,May,0
+Santor,2020,May,0
+Sumapang Bata,2020,May,0
+Sumapang Matanda,2020,May,0
+Taal,2020,May,0
+Tikay,2020,May,0
+Anilao,2020,June,0
+Atlag,2020,June,0
+Babatnin,2020,June,0
+Bagna,2020,June,0
+Bagong Bayan,2020,June,0
+Balayong,2020,June,0
+Balite,2020,June,0
+Bangkal,2020,June,0
+Barihan,2020,June,0
+Bulihan,2020,June,0
+Bungahan,2020,June,0
+Caingin,2020,June,0
+Calero,2020,June,0
+Caliligawan,2020,June,0
+Canalate,2020,June,0
+Caniogan,2020,June,0
+Catmon,2020,June,0
+Cofradia,2020,June,0
+Dakila,2020,June,0
+Guinhawa,2020,June,0
+Liang,2020,June,0
+Ligas,2020,June,0
+Longos,2020,June,0
+Look 1St,2020,June,0
+Look 2Nd,2020,June,0
+Lugam,2020,June,0
+Mabolo,2020,June,1
+Mambog,2020,June,0
+Masile,2020,June,0
+Matimbo,2020,June,0
+Mojon,2020,June,0
+Namayan,2020,June,0
+Niugan,2020,June,0
+Pamarawan,2020,June,0
+Panasahan,2020,June,0
+Pinagbakahan,2020,June,0
+San Agustin,2020,June,0
+San Gabriel,2020,June,0
+San Juan,2020,June,0
+San Pablo,2020,June,0
+San Vicente,2020,June,0
+Santiago,2020,June,0
+Santisima Trinidad,2020,June,0
+Santo Cristo,2020,June,1
+Santo Niño,2020,June,0
+Santo Rosario,2020,June,0
+Santor,2020,June,0
+Sumapang Bata,2020,June,0
+Sumapang Matanda,2020,June,0
+Taal,2020,June,0
+Tikay,2020,June,0
+Anilao,2020,July,0
+Atlag,2020,July,0
+Babatnin,2020,July,0
+Bagna,2020,July,0
+Bagong Bayan,2020,July,0
+Balayong,2020,July,0
+Balite,2020,July,0
+Bangkal,2020,July,0
+Barihan,2020,July,0
+Bulihan,2020,July,0
+Bungahan,2020,July,0
+Caingin,2020,July,0
+Calero,2020,July,0
+Caliligawan,2020,July,0
+Canalate,2020,July,0
+Caniogan,2020,July,0
+Catmon,2020,July,0
+Cofradia,2020,July,1
+Dakila,2020,July,1
+Guinhawa,2020,July,0
+Liang,2020,July,0
+Ligas,2020,July,0
+Longos,2020,July,1
+Look 1St,2020,July,0
+Look 2Nd,2020,July,0
+Lugam,2020,July,0
+Mabolo,2020,July,0
+Mambog,2020,July,0
+Masile,2020,July,0
+Matimbo,2020,July,0
+Mojon,2020,July,0
+Namayan,2020,July,0
+Niugan,2020,July,0
+Pamarawan,2020,July,0
+Panasahan,2020,July,0
+Pinagbakahan,2020,July,0
+San Agustin,2020,July,0
+San Gabriel,2020,July,0
+San Juan,2020,July,0
+San Pablo,2020,July,0
+San Vicente,2020,July,0
+Santiago,2020,July,0
+Santisima Trinidad,2020,July,0
+Santo Cristo,2020,July,0
+Santo Niño,2020,July,0
+Santo Rosario,2020,July,0
+Santor,2020,July,0
+Sumapang Bata,2020,July,0
+Sumapang Matanda,2020,July,0
+Taal,2020,July,0
+Tikay,2020,July,0
+Anilao,2020,August,0
+Atlag,2020,August,0
+Babatnin,2020,August,0
+Bagna,2020,August,0
+Bagong Bayan,2020,August,0
+Balayong,2020,August,0
+Balite,2020,August,0
+Bangkal,2020,August,0
+Barihan,2020,August,0
+Bulihan,2020,August,1
+Bungahan,2020,August,0
+Caingin,2020,August,1
+Calero,2020,August,0
+Caliligawan,2020,August,0
+Canalate,2020,August,0
+Caniogan,2020,August,0
+Catmon,2020,August,1
+Cofradia,2020,August,0
+Dakila,2020,August,0
+Guinhawa,2020,August,0
+Liang,2020,August,0
+Ligas,2020,August,0
+Longos,2020,August,2
+Look 1St,2020,August,0
+Look 2Nd,2020,August,0
+Lugam,2020,August,1
+Mabolo,2020,August,2
+Mambog,2020,August,0
+Masile,2020,August,0
+Matimbo,2020,August,0
+Mojon,2020,August,0
+Namayan,2020,August,0
+Niugan,2020,August,0
+Pamarawan,2020,August,0
+Panasahan,2020,August,0
+Pinagbakahan,2020,August,0
+San Agustin,2020,August,0
+San Gabriel,2020,August,0
+San Juan,2020,August,0
+San Pablo,2020,August,0
+San Vicente,2020,August,0
+Santiago,2020,August,0
+Santisima Trinidad,2020,August,1
+Santo Cristo,2020,August,0
+Santo Niño,2020,August,0
+Santo Rosario,2020,August,0
+Santor,2020,August,0
+Sumapang Bata,2020,August,0
+Sumapang Matanda,2020,August,1
+Taal,2020,August,0
+Tikay,2020,August,0
+Anilao,2020,September,0
+Atlag,2020,September,1
+Babatnin,2020,September,0
+Bagna,2020,September,0
+Bagong Bayan,2020,September,0
+Balayong,2020,September,0
+Balite,2020,September,0
+Bangkal,2020,September,0
+Barihan,2020,September,0
+Bulihan,2020,September,0
+Bungahan,2020,September,0
+Caingin,2020,September,0
+Calero,2020,September,0
+Caliligawan,2020,September,0
+Canalate,2020,September,0
+Caniogan,2020,September,0
+Catmon,2020,September,0
+Cofradia,2020,September,0
+Dakila,2020,September,0
+Guinhawa,2020,September,1
+Liang,2020,September,0
+Ligas,2020,September,1
+Longos,2020,September,5
+Look 1St,2020,September,0
+Look 2Nd,2020,September,0
+Lugam,2020,September,0
+Mabolo,2020,September,0
+Mambog,2020,September,2
+Masile,2020,September,0
+Matimbo,2020,September,1
+Mojon,2020,September,2
+Namayan,2020,September,0
+Niugan,2020,September,0
+Pamarawan,2020,September,0
+Panasahan,2020,September,0
+Pinagbakahan,2020,September,0
+San Agustin,2020,September,0
+San Gabriel,2020,September,0
+San Juan,2020,September,0
+San Pablo,2020,September,0
+San Vicente,2020,September,0
+Santiago,2020,September,0
+Santisima Trinidad,2020,September,2
+Santo Cristo,2020,September,1
+Santo Niño,2020,September,0
+Santo Rosario,2020,September,1
+Santor,2020,September,0
+Sumapang Bata,2020,September,0
+Sumapang Matanda,2020,September,2
+Taal,2020,September,0
+Tikay,2020,September,0
+Anilao,2020,October,0
+Atlag,2020,October,0
+Babatnin,2020,October,0
+Bagna,2020,October,2
+Bagong Bayan,2020,October,0
+Balayong,2020,October,0
+Balite,2020,October,0
+Bangkal,2020,October,0
+Barihan,2020,October,0
+Bulihan,2020,October,4
+Bungahan,2020,October,0
+Caingin,2020,October,1
+Calero,2020,October,0
+Caliligawan,2020,October,0
+Canalate,2020,October,0
+Caniogan,2020,October,0
+Catmon,2020,October,0
+Cofradia,2020,October,1
+Dakila,2020,October,1
+Guinhawa,2020,October,0
+Liang,2020,October,0
+Ligas,2020,October,0
+Longos,2020,October,1
+Look 1St,2020,October,1
+Look 2Nd,2020,October,0
+Lugam,2020,October,0
+Mabolo,2020,October,0
+Mambog,2020,October,0
+Masile,2020,October,0
+Matimbo,2020,October,1
+Mojon,2020,October,0
+Namayan,2020,October,0
+Niugan,2020,October,0
+Pamarawan,2020,October,0
+Panasahan,2020,October,0
+Pinagbakahan,2020,October,0
+San Agustin,2020,October,0
+San Gabriel,2020,October,0
+San Juan,2020,October,0
+San Pablo,2020,October,0
+San Vicente,2020,October,1
+Santiago,2020,October,0
+Santisima Trinidad,2020,October,0
+Santo Cristo,2020,October,0
+Santo Niño,2020,October,0
+Santo Rosario,2020,October,0
+Santor,2020,October,1
+Sumapang Bata,2020,October,0
+Sumapang Matanda,2020,October,0
+Taal,2020,October,0
+Tikay,2020,October,1
+Anilao,2020,November,0
+Atlag,2020,November,0
+Babatnin,2020,November,0
+Bagna,2020,November,0
+Bagong Bayan,2020,November,0
+Balayong,2020,November,0
+Balite,2020,November,0
+Bangkal,2020,November,0
+Barihan,2020,November,0
+Bulihan,2020,November,0
+Bungahan,2020,November,0
+Caingin,2020,November,0
+Calero,2020,November,0
+Caliligawan,2020,November,0
+Canalate,2020,November,0
+Caniogan,2020,November,0
+Catmon,2020,November,0
+Cofradia,2020,November,0
+Dakila,2020,November,2
+Guinhawa,2020,November,0
+Liang,2020,November,0
+Ligas,2020,November,1
+Longos,2020,November,2
+Look 1St,2020,November,0
+Look 2Nd,2020,November,0
+Lugam,2020,November,0
+Mabolo,2020,November,1
+Mambog,2020,November,0
+Masile,2020,November,0
+Matimbo,2020,November,1
+Mojon,2020,November,1
+Namayan,2020,November,0
+Niugan,2020,November,0
+Pamarawan,2020,November,0
+Panasahan,2020,November,1
+Pinagbakahan,2020,November,0
+San Agustin,2020,November,1
+San Gabriel,2020,November,0
+San Juan,2020,November,0
+San Pablo,2020,November,0
+San Vicente,2020,November,0
+Santiago,2020,November,0
+Santisima Trinidad,2020,November,0
+Santo Cristo,2020,November,0
+Santo Niño,2020,November,0
+Santo Rosario,2020,November,1
+Santor,2020,November,0
+Sumapang Bata,2020,November,0
+Sumapang Matanda,2020,November,0
+Taal,2020,November,0
+Tikay,2020,November,0
+Anilao,2020,December,0
+Atlag,2020,December,0
+Babatnin,2020,December,0
+Bagna,2020,December,0
+Bagong Bayan,2020,December,1
+Balayong,2020,December,0
+Balite,2020,December,0
+Bangkal,2020,December,0
+Barihan,2020,December,0
+Bulihan,2020,December,4
+Bungahan,2020,December,0
+Caingin,2020,December,0
+Calero,2020,December,0
+Caliligawan,2020,December,0
+Canalate,2020,December,2
+Caniogan,2020,December,0
+Catmon,2020,December,0
+Cofradia,2020,December,1
+Dakila,2020,December,0
+Guinhawa,2020,December,0
+Liang,2020,December,0
+Ligas,2020,December,0
+Longos,2020,December,2
+Look 1St,2020,December,1
+Look 2Nd,2020,December,0
+Lugam,2020,December,0
+Mabolo,2020,December,1
+Mambog,2020,December,0
+Masile,2020,December,0
+Matimbo,2020,December,0
+Mojon,2020,December,2
+Namayan,2020,December,0
+Niugan,2020,December,0
+Pamarawan,2020,December,0
+Panasahan,2020,December,2
+Pinagbakahan,2020,December,0
+San Agustin,2020,December,0
+San Gabriel,2020,December,0
+San Juan,2020,December,0
+San Pablo,2020,December,3
+San Vicente,2020,December,1
+Santiago,2020,December,0
+Santisima Trinidad,2020,December,2
+Santo Cristo,2020,December,0
+Santo Niño,2020,December,0
+Santo Rosario,2020,December,0
+Santor,2020,December,1
+Sumapang Bata,2020,December,0
+Sumapang Matanda,2020,December,0
+Taal,2020,December,1
+Tikay,2020,December,2
+Anilao,2021,January,0
+Atlag,2021,January,1
+Babatnin,2021,January,0
+Bagna,2021,January,2
+Bagong Bayan,2021,January,2
+Balayong,2021,January,1
+Balite,2021,January,0
+Bangkal,2021,January,0
+Barihan,2021,January,0
+Bulihan,2021,January,6
+Bungahan,2021,January,0
+Caingin,2021,January,0
+Calero,2021,January,0
+Caliligawan,2021,January,0
+Canalate,2021,January,0
+Caniogan,2021,January,1
+Catmon,2021,January,2
+Cofradia,2021,January,0
+Dakila,2021,January,2
+Guinhawa,2021,January,0
+Liang,2021,January,0
+Ligas,2021,January,3
+Longos,2021,January,5
+Look 1St,2021,January,4
+Look 2Nd,2021,January,2
+Lugam,2021,January,0
+Mabolo,2021,January,0
+Mambog,2021,January,0
+Masile,2021,January,1
+Matimbo,2021,January,0
+Mojon,2021,January,3
+Namayan,2021,January,0
+Niugan,2021,January,0
+Pamarawan,2021,January,0
+Panasahan,2021,January,0
+Pinagbakahan,2021,January,1
+San Agustin,2021,January,0
+San Gabriel,2021,January,0
+San Juan,2021,January,0
+San Pablo,2021,January,2
+San Vicente,2021,January,0
+Santiago,2021,January,0
+Santisima Trinidad,2021,January,0
+Santo Cristo,2021,January,0
+Santo Niño,2021,January,0
+Santo Rosario,2021,January,0
+Santor,2021,January,1
+Sumapang Bata,2021,January,0
+Sumapang Matanda,2021,January,0
+Taal,2021,January,1
+Tikay,2021,January,2
+Anilao,2021,February,0
+Atlag,2021,February,2
+Babatnin,2021,February,0
+Bagna,2021,February,1
+Bagong Bayan,2021,February,1
+Balayong,2021,February,0
+Balite,2021,February,2
+Bangkal,2021,February,0
+Barihan,2021,February,0
+Bulihan,2021,February,5
+Bungahan,2021,February,1
+Caingin,2021,February,2
+Calero,2021,February,0
+Caliligawan,2021,February,0
+Canalate,2021,February,1
+Caniogan,2021,February,1
+Catmon,2021,February,0
+Cofradia,2021,February,3
+Dakila,2021,February,0
+Guinhawa,2021,February,0
+Liang,2021,February,2
+Ligas,2021,February,4
+Longos,2021,February,5
+Look 1St,2021,February,3
+Look 2Nd,2021,February,1
+Lugam,2021,February,0
+Mabolo,2021,February,0
+Mambog,2021,February,0
+Masile,2021,February,0
+Matimbo,2021,February,0
+Mojon,2021,February,5
+Namayan,2021,February,0
+Niugan,2021,February,0
+Pamarawan,2021,February,0
+Panasahan,2021,February,1
+Pinagbakahan,2021,February,4
+San Agustin,2021,February,0
+San Gabriel,2021,February,0
+San Juan,2021,February,0
+San Pablo,2021,February,2
+San Vicente,2021,February,1
+Santiago,2021,February,0
+Santisima Trinidad,2021,February,2
+Santo Cristo,2021,February,0
+Santo Niño,2021,February,0
+Santo Rosario,2021,February,0
+Santor,2021,February,0
+Sumapang Bata,2021,February,0
+Sumapang Matanda,2021,February,2
+Taal,2021,February,1
+Tikay,2021,February,5
+Anilao,2021,March,0
+Atlag,2021,March,1
+Babatnin,2021,March,0
+Bagna,2021,March,0
+Bagong Bayan,2021,March,0
+Balayong,2021,March,1
+Balite,2021,March,0
+Bangkal,2021,March,0
+Barihan,2021,March,0
+Bulihan,2021,March,3
+Bungahan,2021,March,0
+Caingin,2021,March,0
+Calero,2021,March,0
+Caliligawan,2021,March,0
+Canalate,2021,March,1
+Caniogan,2021,March,0
+Catmon,2021,March,1
+Cofradia,2021,March,1
+Dakila,2021,March,0
+Guinhawa,2021,March,1
+Liang,2021,March,1
+Ligas,2021,March,1
+Longos,2021,March,4
+Look 1St,2021,March,2
+Look 2Nd,2021,March,1
+Lugam,2021,March,0
+Mabolo,2021,March,2
+Mambog,2021,March,0
+Masile,2021,March,0
+Matimbo,2021,March,0
+Mojon,2021,March,1
+Namayan,2021,March,0
+Niugan,2021,March,0
+Pamarawan,2021,March,0
+Panasahan,2021,March,1
+Pinagbakahan,2021,March,1
+San Agustin,2021,March,0
+San Gabriel,2021,March,0
+San Juan,2021,March,0
+San Pablo,2021,March,0
+San Vicente,2021,March,0
+Santiago,2021,March,0
+Santisima Trinidad,2021,March,1
+Santo Cristo,2021,March,1
+Santo Niño,2021,March,0
+Santo Rosario,2021,March,1
+Santor,2021,March,3
+Sumapang Bata,2021,March,0
+Sumapang Matanda,2021,March,1
+Taal,2021,March,0
+Tikay,2021,March,4
+Anilao,2021,April,0
+Atlag,2021,April,0
+Babatnin,2021,April,0
+Bagna,2021,April,1
+Bagong Bayan,2021,April,0
+Balayong,2021,April,0
+Balite,2021,April,0
+Bangkal,2021,April,0
+Barihan,2021,April,0
+Bulihan,2021,April,2
+Bungahan,2021,April,0
+Caingin,2021,April,0
+Calero,2021,April,0
+Caliligawan,2021,April,0
+Canalate,2021,April,0
+Caniogan,2021,April,0
+Catmon,2021,April,0
+Cofradia,2021,April,0
+Dakila,2021,April,1
+Guinhawa,2021,April,0
+Liang,2021,April,0
+Ligas,2021,April,0
+Longos,2021,April,1
+Look 1St,2021,April,1
+Look 2Nd,2021,April,0
+Lugam,2021,April,0
+Mabolo,2021,April,0
+Mambog,2021,April,0
+Masile,2021,April,1
+Matimbo,2021,April,1
+Mojon,2021,April,0
+Namayan,2021,April,0
+Niugan,2021,April,0
+Pamarawan,2021,April,0
+Panasahan,2021,April,1
+Pinagbakahan,2021,April,1
+San Agustin,2021,April,0
+San Gabriel,2021,April,0
+San Juan,2021,April,0
+San Pablo,2021,April,0
+San Vicente,2021,April,0
+Santiago,2021,April,0
+Santisima Trinidad,2021,April,0
+Santo Cristo,2021,April,0
+Santo Niño,2021,April,0
+Santo Rosario,2021,April,0
+Santor,2021,April,0
+Sumapang Bata,2021,April,0
+Sumapang Matanda,2021,April,1
+Taal,2021,April,0
+Tikay,2021,April,0
+Anilao,2021,May,0
+Atlag,2021,May,1
+Babatnin,2021,May,0
+Bagna,2021,May,0
+Bagong Bayan,2021,May,0
+Balayong,2021,May,0
+Balite,2021,May,1
+Bangkal,2021,May,0
+Barihan,2021,May,0
+Bulihan,2021,May,1
+Bungahan,2021,May,0
+Caingin,2021,May,0
+Calero,2021,May,0
+Caliligawan,2021,May,0
+Canalate,2021,May,0
+Caniogan,2021,May,0
+Catmon,2021,May,0
+Cofradia,2021,May,0
+Dakila,2021,May,0
+Guinhawa,2021,May,0
+Liang,2021,May,0
+Ligas,2021,May,0
+Longos,2021,May,3
+Look 1St,2021,May,0
+Look 2Nd,2021,May,0
+Lugam,2021,May,0
+Mabolo,2021,May,0
+Mambog,2021,May,0
+Masile,2021,May,0
+Matimbo,2021,May,0
+Mojon,2021,May,1
+Namayan,2021,May,0
+Niugan,2021,May,0
+Pamarawan,2021,May,0
+Panasahan,2021,May,0
+Pinagbakahan,2021,May,0
+San Agustin,2021,May,0
+San Gabriel,2021,May,0
+San Juan,2021,May,0
+San Pablo,2021,May,0
+San Vicente,2021,May,0
+Santiago,2021,May,0
+Santisima Trinidad,2021,May,3
+Santo Cristo,2021,May,0
+Santo Niño,2021,May,0
+Santo Rosario,2021,May,2
+Santor,2021,May,1
+Sumapang Bata,2021,May,0
+Sumapang Matanda,2021,May,0
+Taal,2021,May,1
+Tikay,2021,May,0
+Anilao,2021,June,0
+Atlag,2021,June,0
+Babatnin,2021,June,0
+Bagna,2021,June,0
+Bagong Bayan,2021,June,0
+Balayong,2021,June,0
+Balite,2021,June,0
+Bangkal,2021,June,0
+Barihan,2021,June,0
+Bulihan,2021,June,0
+Bungahan,2021,June,0
+Caingin,2021,June,0
+Calero,2021,June,0
+Caliligawan,2021,June,0
+Canalate,2021,June,0
+Caniogan,2021,June,0
+Catmon,2021,June,0
+Cofradia,2021,June,0
+Dakila,2021,June,0
+Guinhawa,2021,June,0
+Liang,2021,June,0
+Ligas,2021,June,0
+Longos,2021,June,0
+Look 1St,2021,June,0
+Look 2Nd,2021,June,0
+Lugam,2021,June,0
+Mabolo,2021,June,0
+Mambog,2021,June,0
+Masile,2021,June,0
+Matimbo,2021,June,0
+Mojon,2021,June,0
+Namayan,2021,June,0
+Niugan,2021,June,0
+Pamarawan,2021,June,0
+Panasahan,2021,June,0
+Pinagbakahan,2021,June,0
+San Agustin,2021,June,0
+San Gabriel,2021,June,0
+San Juan,2021,June,0
+San Pablo,2021,June,1
+San Vicente,2021,June,0
+Santiago,2021,June,0
+Santisima Trinidad,2021,June,0
+Santo Cristo,2021,June,0
+Santo Niño,2021,June,0
+Santo Rosario,2021,June,1
+Santor,2021,June,1
+Sumapang Bata,2021,June,0
+Sumapang Matanda,2021,June,0
+Taal,2021,June,1
+Tikay,2021,June,0
+Anilao,2021,July,0
+Atlag,2021,July,0
+Babatnin,2021,July,0
+Bagna,2021,July,0
+Bagong Bayan,2021,July,0
+Balayong,2021,July,0
+Balite,2021,July,0
+Bangkal,2021,July,0
+Barihan,2021,July,1
+Bulihan,2021,July,0
+Bungahan,2021,July,0
+Caingin,2021,July,1
+Calero,2021,July,0
+Caliligawan,2021,July,0
+Canalate,2021,July,0
+Caniogan,2021,July,1
+Catmon,2021,July,0
+Cofradia,2021,July,0
+Dakila,2021,July,0
+Guinhawa,2021,July,0
+Liang,2021,July,0
+Ligas,2021,July,0
+Longos,2021,July,2
+Look 1St,2021,July,1
+Look 2Nd,2021,July,0
+Lugam,2021,July,1
+Mabolo,2021,July,1
+Mambog,2021,July,0
+Masile,2021,July,0
+Matimbo,2021,July,1
+Mojon,2021,July,1
+Namayan,2021,July,0
+Niugan,2021,July,0
+Pamarawan,2021,July,0
+Panasahan,2021,July,0
+Pinagbakahan,2021,July,0
+San Agustin,2021,July,0
+San Gabriel,2021,July,0
+San Juan,2021,July,0
+San Pablo,2021,July,1
+San Vicente,2021,July,0
+Santiago,2021,July,0
+Santisima Trinidad,2021,July,0
+Santo Cristo,2021,July,0
+Santo Niño,2021,July,0
+Santo Rosario,2021,July,3
+Santor,2021,July,1
+Sumapang Bata,2021,July,0
+Sumapang Matanda,2021,July,1
+Taal,2021,July,0
+Tikay,2021,July,0
+Anilao,2021,August,0
+Atlag,2021,August,0
+Babatnin,2021,August,0
+Bagna,2021,August,0
+Bagong Bayan,2021,August,1
+Balayong,2021,August,0
+Balite,2021,August,1
+Bangkal,2021,August,2
+Barihan,2021,August,1
+Bulihan,2021,August,0
+Bungahan,2021,August,0
+Caingin,2021,August,0
+Calero,2021,August,0
+Caliligawan,2021,August,0
+Canalate,2021,August,0
+Caniogan,2021,August,0
+Catmon,2021,August,1
+Cofradia,2021,August,1
+Dakila,2021,August,0
+Guinhawa,2021,August,0
+Liang,2021,August,0
+Ligas,2021,August,1
+Longos,2021,August,1
+Look 1St,2021,August,1
+Look 2Nd,2021,August,0
+Lugam,2021,August,0
+Mabolo,2021,August,0
+Mambog,2021,August,0
+Masile,2021,August,0
+Matimbo,2021,August,0
+Mojon,2021,August,1
+Namayan,2021,August,0
+Niugan,2021,August,0
+Pamarawan,2021,August,0
+Panasahan,2021,August,0
+Pinagbakahan,2021,August,0
+San Agustin,2021,August,0
+San Gabriel,2021,August,0
+San Juan,2021,August,0
+San Pablo,2021,August,0
+San Vicente,2021,August,0
+Santiago,2021,August,0
+Santisima Trinidad,2021,August,0
+Santo Cristo,2021,August,1
+Santo Niño,2021,August,0
+Santo Rosario,2021,August,1
+Santor,2021,August,0
+Sumapang Bata,2021,August,0
+Sumapang Matanda,2021,August,1
+Taal,2021,August,0
+Tikay,2021,August,1
+Anilao,2021,September,0
+Atlag,2021,September,0
+Babatnin,2021,September,0
+Bagna,2021,September,0
+Bagong Bayan,2021,September,0
+Balayong,2021,September,0
+Balite,2021,September,1
+Bangkal,2021,September,0
+Barihan,2021,September,0
+Bulihan,2021,September,0
+Bungahan,2021,September,0
+Caingin,2021,September,0
+Calero,2021,September,0
+Caliligawan,2021,September,0
+Canalate,2021,September,0
+Caniogan,2021,September,0
+Catmon,2021,September,0
+Cofradia,2021,September,0
+Dakila,2021,September,0
+Guinhawa,2021,September,0
+Liang,2021,September,1
+Ligas,2021,September,0
+Longos,2021,September,0
+Look 1St,2021,September,0
+Look 2Nd,2021,September,0
+Lugam,2021,September,0
+Mabolo,2021,September,0
+Mambog,2021,September,0
+Masile,2021,September,0
+Matimbo,2021,September,0
+Mojon,2021,September,0
+Namayan,2021,September,0
+Niugan,2021,September,0
+Pamarawan,2021,September,1
+Panasahan,2021,September,0
+Pinagbakahan,2021,September,0
+San Agustin,2021,September,0
+San Gabriel,2021,September,0
+San Juan,2021,September,0
+San Pablo,2021,September,0
+San Vicente,2021,September,0
+Santiago,2021,September,0
+Santisima Trinidad,2021,September,0
+Santo Cristo,2021,September,0
+Santo Niño,2021,September,0
+Santo Rosario,2021,September,0
+Santor,2021,September,0
+Sumapang Bata,2021,September,0
+Sumapang Matanda,2021,September,0
+Taal,2021,September,0
+Tikay,2021,September,0
+Anilao,2021,October,0
+Atlag,2021,October,0
+Babatnin,2021,October,0
+Bagna,2021,October,0
+Bagong Bayan,2021,October,1
+Balayong,2021,October,0
+Balite,2021,October,0
+Bangkal,2021,October,0
+Barihan,2021,October,1
+Bulihan,2021,October,2
+Bungahan,2021,October,0
+Caingin,2021,October,1
+Calero,2021,October,0
+Caliligawan,2021,October,0
+Canalate,2021,October,1
+Caniogan,2021,October,0
+Catmon,2021,October,0
+Cofradia,2021,October,0
+Dakila,2021,October,0
+Guinhawa,2021,October,0
+Liang,2021,October,0
+Ligas,2021,October,0
+Longos,2021,October,0
+Look 1St,2021,October,2
+Look 2Nd,2021,October,0
+Lugam,2021,October,1
+Mabolo,2021,October,0
+Mambog,2021,October,0
+Masile,2021,October,0
+Matimbo,2021,October,1
+Mojon,2021,October,1
+Namayan,2021,October,0
+Niugan,2021,October,0
+Pamarawan,2021,October,0
+Panasahan,2021,October,1
+Pinagbakahan,2021,October,2
+San Agustin,2021,October,0
+San Gabriel,2021,October,0
+San Juan,2021,October,0
+San Pablo,2021,October,0
+San Vicente,2021,October,0
+Santiago,2021,October,0
+Santisima Trinidad,2021,October,0
+Santo Cristo,2021,October,0
+Santo Niño,2021,October,1
+Santo Rosario,2021,October,0
+Santor,2021,October,0
+Sumapang Bata,2021,October,0
+Sumapang Matanda,2021,October,2
+Taal,2021,October,0
+Tikay,2021,October,0
+Anilao,2021,November,0
+Atlag,2021,November,0
+Babatnin,2021,November,1
+Bagna,2021,November,2
+Bagong Bayan,2021,November,0
+Balayong,2021,November,0
+Balite,2021,November,0
+Bangkal,2021,November,0
+Barihan,2021,November,1
+Bulihan,2021,November,0
+Bungahan,2021,November,0
+Caingin,2021,November,2
+Calero,2021,November,0
+Caliligawan,2021,November,0
+Canalate,2021,November,0
+Caniogan,2021,November,0
+Catmon,2021,November,0
+Cofradia,2021,November,0
+Dakila,2021,November,0
+Guinhawa,2021,November,0
+Liang,2021,November,0
+Ligas,2021,November,0
+Longos,2021,November,2
+Look 1St,2021,November,1
+Look 2Nd,2021,November,1
+Lugam,2021,November,1
+Mabolo,2021,November,0
+Mambog,2021,November,1
+Masile,2021,November,0
+Matimbo,2021,November,0
+Mojon,2021,November,3
+Namayan,2021,November,0
+Niugan,2021,November,0
+Pamarawan,2021,November,4
+Panasahan,2021,November,1
+Pinagbakahan,2021,November,0
+San Agustin,2021,November,0
+San Gabriel,2021,November,0
+San Juan,2021,November,0
+San Pablo,2021,November,0
+San Vicente,2021,November,0
+Santiago,2021,November,0
+Santisima Trinidad,2021,November,1
+Santo Cristo,2021,November,1
+Santo Niño,2021,November,0
+Santo Rosario,2021,November,0
+Santor,2021,November,1
+Sumapang Bata,2021,November,0
+Sumapang Matanda,2021,November,0
+Taal,2021,November,0
+Tikay,2021,November,0
+Anilao,2021,December,0
+Atlag,2021,December,1
+Babatnin,2021,December,0
+Bagna,2021,December,0
+Bagong Bayan,2021,December,0
+Balayong,2021,December,0
+Balite,2021,December,0
+Bangkal,2021,December,3
+Barihan,2021,December,1
+Bulihan,2021,December,0
+Bungahan,2021,December,1
+Caingin,2021,December,0
+Calero,2021,December,0
+Caliligawan,2021,December,0
+Canalate,2021,December,0
+Caniogan,2021,December,0
+Catmon,2021,December,0
+Cofradia,2021,December,0
+Dakila,2021,December,0
+Guinhawa,2021,December,0
+Liang,2021,December,0
+Ligas,2021,December,0
+Longos,2021,December,1
+Look 1St,2021,December,7
+Look 2Nd,2021,December,0
+Lugam,2021,December,1
+Mabolo,2021,December,0
+Mambog,2021,December,0
+Masile,2021,December,0
+Matimbo,2021,December,1
+Mojon,2021,December,1
+Namayan,2021,December,0
+Niugan,2021,December,0
+Pamarawan,2021,December,6
+Panasahan,2021,December,1
+Pinagbakahan,2021,December,0
+San Agustin,2021,December,0
+San Gabriel,2021,December,0
+San Juan,2021,December,0
+San Pablo,2021,December,0
+San Vicente,2021,December,0
+Santiago,2021,December,0
+Santisima Trinidad,2021,December,0
+Santo Cristo,2021,December,0
+Santo Niño,2021,December,0
+Santo Rosario,2021,December,0
+Santor,2021,December,0
+Sumapang Bata,2021,December,0
+Sumapang Matanda,2021,December,0
+Taal,2021,December,0
+Tikay,2021,December,0
+Anilao,2022,January,0
+Atlag,2022,January,0
+Babatnin,2022,January,0
+Bagna,2022,January,0
+Bagong Bayan,2022,January,0
+Balayong,2022,January,0
+Balite,2022,January,0
+Bangkal,2022,January,0
+Barihan,2022,January,1
+Bulihan,2022,January,0
+Bungahan,2022,January,0
+Caingin,2022,January,0
+Calero,2022,January,0
+Caliligawan,2022,January,0
+Canalate,2022,January,0
+Caniogan,2022,January,0
+Catmon,2022,January,0
+Cofradia,2022,January,1
+Dakila,2022,January,1
+Guinhawa,2022,January,0
+Liang,2022,January,0
+Ligas,2022,January,0
+Longos,2022,January,2
+Look 1St,2022,January,1
+Look 2Nd,2022,January,1
+Lugam,2022,January,2
+Mabolo,2022,January,0
+Mambog,2022,January,0
+Masile,2022,January,0
+Matimbo,2022,January,0
+Mojon,2022,January,0
+Namayan,2022,January,0
+Niugan,2022,January,0
+Pamarawan,2022,January,0
+Panasahan,2022,January,1
+Pinagbakahan,2022,January,1
+San Agustin,2022,January,0
+San Gabriel,2022,January,0
+San Juan,2022,January,1
+San Pablo,2022,January,0
+San Vicente,2022,January,0
+Santiago,2022,January,0
+Santisima Trinidad,2022,January,0
+Santo Cristo,2022,January,0
+Santo Niño,2022,January,0
+Santo Rosario,2022,January,0
+Santor,2022,January,0
+Sumapang Bata,2022,January,0
+Sumapang Matanda,2022,January,0
+Taal,2022,January,0
+Tikay,2022,January,0
+Anilao,2022,February,0
+Atlag,2022,February,0
+Babatnin,2022,February,0
+Bagna,2022,February,0
+Bagong Bayan,2022,February,0
+Balayong,2022,February,0
+Balite,2022,February,0
+Bangkal,2022,February,0
+Barihan,2022,February,2
+Bulihan,2022,February,0
+Bungahan,2022,February,3
+Caingin,2022,February,1
+Calero,2022,February,0
+Caliligawan,2022,February,0
+Canalate,2022,February,0
+Caniogan,2022,February,0
+Catmon,2022,February,0
+Cofradia,2022,February,0
+Dakila,2022,February,0
+Guinhawa,2022,February,0
+Liang,2022,February,0
+Ligas,2022,February,0
+Longos,2022,February,0
+Look 1St,2022,February,1
+Look 2Nd,2022,February,0
+Lugam,2022,February,2
+Mabolo,2022,February,0
+Mambog,2022,February,0
+Masile,2022,February,0
+Matimbo,2022,February,0
+Mojon,2022,February,2
+Namayan,2022,February,0
+Niugan,2022,February,0
+Pamarawan,2022,February,0
+Panasahan,2022,February,0
+Pinagbakahan,2022,February,0
+San Agustin,2022,February,0
+San Gabriel,2022,February,0
+San Juan,2022,February,1
+San Pablo,2022,February,0
+San Vicente,2022,February,0
+Santiago,2022,February,0
+Santisima Trinidad,2022,February,0
+Santo Cristo,2022,February,0
+Santo Niño,2022,February,0
+Santo Rosario,2022,February,1
+Santor,2022,February,1
+Sumapang Bata,2022,February,2
+Sumapang Matanda,2022,February,3
+Taal,2022,February,0
+Tikay,2022,February,1
+Anilao,2022,March,0
+Atlag,2022,March,0
+Babatnin,2022,March,0
+Bagna,2022,March,0
+Bagong Bayan,2022,March,1
+Balayong,2022,March,0
+Balite,2022,March,0
+Bangkal,2022,March,0
+Barihan,2022,March,5
+Bulihan,2022,March,0
+Bungahan,2022,March,0
+Caingin,2022,March,0
+Calero,2022,March,0
+Caliligawan,2022,March,0
+Canalate,2022,March,0
+Caniogan,2022,March,0
+Catmon,2022,March,0
+Cofradia,2022,March,0
+Dakila,2022,March,0
+Guinhawa,2022,March,0
+Liang,2022,March,0
+Ligas,2022,March,0
+Longos,2022,March,1
+Look 1St,2022,March,1
+Look 2Nd,2022,March,0
+Lugam,2022,March,0
+Mabolo,2022,March,0
+Mambog,2022,March,0
+Masile,2022,March,0
+Matimbo,2022,March,0
+Mojon,2022,March,3
+Namayan,2022,March,0
+Niugan,2022,March,0
+Pamarawan,2022,March,0
+Panasahan,2022,March,2
+Pinagbakahan,2022,March,0
+San Agustin,2022,March,0
+San Gabriel,2022,March,0
+San Juan,2022,March,2
+San Pablo,2022,March,0
+San Vicente,2022,March,0
+Santiago,2022,March,0
+Santisima Trinidad,2022,March,0
+Santo Cristo,2022,March,0
+Santo Niño,2022,March,0
+Santo Rosario,2022,March,1
+Santor,2022,March,0
+Sumapang Bata,2022,March,1
+Sumapang Matanda,2022,March,1
+Taal,2022,March,0
+Tikay,2022,March,0
+Anilao,2022,April,0
+Atlag,2022,April,0
+Babatnin,2022,April,0
+Bagna,2022,April,0
+Bagong Bayan,2022,April,0
+Balayong,2022,April,1
+Balite,2022,April,0
+Bangkal,2022,April,0
+Barihan,2022,April,1
+Bulihan,2022,April,1
+Bungahan,2022,April,0
+Caingin,2022,April,0
+Calero,2022,April,0
+Caliligawan,2022,April,0
+Canalate,2022,April,0
+Caniogan,2022,April,0
+Catmon,2022,April,0
+Cofradia,2022,April,0
+Dakila,2022,April,0
+Guinhawa,2022,April,0
+Liang,2022,April,0
+Ligas,2022,April,0
+Longos,2022,April,1
+Look 1St,2022,April,0
+Look 2Nd,2022,April,0
+Lugam,2022,April,0
+Mabolo,2022,April,0
+Mambog,2022,April,0
+Masile,2022,April,0
+Matimbo,2022,April,0
+Mojon,2022,April,3
+Namayan,2022,April,0
+Niugan,2022,April,0
+Pamarawan,2022,April,0
+Panasahan,2022,April,0
+Pinagbakahan,2022,April,0
+San Agustin,2022,April,0
+San Gabriel,2022,April,0
+San Juan,2022,April,0
+San Pablo,2022,April,0
+San Vicente,2022,April,0
+Santiago,2022,April,0
+Santisima Trinidad,2022,April,0
+Santo Cristo,2022,April,1
+Santo Niño,2022,April,1
+Santo Rosario,2022,April,0
+Santor,2022,April,1
+Sumapang Bata,2022,April,1
+Sumapang Matanda,2022,April,0
+Taal,2022,April,0
+Tikay,2022,April,1
+Anilao,2022,May,0
+Atlag,2022,May,0
+Babatnin,2022,May,0
+Bagna,2022,May,0
+Bagong Bayan,2022,May,1
+Balayong,2022,May,0
+Balite,2022,May,0
+Bangkal,2022,May,0
+Barihan,2022,May,1
+Bulihan,2022,May,2
+Bungahan,2022,May,1
+Caingin,2022,May,0
+Calero,2022,May,0
+Caliligawan,2022,May,0
+Canalate,2022,May,0
+Caniogan,2022,May,0
+Catmon,2022,May,0
+Cofradia,2022,May,0
+Dakila,2022,May,0
+Guinhawa,2022,May,0
+Liang,2022,May,0
+Ligas,2022,May,0
+Longos,2022,May,1
+Look 1St,2022,May,0
+Look 2Nd,2022,May,0
+Lugam,2022,May,0
+Mabolo,2022,May,1
+Mambog,2022,May,0
+Masile,2022,May,0
+Matimbo,2022,May,0
+Mojon,2022,May,3
+Namayan,2022,May,0
+Niugan,2022,May,0
+Pamarawan,2022,May,1
+Panasahan,2022,May,1
+Pinagbakahan,2022,May,2
+San Agustin,2022,May,0
+San Gabriel,2022,May,0
+San Juan,2022,May,1
+San Pablo,2022,May,1
+San Vicente,2022,May,0
+Santiago,2022,May,0
+Santisima Trinidad,2022,May,0
+Santo Cristo,2022,May,0
+Santo Niño,2022,May,0
+Santo Rosario,2022,May,3
+Santor,2022,May,0
+Sumapang Bata,2022,May,0
+Sumapang Matanda,2022,May,1
+Taal,2022,May,0
+Tikay,2022,May,0
+Anilao,2022,June,0
+Atlag,2022,June,0
+Babatnin,2022,June,1
+Bagna,2022,June,1
+Bagong Bayan,2022,June,4
+Balayong,2022,June,0
+Balite,2022,June,9
+Bangkal,2022,June,2
+Barihan,2022,June,3
+Bulihan,2022,June,13
+Bungahan,2022,June,1
+Caingin,2022,June,1
+Calero,2022,June,0
+Caliligawan,2022,June,0
+Canalate,2022,June,0
+Caniogan,2022,June,5
+Catmon,2022,June,0
+Cofradia,2022,June,4
+Dakila,2022,June,3
+Guinhawa,2022,June,1
+Liang,2022,June,1
+Ligas,2022,June,6
+Longos,2022,June,7
+Look 1St,2022,June,5
+Look 2Nd,2022,June,0
+Lugam,2022,June,0
+Mabolo,2022,June,2
+Mambog,2022,June,0
+Masile,2022,June,0
+Matimbo,2022,June,1
+Mojon,2022,June,10
+Namayan,2022,June,0
+Niugan,2022,June,0
+Pamarawan,2022,June,1
+Panasahan,2022,June,2
+Pinagbakahan,2022,June,0
+San Agustin,2022,June,0
+San Gabriel,2022,June,0
+San Juan,2022,June,0
+San Pablo,2022,June,2
+San Vicente,2022,June,2
+Santiago,2022,June,1
+Santisima Trinidad,2022,June,1
+Santo Cristo,2022,June,7
+Santo Niño,2022,June,1
+Santo Rosario,2022,June,6
+Santor,2022,June,1
+Sumapang Bata,2022,June,1
+Sumapang Matanda,2022,June,3
+Taal,2022,June,0
+Tikay,2022,June,7
+Anilao,2022,July,0
+Atlag,2022,July,3
+Babatnin,2022,July,0
+Bagna,2022,July,1
+Bagong Bayan,2022,July,1
+Balayong,2022,July,3
+Balite,2022,July,1
+Bangkal,2022,July,0
+Barihan,2022,July,2
+Bulihan,2022,July,11
+Bungahan,2022,July,0
+Caingin,2022,July,0
+Calero,2022,July,0
+Caliligawan,2022,July,0
+Canalate,2022,July,2
+Caniogan,2022,July,4
+Catmon,2022,July,0
+Cofradia,2022,July,3
+Dakila,2022,July,7
+Guinhawa,2022,July,3
+Liang,2022,July,0
+Ligas,2022,July,9
+Longos,2022,July,14
+Look 1St,2022,July,9
+Look 2Nd,2022,July,0
+Lugam,2022,July,1
+Mabolo,2022,July,5
+Mambog,2022,July,0
+Masile,2022,July,0
+Matimbo,2022,July,4
+Mojon,2022,July,23
+Namayan,2022,July,0
+Niugan,2022,July,0
+Pamarawan,2022,July,1
+Panasahan,2022,July,1
+Pinagbakahan,2022,July,6
+San Agustin,2022,July,1
+San Gabriel,2022,July,0
+San Juan,2022,July,6
+San Pablo,2022,July,3
+San Vicente,2022,July,1
+Santiago,2022,July,3
+Santisima Trinidad,2022,July,0
+Santo Cristo,2022,July,4
+Santo Niño,2022,July,0
+Santo Rosario,2022,July,4
+Santor,2022,July,4
+Sumapang Bata,2022,July,3
+Sumapang Matanda,2022,July,4
+Taal,2022,July,0
+Tikay,2022,July,11
+Anilao,2022,August,3
+Atlag,2022,August,3
+Babatnin,2022,August,0
+Bagna,2022,August,1
+Bagong Bayan,2022,August,0
+Balayong,2022,August,0
+Balite,2022,August,2
+Bangkal,2022,August,1
+Barihan,2022,August,2
+Bulihan,2022,August,25
+Bungahan,2022,August,2
+Caingin,2022,August,4
+Calero,2022,August,0
+Caliligawan,2022,August,0
+Canalate,2022,August,1
+Caniogan,2022,August,15
+Catmon,2022,August,3
+Cofradia,2022,August,1
+Dakila,2022,August,3
+Guinhawa,2022,August,7
+Liang,2022,August,0
+Ligas,2022,August,5
+Longos,2022,August,15
+Look 1St,2022,August,9
+Look 2Nd,2022,August,2
+Lugam,2022,August,4
+Mabolo,2022,August,9
+Mambog,2022,August,2
+Masile,2022,August,0
+Matimbo,2022,August,7
+Mojon,2022,August,29
+Namayan,2022,August,0
+Niugan,2022,August,0
+Pamarawan,2022,August,0
+Panasahan,2022,August,6
+Pinagbakahan,2022,August,10
+San Agustin,2022,August,0
+San Gabriel,2022,August,3
+San Juan,2022,August,5
+San Pablo,2022,August,2
+San Vicente,2022,August,0
+Santiago,2022,August,3
+Santisima Trinidad,2022,August,4
+Santo Cristo,2022,August,1
+Santo Niño,2022,August,0
+Santo Rosario,2022,August,6
+Santor,2022,August,13
+Sumapang Bata,2022,August,5
+Sumapang Matanda,2022,August,10
+Taal,2022,August,0
+Tikay,2022,August,16
+Anilao,2022,September,1
+Atlag,2022,September,2
+Babatnin,2022,September,0
+Bagna,2022,September,1
+Bagong Bayan,2022,September,2
+Balayong,2022,September,0
+Balite,2022,September,1
+Bangkal,2022,September,1
+Barihan,2022,September,2
+Bulihan,2022,September,14
+Bungahan,2022,September,3
+Caingin,2022,September,6
+Calero,2022,September,0
+Caliligawan,2022,September,0
+Canalate,2022,September,2
+Caniogan,2022,September,3
+Catmon,2022,September,1
+Cofradia,2022,September,1
+Dakila,2022,September,2
+Guinhawa,2022,September,2
+Liang,2022,September,0
+Ligas,2022,September,3
+Longos,2022,September,10
+Look 1St,2022,September,6
+Look 2Nd,2022,September,0
+Lugam,2022,September,4
+Mabolo,2022,September,0
+Mambog,2022,September,1
+Masile,2022,September,0
+Matimbo,2022,September,5
+Mojon,2022,September,11
+Namayan,2022,September,0
+Niugan,2022,September,0
+Pamarawan,2022,September,0
+Panasahan,2022,September,14
+Pinagbakahan,2022,September,3
+San Agustin,2022,September,0
+San Gabriel,2022,September,0
+San Juan,2022,September,2
+San Pablo,2022,September,4
+San Vicente,2022,September,1
+Santiago,2022,September,0
+Santisima Trinidad,2022,September,6
+Santo Cristo,2022,September,2
+Santo Niño,2022,September,0
+Santo Rosario,2022,September,4
+Santor,2022,September,2
+Sumapang Bata,2022,September,2
+Sumapang Matanda,2022,September,7
+Taal,2022,September,2
+Tikay,2022,September,11
+Anilao,2022,October,0
+Atlag,2022,October,2
+Babatnin,2022,October,0
+Bagna,2022,October,2
+Bagong Bayan,2022,October,0
+Balayong,2022,October,0
+Balite,2022,October,0
+Bangkal,2022,October,4
+Barihan,2022,October,2
+Bulihan,2022,October,3
+Bungahan,2022,October,0
+Caingin,2022,October,1
+Calero,2022,October,0
+Caliligawan,2022,October,0
+Canalate,2022,October,0
+Caniogan,2022,October,1
+Catmon,2022,October,1
+Cofradia,2022,October,1
+Dakila,2022,October,0
+Guinhawa,2022,October,3
+Liang,2022,October,0
+Ligas,2022,October,0
+Longos,2022,October,9
+Look 1St,2022,October,1
+Look 2Nd,2022,October,0
+Lugam,2022,October,4
+Mabolo,2022,October,0
+Mambog,2022,October,0
+Masile,2022,October,0
+Matimbo,2022,October,1
+Mojon,2022,October,3
+Namayan,2022,October,0
+Niugan,2022,October,0
+Pamarawan,2022,October,0
+Panasahan,2022,October,2
+Pinagbakahan,2022,October,0
+San Agustin,2022,October,0
+San Gabriel,2022,October,0
+San Juan,2022,October,0
+San Pablo,2022,October,1
+San Vicente,2022,October,0
+Santiago,2022,October,0
+Santisima Trinidad,2022,October,0
+Santo Cristo,2022,October,0
+Santo Niño,2022,October,0
+Santo Rosario,2022,October,1
+Santor,2022,October,1
+Sumapang Bata,2022,October,1
+Sumapang Matanda,2022,October,4
+Taal,2022,October,1
+Tikay,2022,October,3
+Anilao,2022,November,0
+Atlag,2022,November,0
+Babatnin,2022,November,0
+Bagna,2022,November,1
+Bagong Bayan,2022,November,0
+Balayong,2022,November,0
+Balite,2022,November,0
+Bangkal,2022,November,2
+Barihan,2022,November,0
+Bulihan,2022,November,3
+Bungahan,2022,November,0
+Caingin,2022,November,3
+Calero,2022,November,0
+Caliligawan,2022,November,0
+Canalate,2022,November,0
+Caniogan,2022,November,2
+Catmon,2022,November,1
+Cofradia,2022,November,1
+Dakila,2022,November,0
+Guinhawa,2022,November,0
+Liang,2022,November,0
+Ligas,2022,November,0
+Longos,2022,November,6
+Look 1St,2022,November,2
+Look 2Nd,2022,November,0
+Lugam,2022,November,0
+Mabolo,2022,November,0
+Mambog,2022,November,0
+Masile,2022,November,0
+Matimbo,2022,November,1
+Mojon,2022,November,3
+Namayan,2022,November,0
+Niugan,2022,November,0
+Pamarawan,2022,November,0
+Panasahan,2022,November,0
+Pinagbakahan,2022,November,1
+San Agustin,2022,November,1
+San Gabriel,2022,November,0
+San Juan,2022,November,1
+San Pablo,2022,November,3
+San Vicente,2022,November,0
+Santiago,2022,November,0
+Santisima Trinidad,2022,November,0
+Santo Cristo,2022,November,0
+Santo Niño,2022,November,0
+Santo Rosario,2022,November,0
+Santor,2022,November,3
+Sumapang Bata,2022,November,0
+Sumapang Matanda,2022,November,0
+Taal,2022,November,0
+Tikay,2022,November,0
+Anilao,2022,December,0
+Atlag,2022,December,1
+Babatnin,2022,December,0
+Bagna,2022,December,2
+Bagong Bayan,2022,December,1
+Balayong,2022,December,0
+Balite,2022,December,2
+Bangkal,2022,December,0
+Barihan,2022,December,1
+Bulihan,2022,December,1
+Bungahan,2022,December,0
+Caingin,2022,December,0
+Calero,2022,December,0
+Caliligawan,2022,December,0
+Canalate,2022,December,1
+Caniogan,2022,December,0
+Catmon,2022,December,2
+Cofradia,2022,December,0
+Dakila,2022,December,1
+Guinhawa,2022,December,0
+Liang,2022,December,0
+Ligas,2022,December,1
+Longos,2022,December,8
+Look 1St,2022,December,0
+Look 2Nd,2022,December,1
+Lugam,2022,December,1
+Mabolo,2022,December,0
+Mambog,2022,December,0
+Masile,2022,December,0
+Matimbo,2022,December,0
+Mojon,2022,December,2
+Namayan,2022,December,0
+Niugan,2022,December,0
+Pamarawan,2022,December,0
+Panasahan,2022,December,2
+Pinagbakahan,2022,December,0
+San Agustin,2022,December,0
+San Gabriel,2022,December,0
+San Juan,2022,December,0
+San Pablo,2022,December,0
+San Vicente,2022,December,1
+Santiago,2022,December,0
+Santisima Trinidad,2022,December,0
+Santo Cristo,2022,December,0
+Santo Niño,2022,December,0
+Santo Rosario,2022,December,0
+Santor,2022,December,1
+Sumapang Bata,2022,December,0
+Sumapang Matanda,2022,December,0
+Taal,2022,December,0
+Tikay,2022,December,0
+Anilao,2023,January,0
+Atlag,2023,January,10
+Babatnin,2023,January,0
+Bagna,2023,January,0
+Bagong Bayan,2023,January,0
+Balayong,2023,January,0
+Balite,2023,January,0
+Bangkal,2023,January,0
+Barihan,2023,January,1
+Bulihan,2023,January,5
+Bungahan,2023,January,0
+Caingin,2023,January,0
+Calero,2023,January,0
+Caliligawan,2023,January,0
+Canalate,2023,January,1
+Caniogan,2023,January,0
+Catmon,2023,January,0
+Cofradia,2023,January,0
+Dakila,2023,January,0
+Guinhawa,2023,January,0
+Liang,2023,January,0
+Ligas,2023,January,0
+Longos,2023,January,5
+Look 1St,2023,January,1
+Look 2Nd,2023,January,0
+Lugam,2023,January,1
+Mabolo,2023,January,0
+Mambog,2023,January,1
+Masile,2023,January,0
+Matimbo,2023,January,1
+Mojon,2023,January,8
+Namayan,2023,January,0
+Niugan,2023,January,0
+Pamarawan,2023,January,1
+Panasahan,2023,January,2
+Pinagbakahan,2023,January,5
+San Agustin,2023,January,0
+San Gabriel,2023,January,0
+San Juan,2023,January,1
+San Pablo,2023,January,0
+San Vicente,2023,January,0
+Santiago,2023,January,0
+Santisima Trinidad,2023,January,0
+Santo Cristo,2023,January,0
+Santo Niño,2023,January,0
+Santo Rosario,2023,January,1
+Santor,2023,January,3
+Sumapang Bata,2023,January,1
+Sumapang Matanda,2023,January,2
+Taal,2023,January,0
+Tikay,2023,January,2
+Anilao,2023,February,0
+Atlag,2023,February,1
+Babatnin,2023,February,0
+Bagna,2023,February,0
+Bagong Bayan,2023,February,3
+Balayong,2023,February,0
+Balite,2023,February,0
+Bangkal,2023,February,1
+Barihan,2023,February,0
+Bulihan,2023,February,2
+Bungahan,2023,February,0
+Caingin,2023,February,0
+Calero,2023,February,0
+Caliligawan,2023,February,0
+Canalate,2023,February,0
+Caniogan,2023,February,0
+Catmon,2023,February,0
+Cofradia,2023,February,0
+Dakila,2023,February,1
+Guinhawa,2023,February,0
+Liang,2023,February,0
+Ligas,2023,February,0
+Longos,2023,February,0
+Look 1St,2023,February,0
+Look 2Nd,2023,February,0
+Lugam,2023,February,1
+Mabolo,2023,February,0
+Mambog,2023,February,0
+Masile,2023,February,0
+Matimbo,2023,February,0
+Mojon,2023,February,2
+Namayan,2023,February,0
+Niugan,2023,February,0
+Pamarawan,2023,February,0
+Panasahan,2023,February,0
+Pinagbakahan,2023,February,1
+San Agustin,2023,February,0
+San Gabriel,2023,February,0
+San Juan,2023,February,0
+San Pablo,2023,February,0
+San Vicente,2023,February,0
+Santiago,2023,February,0
+Santisima Trinidad,2023,February,0
+Santo Cristo,2023,February,0
+Santo Niño,2023,February,0
+Santo Rosario,2023,February,0
+Santor,2023,February,0
+Sumapang Bata,2023,February,0
+Sumapang Matanda,2023,February,1
+Taal,2023,February,0
+Tikay,2023,February,2
+Anilao,2023,March,1
+Atlag,2023,March,0
+Babatnin,2023,March,0
+Bagna,2023,March,0
+Bagong Bayan,2023,March,0
+Balayong,2023,March,1
+Balite,2023,March,0
+Bangkal,2023,March,2
+Barihan,2023,March,0
+Bulihan,2023,March,1
+Bungahan,2023,March,0
+Caingin,2023,March,0
+Calero,2023,March,0
+Caliligawan,2023,March,0
+Canalate,2023,March,0
+Caniogan,2023,March,0
+Catmon,2023,March,1
+Cofradia,2023,March,0
+Dakila,2023,March,0
+Guinhawa,2023,March,0
+Liang,2023,March,0
+Ligas,2023,March,0
+Longos,2023,March,2
+Look 1St,2023,March,1
+Look 2Nd,2023,March,0
+Lugam,2023,March,0
+Mabolo,2023,March,0
+Mambog,2023,March,0
+Masile,2023,March,0
+Matimbo,2023,March,0
+Mojon,2023,March,1
+Namayan,2023,March,0
+Niugan,2023,March,0
+Pamarawan,2023,March,1
+Panasahan,2023,March,1
+Pinagbakahan,2023,March,0
+San Agustin,2023,March,0
+San Gabriel,2023,March,0
+San Juan,2023,March,0
+San Pablo,2023,March,0
+San Vicente,2023,March,0
+Santiago,2023,March,0
+Santisima Trinidad,2023,March,1
+Santo Cristo,2023,March,1
+Santo Niño,2023,March,0
+Santo Rosario,2023,March,1
+Santor,2023,March,0
+Sumapang Bata,2023,March,1
+Sumapang Matanda,2023,March,0
+Taal,2023,March,0
+Tikay,2023,March,0
+Anilao,2023,April,0
+Atlag,2023,April,0
+Babatnin,2023,April,0
+Bagna,2023,April,0
+Bagong Bayan,2023,April,0
+Balayong,2023,April,0
+Balite,2023,April,0
+Bangkal,2023,April,0
+Barihan,2023,April,0
+Bulihan,2023,April,0
+Bungahan,2023,April,0
+Caingin,2023,April,0
+Calero,2023,April,0
+Caliligawan,2023,April,0
+Canalate,2023,April,0
+Caniogan,2023,April,0
+Catmon,2023,April,0
+Cofradia,2023,April,0
+Dakila,2023,April,0
+Guinhawa,2023,April,0
+Liang,2023,April,0
+Ligas,2023,April,0
+Longos,2023,April,0
+Look 1St,2023,April,0
+Look 2Nd,2023,April,0
+Lugam,2023,April,0
+Mabolo,2023,April,0
+Mambog,2023,April,0
+Masile,2023,April,0
+Matimbo,2023,April,0
+Mojon,2023,April,0
+Namayan,2023,April,0
+Niugan,2023,April,0
+Pamarawan,2023,April,0
+Panasahan,2023,April,0
+Pinagbakahan,2023,April,0
+San Agustin,2023,April,0
+San Gabriel,2023,April,0
+San Juan,2023,April,0
+San Pablo,2023,April,0
+San Vicente,2023,April,0
+Santiago,2023,April,0
+Santisima Trinidad,2023,April,0
+Santo Cristo,2023,April,0
+Santo Niño,2023,April,0
+Santo Rosario,2023,April,1
+Santor,2023,April,0
+Sumapang Bata,2023,April,0
+Sumapang Matanda,2023,April,0
+Taal,2023,April,0
+Tikay,2023,April,0
+Anilao,2023,May,0
+Atlag,2023,May,0
+Babatnin,2023,May,0
+Bagna,2023,May,0
+Bagong Bayan,2023,May,0
+Balayong,2023,May,0
+Balite,2023,May,0
+Bangkal,2023,May,0
+Barihan,2023,May,0
+Bulihan,2023,May,1
+Bungahan,2023,May,0
+Caingin,2023,May,0
+Calero,2023,May,0
+Caliligawan,2023,May,0
+Canalate,2023,May,0
+Caniogan,2023,May,0
+Catmon,2023,May,0
+Cofradia,2023,May,0
+Dakila,2023,May,0
+Guinhawa,2023,May,0
+Liang,2023,May,0
+Ligas,2023,May,0
+Longos,2023,May,2
+Look 1St,2023,May,1
+Look 2Nd,2023,May,0
+Lugam,2023,May,0
+Mabolo,2023,May,0
+Mambog,2023,May,0
+Masile,2023,May,0
+Matimbo,2023,May,2
+Mojon,2023,May,0
+Namayan,2023,May,0
+Niugan,2023,May,0
+Pamarawan,2023,May,0
+Panasahan,2023,May,0
+Pinagbakahan,2023,May,1
+San Agustin,2023,May,0
+San Gabriel,2023,May,0
+San Juan,2023,May,0
+San Pablo,2023,May,1
+San Vicente,2023,May,0
+Santiago,2023,May,0
+Santisima Trinidad,2023,May,0
+Santo Cristo,2023,May,1
+Santo Niño,2023,May,0
+Santo Rosario,2023,May,0
+Santor,2023,May,0
+Sumapang Bata,2023,May,0
+Sumapang Matanda,2023,May,0
+Taal,2023,May,0
+Tikay,2023,May,2
+Anilao,2023,June,0
+Atlag,2023,June,1
+Babatnin,2023,June,0
+Bagna,2023,June,0
+Bagong Bayan,2023,June,2
+Balayong,2023,June,0
+Balite,2023,June,0
+Bangkal,2023,June,0
+Barihan,2023,June,1
+Bulihan,2023,June,0
+Bungahan,2023,June,2
+Caingin,2023,June,0
+Calero,2023,June,0
+Caliligawan,2023,June,0
+Canalate,2023,June,0
+Caniogan,2023,June,0
+Catmon,2023,June,2
+Cofradia,2023,June,0
+Dakila,2023,June,0
+Guinhawa,2023,June,0
+Liang,2023,June,0
+Ligas,2023,June,0
+Longos,2023,June,1
+Look 1St,2023,June,2
+Look 2Nd,2023,June,0
+Lugam,2023,June,0
+Mabolo,2023,June,0
+Mambog,2023,June,0
+Masile,2023,June,0
+Matimbo,2023,June,5
+Mojon,2023,June,1
+Namayan,2023,June,0
+Niugan,2023,June,0
+Pamarawan,2023,June,0
+Panasahan,2023,June,1
+Pinagbakahan,2023,June,3
+San Agustin,2023,June,0
+San Gabriel,2023,June,0
+San Juan,2023,June,0
+San Pablo,2023,June,0
+San Vicente,2023,June,0
+Santiago,2023,June,0
+Santisima Trinidad,2023,June,0
+Santo Cristo,2023,June,1
+Santo Niño,2023,June,0
+Santo Rosario,2023,June,1
+Santor,2023,June,1
+Sumapang Bata,2023,June,0
+Sumapang Matanda,2023,June,1
+Taal,2023,June,1
+Tikay,2023,June,3
+Anilao,2023,July,0
+Atlag,2023,July,0
+Babatnin,2023,July,0
+Bagna,2023,July,0
+Bagong Bayan,2023,July,0
+Balayong,2023,July,0
+Balite,2023,July,0
+Bangkal,2023,July,0
+Barihan,2023,July,2
+Bulihan,2023,July,1
+Bungahan,2023,July,1
+Caingin,2023,July,0
+Calero,2023,July,0
+Caliligawan,2023,July,0
+Canalate,2023,July,0
+Caniogan,2023,July,0
+Catmon,2023,July,0
+Cofradia,2023,July,0
+Dakila,2023,July,1
+Guinhawa,2023,July,0
+Liang,2023,July,0
+Ligas,2023,July,1
+Longos,2023,July,3
+Look 1St,2023,July,0
+Look 2Nd,2023,July,0
+Lugam,2023,July,0
+Mabolo,2023,July,0
+Mambog,2023,July,0
+Masile,2023,July,0
+Matimbo,2023,July,4
+Mojon,2023,July,0
+Namayan,2023,July,0
+Niugan,2023,July,0
+Pamarawan,2023,July,0
+Panasahan,2023,July,0
+Pinagbakahan,2023,July,0
+San Agustin,2023,July,0
+San Gabriel,2023,July,0
+San Juan,2023,July,0
+San Pablo,2023,July,0
+San Vicente,2023,July,0
+Santiago,2023,July,0
+Santisima Trinidad,2023,July,0
+Santo Cristo,2023,July,0
+Santo Niño,2023,July,0
+Santo Rosario,2023,July,0
+Santor,2023,July,0
+Sumapang Bata,2023,July,0
+Sumapang Matanda,2023,July,0
+Taal,2023,July,0
+Tikay,2023,July,2
+Anilao,2023,August,0
+Atlag,2023,August,0
+Babatnin,2023,August,0
+Bagna,2023,August,1
+Bagong Bayan,2023,August,0
+Balayong,2023,August,0
+Balite,2023,August,0
+Bangkal,2023,August,0
+Barihan,2023,August,0
+Bulihan,2023,August,0
+Bungahan,2023,August,0
+Caingin,2023,August,0
+Calero,2023,August,0
+Caliligawan,2023,August,0
+Canalate,2023,August,0
+Caniogan,2023,August,0
+Catmon,2023,August,0
+Cofradia,2023,August,0
+Dakila,2023,August,1
+Guinhawa,2023,August,0
+Liang,2023,August,0
+Ligas,2023,August,0
+Longos,2023,August,1
+Look 1St,2023,August,3
+Look 2Nd,2023,August,0
+Lugam,2023,August,1
+Mabolo,2023,August,1
+Mambog,2023,August,0
+Masile,2023,August,0
+Matimbo,2023,August,2
+Mojon,2023,August,3
+Namayan,2023,August,0
+Niugan,2023,August,0
+Pamarawan,2023,August,0
+Panasahan,2023,August,3
+Pinagbakahan,2023,August,1
+San Agustin,2023,August,0
+San Gabriel,2023,August,0
+San Juan,2023,August,0
+San Pablo,2023,August,0
+San Vicente,2023,August,0
+Santiago,2023,August,0
+Santisima Trinidad,2023,August,0
+Santo Cristo,2023,August,0
+Santo Niño,2023,August,0
+Santo Rosario,2023,August,0
+Santor,2023,August,0
+Sumapang Bata,2023,August,0
+Sumapang Matanda,2023,August,0
+Taal,2023,August,0
+Tikay,2023,August,2
+Anilao,2023,September,0
+Atlag,2023,September,0
+Babatnin,2023,September,0
+Bagna,2023,September,1
+Bagong Bayan,2023,September,0
+Balayong,2023,September,0
+Balite,2023,September,0
+Bangkal,2023,September,3
+Barihan,2023,September,0
+Bulihan,2023,September,0
+Bungahan,2023,September,0
+Caingin,2023,September,0
+Calero,2023,September,1
+Caliligawan,2023,September,0
+Canalate,2023,September,0
+Caniogan,2023,September,0
+Catmon,2023,September,1
+Cofradia,2023,September,2
+Dakila,2023,September,0
+Guinhawa,2023,September,0
+Liang,2023,September,0
+Ligas,2023,September,0
+Longos,2023,September,11
+Look 1St,2023,September,4
+Look 2Nd,2023,September,0
+Lugam,2023,September,0
+Mabolo,2023,September,1
+Mambog,2023,September,0
+Masile,2023,September,0
+Matimbo,2023,September,0
+Mojon,2023,September,5
+Namayan,2023,September,0
+Niugan,2023,September,0
+Pamarawan,2023,September,0
+Panasahan,2023,September,0
+Pinagbakahan,2023,September,1
+San Agustin,2023,September,0
+San Gabriel,2023,September,0
+San Juan,2023,September,0
+San Pablo,2023,September,0
+San Vicente,2023,September,0
+Santiago,2023,September,0
+Santisima Trinidad,2023,September,1
+Santo Cristo,2023,September,0
+Santo Niño,2023,September,0
+Santo Rosario,2023,September,2
+Santor,2023,September,1
+Sumapang Bata,2023,September,0
+Sumapang Matanda,2023,September,1
+Taal,2023,September,0
+Tikay,2023,September,3
+Anilao,2023,October,0
+Atlag,2023,October,0
+Babatnin,2023,October,1
+Bagna,2023,October,0
+Bagong Bayan,2023,October,0
+Balayong,2023,October,1
+Balite,2023,October,1
+Bangkal,2023,October,0
+Barihan,2023,October,0
+Bulihan,2023,October,6
+Bungahan,2023,October,0
+Caingin,2023,October,0
+Calero,2023,October,0
+Caliligawan,2023,October,1
+Canalate,2023,October,0
+Caniogan,2023,October,0
+Catmon,2023,October,0
+Cofradia,2023,October,0
+Dakila,2023,October,0
+Guinhawa,2023,October,2
+Liang,2023,October,0
+Ligas,2023,October,0
+Longos,2023,October,4
+Look 1St,2023,October,0
+Look 2Nd,2023,October,0
+Lugam,2023,October,2
+Mabolo,2023,October,2
+Mambog,2023,October,0
+Masile,2023,October,0
+Matimbo,2023,October,4
+Mojon,2023,October,0
+Namayan,2023,October,0
+Niugan,2023,October,0
+Pamarawan,2023,October,5
+Panasahan,2023,October,1
+Pinagbakahan,2023,October,0
+San Agustin,2023,October,0
+San Gabriel,2023,October,0
+San Juan,2023,October,0
+San Pablo,2023,October,2
+San Vicente,2023,October,0
+Santiago,2023,October,0
+Santisima Trinidad,2023,October,0
+Santo Cristo,2023,October,1
+Santo Niño,2023,October,0
+Santo Rosario,2023,October,2
+Santor,2023,October,0
+Sumapang Bata,2023,October,0
+Sumapang Matanda,2023,October,3
+Taal,2023,October,0
+Tikay,2023,October,6
+Anilao,2023,November,1
+Atlag,2023,November,0
+Babatnin,2023,November,0
+Bagna,2023,November,2
+Bagong Bayan,2023,November,0
+Balayong,2023,November,0
+Balite,2023,November,2
+Bangkal,2023,November,1
+Barihan,2023,November,1
+Bulihan,2023,November,5
+Bungahan,2023,November,0
+Caingin,2023,November,2
+Calero,2023,November,0
+Caliligawan,2023,November,0
+Canalate,2023,November,1
+Caniogan,2023,November,0
+Catmon,2023,November,1
+Cofradia,2023,November,0
+Dakila,2023,November,1
+Guinhawa,2023,November,0
+Liang,2023,November,0
+Ligas,2023,November,3
+Longos,2023,November,5
+Look 1St,2023,November,1
+Look 2Nd,2023,November,1
+Lugam,2023,November,1
+Mabolo,2023,November,4
+Mambog,2023,November,1
+Masile,2023,November,0
+Matimbo,2023,November,7
+Mojon,2023,November,5
+Namayan,2023,November,1
+Niugan,2023,November,0
+Pamarawan,2023,November,14
+Panasahan,2023,November,4
+Pinagbakahan,2023,November,2
+San Agustin,2023,November,1
+San Gabriel,2023,November,0
+San Juan,2023,November,0
+San Pablo,2023,November,6
+San Vicente,2023,November,0
+Santiago,2023,November,0
+Santisima Trinidad,2023,November,0
+Santo Cristo,2023,November,0
+Santo Niño,2023,November,0
+Santo Rosario,2023,November,1
+Santor,2023,November,1
+Sumapang Bata,2023,November,0
+Sumapang Matanda,2023,November,4
+Taal,2023,November,0
+Tikay,2023,November,1
+Anilao,2023,December,0
+Atlag,2023,December,0
+Babatnin,2023,December,0
+Bagna,2023,December,0
+Bagong Bayan,2023,December,0
+Balayong,2023,December,0
+Balite,2023,December,0
+Bangkal,2023,December,1
+Barihan,2023,December,0
+Bulihan,2023,December,4
+Bungahan,2023,December,0
+Caingin,2023,December,2
+Calero,2023,December,0
+Caliligawan,2023,December,0
+Canalate,2023,December,0
+Caniogan,2023,December,0
+Catmon,2023,December,0
+Cofradia,2023,December,0
+Dakila,2023,December,1
+Guinhawa,2023,December,1
+Liang,2023,December,0
+Ligas,2023,December,2
+Longos,2023,December,6
+Look 1St,2023,December,0
+Look 2Nd,2023,December,0
+Lugam,2023,December,0
+Mabolo,2023,December,0
+Mambog,2023,December,0
+Masile,2023,December,1
+Matimbo,2023,December,1
+Mojon,2023,December,2
+Namayan,2023,December,0
+Niugan,2023,December,0
+Pamarawan,2023,December,9
+Panasahan,2023,December,4
+Pinagbakahan,2023,December,0
+San Agustin,2023,December,0
+San Gabriel,2023,December,0
+San Juan,2023,December,0
+San Pablo,2023,December,1
+San Vicente,2023,December,0
+Santiago,2023,December,0
+Santisima Trinidad,2023,December,0
+Santo Cristo,2023,December,0
+Santo Niño,2023,December,0
+Santo Rosario,2023,December,0
+Santor,2023,December,0
+Sumapang Bata,2023,December,0
+Sumapang Matanda,2023,December,1
+Taal,2023,December,0
+Tikay,2023,December,2
+Anilao,2024,January,0
+Atlag,2024,January,1
+Babatnin,2024,January,0
+Bagna,2024,January,0
+Bagong Bayan,2024,January,0
+Balayong,2024,January,0
+Balite,2024,January,0
+Bangkal,2024,January,1
+Barihan,2024,January,1
+Bulihan,2024,January,4
+Bungahan,2024,January,0
+Caingin,2024,January,1
+Calero,2024,January,0
+Caliligawan,2024,January,0
+Canalate,2024,January,0
+Caniogan,2024,January,0
+Catmon,2024,January,0
+Cofradia,2024,January,0
+Dakila,2024,January,0
+Guinhawa,2024,January,0
+Liang,2024,January,0
+Ligas,2024,January,1
+Longos,2024,January,3
+Look 1St,2024,January,0
+Look 2Nd,2024,January,0
+Lugam,2024,January,0
+Mabolo,2024,January,0
+Mambog,2024,January,0
+Masile,2024,January,6
+Matimbo,2024,January,0
+Mojon,2024,January,3
+Namayan,2024,January,0
+Niugan,2024,January,0
+Pamarawan,2024,January,12
+Panasahan,2024,January,0
+Pinagbakahan,2024,January,0
+San Agustin,2024,January,1
+San Gabriel,2024,January,0
+San Juan,2024,January,0
+San Pablo,2024,January,1
+San Vicente,2024,January,0
+Santiago,2024,January,0
+Santisima Trinidad,2024,January,1
+Santo Cristo,2024,January,0
+Santo Niño,2024,January,0
+Santo Rosario,2024,January,1
+Santor,2024,January,0
+Sumapang Bata,2024,January,0
+Sumapang Matanda,2024,January,0
+Taal,2024,January,1
+Tikay,2024,January,4
+Anilao,2024,February,0
+Atlag,2024,February,0
+Babatnin,2024,February,0
+Bagna,2024,February,2
+Bagong Bayan,2024,February,0
+Balayong,2024,February,1
+Balite,2024,February,0
+Bangkal,2024,February,0
+Barihan,2024,February,0
+Bulihan,2024,February,2
+Bungahan,2024,February,0
+Caingin,2024,February,1
+Calero,2024,February,0
+Caliligawan,2024,February,0
+Canalate,2024,February,0
+Caniogan,2024,February,2
+Catmon,2024,February,0
+Cofradia,2024,February,0
+Dakila,2024,February,3
+Guinhawa,2024,February,0
+Liang,2024,February,0
+Ligas,2024,February,0
+Longos,2024,February,0
+Look 1St,2024,February,1
+Look 2Nd,2024,February,0
+Lugam,2024,February,0
+Mabolo,2024,February,0
+Mambog,2024,February,0
+Masile,2024,February,4
+Matimbo,2024,February,1
+Mojon,2024,February,0
+Namayan,2024,February,0
+Niugan,2024,February,1
+Pamarawan,2024,February,3
+Panasahan,2024,February,0
+Pinagbakahan,2024,February,1
+San Agustin,2024,February,0
+San Gabriel,2024,February,0
+San Juan,2024,February,0
+San Pablo,2024,February,0
+San Vicente,2024,February,0
+Santiago,2024,February,0
+Santisima Trinidad,2024,February,1
+Santo Cristo,2024,February,0
+Santo Niño,2024,February,0
+Santo Rosario,2024,February,2
+Santor,2024,February,0
+Sumapang Bata,2024,February,0
+Sumapang Matanda,2024,February,1
+Taal,2024,February,1
+Tikay,2024,February,1
+Anilao,2024,March,0
+Atlag,2024,March,1
+Babatnin,2024,March,2
+Bagna,2024,March,0
+Bagong Bayan,2024,March,0
+Balayong,2024,March,0
+Balite,2024,March,0
+Bangkal,2024,March,0
+Barihan,2024,March,0
+Bulihan,2024,March,3
+Bungahan,2024,March,0
+Caingin,2024,March,0
+Calero,2024,March,0
+Caliligawan,2024,March,0
+Canalate,2024,March,0
+Caniogan,2024,March,1
+Catmon,2024,March,0
+Cofradia,2024,March,0
+Dakila,2024,March,0
+Guinhawa,2024,March,0
+Liang,2024,March,0
+Ligas,2024,March,0
+Longos,2024,March,1
+Look 1St,2024,March,0
+Look 2Nd,2024,March,0
+Lugam,2024,March,0
+Mabolo,2024,March,1
+Mambog,2024,March,0
+Masile,2024,March,0
+Matimbo,2024,March,0
+Mojon,2024,March,0
+Namayan,2024,March,0
+Niugan,2024,March,0
+Pamarawan,2024,March,0
+Panasahan,2024,March,0
+Pinagbakahan,2024,March,0
+San Agustin,2024,March,1
+San Gabriel,2024,March,0
+San Juan,2024,March,0
+San Pablo,2024,March,1
+San Vicente,2024,March,0
+Santiago,2024,March,0
+Santisima Trinidad,2024,March,0
+Santo Cristo,2024,March,0
+Santo Niño,2024,March,0
+Santo Rosario,2024,March,1
+Santor,2024,March,2
+Sumapang Bata,2024,March,0
+Sumapang Matanda,2024,March,0
+Taal,2024,March,0
+Tikay,2024,March,0
+Anilao,2024,April,0
+Atlag,2024,April,1
+Babatnin,2024,April,3
+Bagna,2024,April,0
+Bagong Bayan,2024,April,0
+Balayong,2024,April,0
+Balite,2024,April,1
+Bangkal,2024,April,0
+Barihan,2024,April,0
+Bulihan,2024,April,2
+Bungahan,2024,April,0
+Caingin,2024,April,0
+Calero,2024,April,0
+Caliligawan,2024,April,0
+Canalate,2024,April,0
+Caniogan,2024,April,0
+Catmon,2024,April,0
+Cofradia,2024,April,0
+Dakila,2024,April,1
+Guinhawa,2024,April,0
+Liang,2024,April,0
+Ligas,2024,April,2
+Longos,2024,April,0
+Look 1St,2024,April,0
+Look 2Nd,2024,April,0
+Lugam,2024,April,0
+Mabolo,2024,April,0
+Mambog,2024,April,0
+Masile,2024,April,0
+Matimbo,2024,April,0
+Mojon,2024,April,0
+Namayan,2024,April,0
+Niugan,2024,April,0
+Pamarawan,2024,April,0
+Panasahan,2024,April,0
+Pinagbakahan,2024,April,1
+San Agustin,2024,April,0
+San Gabriel,2024,April,0
+San Juan,2024,April,1
+San Pablo,2024,April,0
+San Vicente,2024,April,0
+Santiago,2024,April,0
+Santisima Trinidad,2024,April,0
+Santo Cristo,2024,April,0
+Santo Niño,2024,April,0
+Santo Rosario,2024,April,0
+Santor,2024,April,0
+Sumapang Bata,2024,April,0
+Sumapang Matanda,2024,April,0
+Taal,2024,April,0
+Tikay,2024,April,3
+Anilao,2024,May,0
+Atlag,2024,May,0
+Babatnin,2024,May,8
+Bagna,2024,May,1
+Bagong Bayan,2024,May,0
+Balayong,2024,May,1
+Balite,2024,May,0
+Bangkal,2024,May,0
+Barihan,2024,May,0
+Bulihan,2024,May,0
+Bungahan,2024,May,0
+Caingin,2024,May,1
+Calero,2024,May,0
+Caliligawan,2024,May,0
+Canalate,2024,May,0
+Caniogan,2024,May,0
+Catmon,2024,May,0
+Cofradia,2024,May,0
+Dakila,2024,May,0
+Guinhawa,2024,May,0
+Liang,2024,May,0
+Ligas,2024,May,0
+Longos,2024,May,1
+Look 1St,2024,May,0
+Look 2Nd,2024,May,0
+Lugam,2024,May,0
+Mabolo,2024,May,0
+Mambog,2024,May,0
+Masile,2024,May,0
+Matimbo,2024,May,0
+Mojon,2024,May,0
+Namayan,2024,May,2
+Niugan,2024,May,0
+Pamarawan,2024,May,0
+Panasahan,2024,May,0
+Pinagbakahan,2024,May,0
+San Agustin,2024,May,0
+San Gabriel,2024,May,0
+San Juan,2024,May,0
+San Pablo,2024,May,0
+San Vicente,2024,May,0
+Santiago,2024,May,0
+Santisima Trinidad,2024,May,1
+Santo Cristo,2024,May,0
+Santo Niño,2024,May,0
+Santo Rosario,2024,May,0
+Santor,2024,May,0
+Sumapang Bata,2024,May,0
+Sumapang Matanda,2024,May,0
+Taal,2024,May,0
+Tikay,2024,May,0
+Anilao,2024,June,0
+Atlag,2024,June,0
+Babatnin,2024,June,16
+Bagna,2024,June,0
+Bagong Bayan,2024,June,0
+Balayong,2024,June,0
+Balite,2024,June,0
+Bangkal,2024,June,0
+Barihan,2024,June,0
+Bulihan,2024,June,1
+Bungahan,2024,June,1
+Caingin,2024,June,0
+Calero,2024,June,0
+Caliligawan,2024,June,0
+Canalate,2024,June,0
+Caniogan,2024,June,0
+Catmon,2024,June,1
+Cofradia,2024,June,0
+Dakila,2024,June,0
+Guinhawa,2024,June,0
+Liang,2024,June,0
+Ligas,2024,June,0
+Longos,2024,June,2
+Look 1St,2024,June,0
+Look 2Nd,2024,June,0
+Lugam,2024,June,1
+Mabolo,2024,June,3
+Mambog,2024,June,0
+Masile,2024,June,0
+Matimbo,2024,June,0
+Mojon,2024,June,3
+Namayan,2024,June,0
+Niugan,2024,June,0
+Pamarawan,2024,June,0
+Panasahan,2024,June,1
+Pinagbakahan,2024,June,0
+San Agustin,2024,June,0
+San Gabriel,2024,June,0
+San Juan,2024,June,1
+San Pablo,2024,June,0
+San Vicente,2024,June,0
+Santiago,2024,June,0
+Santisima Trinidad,2024,June,0
+Santo Cristo,2024,June,0
+Santo Niño,2024,June,0
+Santo Rosario,2024,June,0
+Santor,2024,June,0
+Sumapang Bata,2024,June,0
+Sumapang Matanda,2024,June,0
+Taal,2024,June,0
+Tikay,2024,June,0
+Anilao,2024,July,0
+Atlag,2024,July,1
+Babatnin,2024,July,17
+Bagna,2024,July,0
+Bagong Bayan,2024,July,0
+Balayong,2024,July,0
+Balite,2024,July,0
+Bangkal,2024,July,0
+Barihan,2024,July,0
+Bulihan,2024,July,5
+Bungahan,2024,July,0
+Caingin,2024,July,0
+Calero,2024,July,0
+Caliligawan,2024,July,0
+Canalate,2024,July,1
+Caniogan,2024,July,0
+Catmon,2024,July,2
+Cofradia,2024,July,0
+Dakila,2024,July,3
+Guinhawa,2024,July,0
+Liang,2024,July,0
+Ligas,2024,July,3
+Longos,2024,July,13
+Look 1St,2024,July,0
+Look 2Nd,2024,July,6
+Lugam,2024,July,0
+Mabolo,2024,July,1
+Mambog,2024,July,0
+Masile,2024,July,1
+Matimbo,2024,July,2
+Mojon,2024,July,5
+Namayan,2024,July,0
+Niugan,2024,July,0
+Pamarawan,2024,July,0
+Panasahan,2024,July,1
+Pinagbakahan,2024,July,3
+San Agustin,2024,July,1
+San Gabriel,2024,July,3
+San Juan,2024,July,0
+San Pablo,2024,July,1
+San Vicente,2024,July,0
+Santiago,2024,July,0
+Santisima Trinidad,2024,July,0
+Santo Cristo,2024,July,0
+Santo Niño,2024,July,0
+Santo Rosario,2024,July,2
+Santor,2024,July,5
+Sumapang Bata,2024,July,0
+Sumapang Matanda,2024,July,2
+Taal,2024,July,1
+Tikay,2024,July,8
+Anilao,2024,August,3
+Atlag,2024,August,8
+Babatnin,2024,August,1
+Bagna,2024,August,3
+Bagong Bayan,2024,August,0
+Balayong,2024,August,3
+Balite,2024,August,4
+Bangkal,2024,August,5
+Barihan,2024,August,0
+Bulihan,2024,August,11
+Bungahan,2024,August,1
+Caingin,2024,August,8
+Calero,2024,August,0
+Caliligawan,2024,August,1
+Canalate,2024,August,0
+Caniogan,2024,August,2
+Catmon,2024,August,0
+Cofradia,2024,August,6
+Dakila,2024,August,6
+Guinhawa,2024,August,0
+Liang,2024,August,0
+Ligas,2024,August,9
+Longos,2024,August,20
+Look 1St,2024,August,3
+Look 2Nd,2024,August,4
+Lugam,2024,August,2
+Mabolo,2024,August,2
+Mambog,2024,August,3
+Masile,2024,August,19
+Matimbo,2024,August,2
+Mojon,2024,August,14
+Namayan,2024,August,3
+Niugan,2024,August,0
+Pamarawan,2024,August,0
+Panasahan,2024,August,3
+Pinagbakahan,2024,August,2
+San Agustin,2024,August,0
+San Gabriel,2024,August,1
+San Juan,2024,August,1
+San Pablo,2024,August,2
+San Vicente,2024,August,1
+Santiago,2024,August,1
+Santisima Trinidad,2024,August,0
+Santo Cristo,2024,August,1
+Santo Niño,2024,August,0
+Santo Rosario,2024,August,4
+Santor,2024,August,19
+Sumapang Bata,2024,August,0
+Sumapang Matanda,2024,August,0
+Taal,2024,August,2
+Tikay,2024,August,4
+Anilao,2024,September,4
+Atlag,2024,September,1
+Babatnin,2024,September,0
+Bagna,2024,September,1
+Bagong Bayan,2024,September,6
+Balayong,2024,September,3
+Balite,2024,September,3
+Bangkal,2024,September,9
+Barihan,2024,September,1
+Bulihan,2024,September,4
+Bungahan,2024,September,2
+Caingin,2024,September,1
+Calero,2024,September,0
+Caliligawan,2024,September,0
+Canalate,2024,September,0
+Caniogan,2024,September,4
+Catmon,2024,September,2
+Cofradia,2024,September,12
+Dakila,2024,September,4
+Guinhawa,2024,September,0
+Liang,2024,September,3
+Ligas,2024,September,4
+Longos,2024,September,11
+Look 1St,2024,September,2
+Look 2Nd,2024,September,1
+Lugam,2024,September,1
+Mabolo,2024,September,5
+Mambog,2024,September,0
+Masile,2024,September,3
+Matimbo,2024,September,5
+Mojon,2024,September,13
+Namayan,2024,September,2
+Niugan,2024,September,2
+Pamarawan,2024,September,0
+Panasahan,2024,September,2
+Pinagbakahan,2024,September,3
+San Agustin,2024,September,4
+San Gabriel,2024,September,1
+San Juan,2024,September,1
+San Pablo,2024,September,3
+San Vicente,2024,September,1
+Santiago,2024,September,0
+Santisima Trinidad,2024,September,2
+Santo Cristo,2024,September,0
+Santo Niño,2024,September,0
+Santo Rosario,2024,September,2
+Santor,2024,September,9
+Sumapang Bata,2024,September,0
+Sumapang Matanda,2024,September,3
+Taal,2024,September,3
+Tikay,2024,September,3
+Anilao,2024,October,2
+Atlag,2024,October,0
+Babatnin,2024,October,1
+Bagna,2024,October,3
+Bagong Bayan,2024,October,13
+Balayong,2024,October,2
+Balite,2024,October,2
+Bangkal,2024,October,10
+Barihan,2024,October,4
+Bulihan,2024,October,5
+Bungahan,2024,October,1
+Caingin,2024,October,1
+Calero,2024,October,1
+Caliligawan,2024,October,0
+Canalate,2024,October,1
+Caniogan,2024,October,0
+Catmon,2024,October,0
+Cofradia,2024,October,14
+Dakila,2024,October,2
+Guinhawa,2024,October,2
+Liang,2024,October,1
+Ligas,2024,October,6
+Longos,2024,October,8
+Look 1St,2024,October,2
+Look 2Nd,2024,October,6
+Lugam,2024,October,4
+Mabolo,2024,October,10
+Mambog,2024,October,0
+Masile,2024,October,0
+Matimbo,2024,October,3
+Mojon,2024,October,14
+Namayan,2024,October,0
+Niugan,2024,October,1
+Pamarawan,2024,October,0
+Panasahan,2024,October,4
+Pinagbakahan,2024,October,5
+San Agustin,2024,October,2
+San Gabriel,2024,October,0
+San Juan,2024,October,1
+San Pablo,2024,October,1
+San Vicente,2024,October,1
+Santiago,2024,October,0
+Santisima Trinidad,2024,October,5
+Santo Cristo,2024,October,3
+Santo Niño,2024,October,1
+Santo Rosario,2024,October,0
+Santor,2024,October,4
+Sumapang Bata,2024,October,0
+Sumapang Matanda,2024,October,5
+Taal,2024,October,1
+Tikay,2024,October,2
+Anilao,2024,November,7
+Atlag,2024,November,2
+Babatnin,2024,November,0
+Bagna,2024,November,7
+Bagong Bayan,2024,November,1
+Balayong,2024,November,7
+Balite,2024,November,1
+Bangkal,2024,November,7
+Barihan,2024,November,6
+Bulihan,2024,November,7
+Bungahan,2024,November,0
+Caingin,2024,November,5
+Calero,2024,November,0
+Caliligawan,2024,November,0
+Canalate,2024,November,1
+Caniogan,2024,November,3
+Catmon,2024,November,1
+Cofradia,2024,November,8
+Dakila,2024,November,3
+Guinhawa,2024,November,2
+Liang,2024,November,0
+Ligas,2024,November,7
+Longos,2024,November,5
+Look 1St,2024,November,1
+Look 2Nd,2024,November,3
+Lugam,2024,November,5
+Mabolo,2024,November,3
+Mambog,2024,November,6
+Masile,2024,November,1
+Matimbo,2024,November,4
+Mojon,2024,November,8
+Namayan,2024,November,0
+Niugan,2024,November,0
+Pamarawan,2024,November,0
+Panasahan,2024,November,7
+Pinagbakahan,2024,November,2
+San Agustin,2024,November,0
+San Gabriel,2024,November,0
+San Juan,2024,November,3
+San Pablo,2024,November,1
+San Vicente,2024,November,1
+Santiago,2024,November,3
+Santisima Trinidad,2024,November,1
+Santo Cristo,2024,November,0
+Santo Niño,2024,November,0
+Santo Rosario,2024,November,4
+Santor,2024,November,6
+Sumapang Bata,2024,November,1
+Sumapang Matanda,2024,November,1
+Taal,2024,November,2
+Tikay,2024,November,6
+Anilao,2024,December,9
+Atlag,2024,December,6
+Babatnin,2024,December,0
+Bagna,2024,December,4
+Bagong Bayan,2024,December,6
+Balayong,2024,December,2
+Balite,2024,December,0
+Bangkal,2024,December,11
+Barihan,2024,December,2
+Bulihan,2024,December,9
+Bungahan,2024,December,1
+Caingin,2024,December,2
+Calero,2024,December,0
+Caliligawan,2024,December,0
+Canalate,2024,December,2
+Caniogan,2024,December,0
+Catmon,2024,December,0
+Cofradia,2024,December,0
+Dakila,2024,December,1
+Guinhawa,2024,December,0
+Liang,2024,December,1
+Ligas,2024,December,5
+Longos,2024,December,10
+Look 1St,2024,December,2
+Look 2Nd,2024,December,7
+Lugam,2024,December,3
+Mabolo,2024,December,2
+Mambog,2024,December,0
+Masile,2024,December,2
+Matimbo,2024,December,4
+Mojon,2024,December,9
+Namayan,2024,December,0
+Niugan,2024,December,0
+Pamarawan,2024,December,1
+Panasahan,2024,December,4
+Pinagbakahan,2024,December,2
+San Agustin,2024,December,1
+San Gabriel,2024,December,1
+San Juan,2024,December,3
+San Pablo,2024,December,1
+San Vicente,2024,December,1
+Santiago,2024,December,0
+Santisima Trinidad,2024,December,2
+Santo Cristo,2024,December,0
+Santo Niño,2024,December,0
+Santo Rosario,2024,December,6
+Santor,2024,December,3
+Sumapang Bata,2024,December,0
+Sumapang Matanda,2024,December,1
+Taal,2024,December,0
+Tikay,2024,December,5
