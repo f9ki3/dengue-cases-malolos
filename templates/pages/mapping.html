@@ -38,6 +38,10 @@
       </button>
     </div>
 
+    <div id="legends" class="p-3 border rounded bg-light">
+      <!-- Legend will be populated dynamically -->
+    </div>
+
     <!-- Search Offcanvas -->
     <div
       class="offcanvas offcanvas-start"
@@ -72,9 +76,9 @@
       id="filterOffcanvas"
       aria-labelledby="filterOffcanvasLabel"
     >
-      <div class="offcanvas-header">
+      <div class="offcanvas-header border-bottom border">
         <h5 class="offcanvas-title" id="filterOffcanvasLabel">
-          Filter Barangay
+          Barangay Dengue Cases
         </h5>
         <button
           type="button"
@@ -84,52 +88,65 @@
         ></button>
       </div>
       <div class="offcanvas-body">
-        <p>Filter functionality coming soon...</p>
+        <div>
+          <div class="row">
+            <div class="col-6">
+              <p class="text-muted">Select Year</p>
+              <select name="" class="form-select" id="year-select">
+                <option value="">None</option>
+              </select>
+            </div>
+
+            <div class="col-6">
+              <p class="text-muted">Select Month</p>
+              <select disabled name="" class="form-select" id="month-select">
+                <option value="">None</option>
+              </select>
+            </div>
+          </div>
+
+          <button
+            onclick="resetFilterMapping()"
+            class="btn w-100 mt-3 text-muted border"
+          >
+            Reset
+          </button>
+
+          <ol class="list-group list-group-numbered mt-3">
+            <li
+              class="list-group-item d-flex justify-content-between align-items-start"
+            >
+              <div class="ms-2 me-auto">
+                <div class="fw-bold">Subheading</div>
+                Content for list item
+              </div>
+              <span class="badge text-bg-danger rounded-pill">14</span>
+            </li>
+            <li
+              class="list-group-item d-flex justify-content-between align-items-start"
+            >
+              <div class="ms-2 me-auto">
+                <div class="fw-bold">Subheading</div>
+                Content for list item
+              </div>
+              <span class="badge text-bg-danger rounded-pill">14</span>
+            </li>
+            <li
+              class="list-group-item d-flex justify-content-between align-items-start"
+            >
+              <div class="ms-2 me-auto">
+                <div class="fw-bold">Subheading</div>
+                Content for list item
+              </div>
+              <span class="badge text-bg-danger rounded-pill">14</span>
+            </li>
+          </ol>
+        </div>
       </div>
     </div>
-
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        fetch("/getBarangay")
-          .then((response) => response.json())
-          .then((data) => {
-            let map = L.map("map", { zoomControl: false }).setView(
-              [14.85, 120.82],
-              12
-            );
-
-            L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-              attribution: "&copy; OpenStreetMap contributors",
-            }).addTo(map);
-
-            let greenIcon = L.icon({
-              iconUrl: "static/img/pin.png",
-              shadowUrl:
-                "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png",
-              iconSize: [50, 50],
-              iconAnchor: [12, 41],
-              popupAnchor: [1, -34],
-              shadowSize: [41, 41],
-            });
-
-            data.barangays.forEach((brgy) => {
-              L.marker([brgy.Latitude, brgy.Longitude], { icon: greenIcon })
-                .addTo(map)
-                .bindPopup(`<b>${brgy.Barangay}</b>`);
-            });
-
-            document
-              .getElementById("zoom-in")
-              .addEventListener("click", () => map.zoomIn());
-            document
-              .getElementById("zoom-out")
-              .addEventListener("click", () => map.zoomOut());
-          })
-          .catch((error) =>
-            console.error("Error fetching barangay data:", error)
-          );
-      });
-    </script>
+    <script src="{{ url_for('static', filename='js/getFilters.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/filterDengueCases.js') }}"></script>
+    <script></script>
 
     {% include 'components/footer.html' %}
   </body>
