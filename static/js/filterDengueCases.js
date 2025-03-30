@@ -1,12 +1,37 @@
 // Initialize the map
 const map = L.map("map", {
-  center: [14.8435589, 120.7975402], // Default coordinates (centered around Barangay data)
+  center: [14.8435589, 120.7975402], // Default coordinates
   zoom: 12,
   zoomControl: false, // Disable the default zoom control
 });
 
 // Add a tile layer to the map
-L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png").addTo(map);
+// Define the tile layers
+const regularLayer = L.tileLayer(
+  "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+);
+const satelliteLayer = L.tileLayer(
+  "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+  {
+    attribution: "Tiles © Esri",
+  }
+);
+
+// Add the regular layer by default
+regularLayer.addTo(map);
+
+// Toggle map mode
+let isSatellite = false;
+document.getElementById("map-mode").addEventListener("click", () => {
+  if (isSatellite) {
+    map.removeLayer(satelliteLayer);
+    map.addLayer(regularLayer);
+  } else {
+    map.removeLayer(regularLayer);
+    map.addLayer(satelliteLayer);
+  }
+  isSatellite = !isSatellite;
+});
 
 // Define custom icon
 const customIcon = L.icon({
