@@ -51,9 +51,15 @@ monthSelect.disabled = true;
 let markers = [];
 let circles = [];
 
+// Listen for real-time input changes in the search box
+document.getElementById("search-input").addEventListener("input", function () {
+  fetchBarangayCases();
+});
+
 function fetchBarangayCases() {
   const year = yearSelect.value;
   const month = monthSelect.value;
+  const search = document.getElementById("search-input").value.trim();
 
   monthSelect.disabled = !year;
   if (!year) monthSelect.value = "";
@@ -62,6 +68,7 @@ function fetchBarangayCases() {
   const params = new URLSearchParams();
   if (year) params.append("year", year);
   if (month) params.append("month", month);
+  if (search) params.append("search", search);
   if (params.toString()) url += `?${params.toString()}`;
 
   fetch(url)
@@ -79,13 +86,12 @@ function fetchBarangayCases() {
 
       data.sort((a, b) => b.Cases - a.Cases);
 
-      // Track which risk levels exist
       let hasGreen = false,
         hasOrange = false,
         hasRed = false;
 
       data.forEach(({ Barangay, Cases, Latitude, Longitude }) => {
-        let color = "green"; // Default: Low Risk
+        let color = "green";
         if (Cases > 10 && Cases <= 50) {
           color = "orange";
           hasOrange = true;
@@ -96,7 +102,6 @@ function fetchBarangayCases() {
           hasGreen = true;
         }
 
-        // Create a colored circle marker
         const circle = L.circle([Latitude, Longitude], {
           color: color,
           fillColor: color,
@@ -115,21 +120,20 @@ function fetchBarangayCases() {
         listItem.className =
           "list-group-item d-flex justify-content-between align-items-start clickable";
         listItem.style.cursor = "pointer";
-
         listItem.innerHTML = `
-                <div class="ms-2 me-auto">
-                  <div class="fw-bold fs-6">${Barangay}</div>
-                  <div class="fs-6">Latitude: ${Latitude}</div>
-                  <div class="fs-6">Longitude: ${Longitude}</div>
-                </div>
-                <span class="badge text-bg-${
-                  color === "green"
-                    ? "success"
-                    : color === "orange"
-                    ? "warning"
-                    : "danger"
-                } rounded-pill">${Cases}</span>
-              `;
+          <div class="ms-2 me-auto">
+            <div class="fw-bold fs-6">${Barangay}</div>
+            <div class="fs-6">Latitude: ${Latitude}</div>
+            <div class="fs-6">Longitude: ${Longitude}</div>
+          </div>
+          <span class="badge text-bg-${
+            color === "green"
+              ? "success"
+              : color === "orange"
+              ? "warning"
+              : "danger"
+          } rounded-pill">${Cases}</span>
+        `;
 
         listItem.addEventListener("click", () => {
           marker.openPopup();
@@ -139,7 +143,6 @@ function fetchBarangayCases() {
         listGroup.appendChild(listItem);
       });
 
-      // Update the legend dynamically
       updateLegend(hasGreen, hasOrange, hasRed);
     })
     .catch((error) => {
@@ -182,6 +185,9 @@ function resetFilterMapping() {
   yearSelect.value = "";
   monthSelect.value = "";
   monthSelect.disabled = true;
+
+  // Clear the search input field
+  document.getElementById("search-input").value = "";
 
   // Clear existing markers and circles from the map
   markers.forEach((marker) => map.removeLayer(marker));

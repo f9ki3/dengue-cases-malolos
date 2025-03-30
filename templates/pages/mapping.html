@@ -28,14 +28,7 @@
       >
         <i class="bi bi-search"></i>
       </button>
-      <button
-        id="filter"
-        data-bs-toggle="offcanvas"
-        data-bs-target="#filterOffcanvas"
-        aria-controls="filterOffcanvas"
-      >
-        <i class="bi bi-funnel"></i>
-      </button>
+
       <button id="map-mode">
         <i class="bi bi-map"></i>
       </button>
@@ -45,38 +38,13 @@
       <!-- Legend will be populated dynamically -->
     </div>
 
-    <!-- Search Offcanvas -->
-    <div
-      class="offcanvas offcanvas-start"
-      data-bs-scroll="true"
-      data-bs-backdrop="false"
-      tabindex="-1"
-      id="searchOffcanvas"
-      aria-labelledby="searchOffcanvasLabel"
-    >
-      <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="searchOffcanvasLabel">
-          Search Barangay
-        </h5>
-        <button
-          type="button"
-          class="btn-close"
-          data-bs-dismiss="offcanvas"
-          aria-label="Close"
-        ></button>
-      </div>
-      <div class="offcanvas-body">
-        <p>Search functionality coming soon...</p>
-      </div>
-    </div>
-
     <!-- Filter Offcanvas -->
     <div
       class="offcanvas offcanvas-start"
       data-bs-scroll="true"
       data-bs-backdrop="false"
       tabindex="-1"
-      id="filterOffcanvas"
+      id="searchOffcanvas"
       aria-labelledby="filterOffcanvasLabel"
     >
       <div class="offcanvas-header border-bottom border">
@@ -92,16 +60,26 @@
       </div>
       <div class="offcanvas-body">
         <div>
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Search Barangay here..."
+            class="form-control mb-3"
+          />
           <div class="row">
             <div class="col-6">
-              <p class="text-muted">Select Year</p>
+              <p class="text-muted m-0 p-0" style="font-size: 12px">
+                Select Year
+              </p>
               <select name="" class="form-select" id="year-select">
                 <option value="">None</option>
               </select>
             </div>
 
             <div class="col-6">
-              <p class="text-muted">Select Month</p>
+              <p class="text-muted m-0 p-0" style="font-size: 12px">
+                Select Month
+              </p>
               <select disabled name="" class="form-select" id="month-select">
                 <option value="">None</option>
               </select>

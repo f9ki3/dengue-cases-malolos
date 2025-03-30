@@ -334,6 +334,7 @@ def update_barangay_json():
         with open(BARANGAY_JSON_PATH, 'w', encoding='utf-8') as file:
             json.dump({"barangays": barangay_dict}, file, indent=4)
 
+            
 @app.route('/getBarangayCases')
 def get_barangay_cases():
     update_barangay_json()  # Ensure barangay.json is updated
@@ -356,6 +357,7 @@ def get_barangay_cases():
     # Get user parameters
     year = request.args.get('year', type=int)
     month = request.args.get('month', type=str)
+    search = request.args.get('search', type=str)  # New search parameter
 
     # Validate year
     if year and (year < 1900 or year > 2100):
@@ -370,9 +372,13 @@ def get_barangay_cases():
         month_number = month_map[month]  # Convert "november" → 11
         df = df[df['Month'] == month]
 
-    # Filter data by year and month
+    # Filter data by year
     if year:
         df = df[df['Year'] == year]
+
+    # Filter barangays by search term
+    if search:
+        df = df[df['Barangay'].str.contains(search, case=False, na=False)]  # Case-insensitive search
 
     # Aggregate cases by Barangay
     barangay_cases = df.groupby('Barangay')['Cases'].sum().reset_index()
@@ -398,6 +404,72 @@ def get_barangay_cases():
         })
 
     return jsonify(result)
+
+
+# @app.route('/getBarangayCases')
+# def get_barangay_cases():
+#     update_barangay_json()  # Ensure barangay.json is updated
+
+#     # Read the CSV file
+#     df = pd.read_csv(CSV_FILE_PATH, encoding='utf-8')
+
+#     # Ensure required columns exist
+#     required_columns = {'Barangay', 'Year', 'Month', 'Cases'}
+#     if not required_columns.issubset(df.columns):
+#         return jsonify({"error": "Missing required columns in CSV"}), 400
+
+#     # Convert Year to numeric
+#     df['Year'] = pd.to_numeric(df['Year'], errors='coerce')
+#     df['Cases'] = pd.to_numeric(df['Cases'], errors='coerce')
+
+#     # Ensure Month is in string format for comparison
+#     df['Month'] = df['Month'].astype(str).str.strip().str.lower()
+
+#     # Get user parameters
+#     year = request.args.get('year', type=int)
+#     month = request.args.get('month', type=str)
+
+#     # Validate year
+#     if year and (year < 1900 or year > 2100):
+#         return jsonify({"error": "Invalid year. Must be between 1900-2100"}), 400
+
+#     # Convert month name to number if needed
+#     if month:
+#         month = month.lower()
+#         month_map = {m.lower(): i for i, m in enumerate(calendar.month_name) if m}
+#         if month not in month_map:
+#             return jsonify({"error": "Invalid month. Must be a valid month name"}), 400
+#         month_number = month_map[month]  # Convert "november" → 11
+#         df = df[df['Month'] == month]
+
+#     # Filter data by year and month
+#     if year:
+#         df = df[df['Year'] == year]
+
+#     # Aggregate cases by Barangay
+#     barangay_cases = df.groupby('Barangay')['Cases'].sum().reset_index()
+
+#     # Load existing Barangay data (latitude & longitude)
+#     barangay_data = load_existing_data()
+#     barangay_dict = barangay_data.get("barangays", {})
+
+#     # Prepare response
+#     result = []
+#     for _, row in barangay_cases.iterrows():
+#         barangay_name = row['Barangay']
+#         lat, lon = None, None
+#         if barangay_name in barangay_dict:
+#             lat = barangay_dict[barangay_name].get("lat")
+#             lon = barangay_dict[barangay_name].get("lon")
+
+#         result.append({
+#             "Barangay": barangay_name,
+#             "Cases": int(row["Cases"]),
+#             "Latitude": lat,
+#             "Longitude": lon
+#         })
+
+#     return jsonify(result)
 
 if __name__ == "__main__":
     app.run(debug=True)
