@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Analytics</title>
+    {% include 'components/header.html' %}
+    <style>
+      .stat-box {
+        background: #e8f5e9;
+        border-left: 5px solid #18b958;
+        padding: 20px;
+        border-radius: 8px;
+        margin-bottom: 10px;
+      }
+      .highlight-text {
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: #18b958;
+      }
+      h2,
+      p {
+        color: #18b958;
+      }
+
+      #mostCasesChart,
+      #leastCasesChart {
+        width: 500px !important;
+        height: 500px !important;
+      }
+    </style>
+  </head>
+  <body>
+    {% include 'components/navigation.html' %}
+    <div class="container">
+      <h1 class="fw-bolder mt-3">Dengue Cases of Malolos City (2016-2024)</h1>
+      <div class="row mt-4">
+        <div class="col-md-4">
+          <div class="stat-box">
+            <p class="m-0 p-0">Total Cases</p>
+            <p class="highlight-text" id="total-cases">15,320</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="stat-box">
+            <p class="m-0 p-0">Most Dengue Cases</p>
+            <p class="highlight-text">396</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="stat-box">
+            <p class="m-0 p-0">Least Dengue Cases</p>
+            <p class="highlight-text">3</p>
+          </div>
+        </div>
+      </div>
+      <div class="row chart-container">
+        <div class="col-12 col-md-6">
+          <h4>Top 5 Barangays with Most Cases</h4>
+          <canvas id="mostCasesChart"></canvas>
+        </div>
+        <div class="col-12 col-md-6">
+          <h4>Top 5 Barangays with Least Cases</h4>
+          <canvas id="leastCasesChart"></canvas>
+        </div>
+        <div class="col-12 col-md-6">
+          <h4>Dengue Cases from 2016 to 2024</h4>
+          <canvas id="dengureCasesYear"></canvas>
+        </div>
+        <div class="col-12 col-md-6">
+          <h4>Dengue Cases by month from 2016 to 2024</h4>
+          <canvas id="dengureCasesMonth"></canvas>
+        </div>
+        <!-- <div class="col-12 col-md-6">
+          <h4>Predicted Dengue Cases (Next 2 Years)</h4>
+          <canvas id="yearlyPredictionImg"></canvas>
+        </div>
+        <div class="col-12 col-md-6">
+          <h4>Predicted Dengue Cases (Next 24 Months)</h4>
+          <canvas id="monthlyPredictionImg"></canvas>
+        </div> -->
+      </div>
+    </div>
+    {% include 'components/footer.html' %}
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        fetch("/getBarangayCases")
+          .then((response) => response.json())
+          .then((data) => {
+            if (data.length === 0) return;
+
+            // Calculate total cases
+            let totalCases = data.reduce((sum, b) => sum + b.Cases, 0);
+
+            // Find barangay with most and least cases
+            let mostCases = data.reduce(
+              (max, b) => (b.Cases > max.Cases ? b : max),
+              data[0]
+            );
+            let leastCases = data.reduce(
+              (min, b) => (b.Cases < min.Cases ? b : min),
+              data[0]
+            );
+
+            // Update HTML
+            document.getElementById("total-cases").textContent = totalCases;
+            document.querySelector(
+              ".stat-box:nth-child(2) .highlight-text"
+            ).textContent = `${mostCases.Cases} (${mostCases.Barangay})`;
+            document.querySelector(
+              ".stat-box:nth-child(3) .highlight-text"
+            ).textContent = `${leastCases.Cases} (${leastCases.Barangay})`;
+          })
+          .catch((error) => console.error("Error fetching data:", error));
+      });
+    </script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        fetch("/getBarangayCases")
+          .then((response) => response.json())
+          .then((data) => {
+            if (data.length === 0) return;
+
+            // Sort data to find top 5 most and least cases
+            let sortedData = data.sort((a, b) => b.Cases - a.Cases);
+            let mostCasesData = sortedData.slice(0, 5); // Top 5 most cases
+            let leastCasesData = sortedData.slice(-5).reverse(); // Bottom 5 least cases
+
+            // Extract labels and values
+            let mostBarangays = mostCasesData.map((b) => b.Barangay);
+            let mostCases = mostCasesData.map((b) => b.Cases);
+            let leastBarangays = leastCasesData.map((b) => b.Barangay);
+            let leastCases = leastCasesData.map((b) => b.Cases);
+
+            // Define colors
+            let mostColors = [
+              "#e53935",
+              "#ff7043",
+              "#ffb74d",
+              "#ffcc80",
+              "#ffd180",
+            ];
+            let leastColors = [
+              "#43a047",
+              "#66bb6a",
+              "#81c784",
+              "#a5d6a7",
+              "#c8e6c9",
+            ];
+
+            // Function to create a donut chart
+            function createDonutChart(canvasId, labels, dataValues, colors) {
+              let ctx = document.getElementById(canvasId).getContext("2d");
+              new Chart(ctx, {
+                type: "doughnut",
+                data: {
+                  labels: labels,
+                  datasets: [
+                    {
+                      data: dataValues,
+                      backgroundColor: colors,
+                      borderWidth: 1,
+                    },
+                  ],
+                },
+                options: {
+                  responsive: true,
+                  plugins: {
+                    legend: { position: "right" },
+                    tooltip: {
+                      callbacks: {
+                        label: function (tooltipItem) {
+                          return `${tooltipItem.label}: ${tooltipItem.raw} cases`;
+                        },
+                      },
+                    },
+                  },
+                },
+              });
+            }
+
+            // Create the charts
+            createDonutChart(
+              "mostCasesChart",
+              mostBarangays,
+              mostCases,
+              mostColors
+            );
+            createDonutChart(
+              "leastCasesChart",
+              leastBarangays,
+              leastCases,
+              leastColors
+            );
+          })
+          .catch((error) => console.error("Error fetching data:", error));
+      });
+    </script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        fetch("/getDengueCases?group_by=Year")
+          .then((response) => response.json())
+          .then((data) => {
+            const years = data.data.map((item) => item.Year);
+            const cases = data.data.map((item) => item.Cases);
+
+            const ctx = document
+              .getElementById("dengureCasesYear")
+              .getContext("2d");
+            new Chart(ctx, {
+              type: "bar",
+              data: {
+                labels: years,
+                datasets: [
+                  {
+                    label: "Dengue Cases",
+                    data: cases,
+                    backgroundColor: "rgba(75, 192, 192, 0.6)",
+                    borderColor: "rgba(75, 192, 192, 1)",
+                    borderWidth: 1,
+                  },
+                ],
+              },
+              options: {
+                responsive: true,
+                scales: {
+                  y: {
+                    beginAtZero: true,
+                  },
+                },
+              },
+            });
+          })
+          .catch((error) => console.error("Error fetching data:", error));
+      });
+    </script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        // Fetch dengue cases by year
+        fetch("/getDengueCases?group_by=Year")
+          .then((response) => response.json())
+          .then((data) => {
+            const years = data.data.map((item) => item.Year);
+            const cases = data.data.map((item) => item.Cases);
+
+            const ctx = document
+              .getElementById("dengureCasesYear")
+              .getContext("2d");
+            new Chart(ctx, {
+              type: "bar",
+              data: {
+                labels: years,
+                datasets: [
+                  {
+                    label: "Dengue Cases",
+                    data: cases,
+                    backgroundColor: "rgba(75, 192, 192, 0.6)",
+                    borderColor: "rgba(75, 192, 192, 1)",
+                    borderWidth: 1,
+                  },
+                ],
+              },
+              options: {
+                responsive: true,
+                scales: {
+                  y: {
+                    beginAtZero: true,
+                  },
+                },
+              },
+            });
+          })
+          .catch((error) => console.error("Error fetching data:", error));
+
+        // Fetch dengue cases by month
+        fetch("/getDengueCases?group_by=Month")
+          .then((response) => response.json())
+          .then((data) => {
+            const groupedData = {};
+            data.data.forEach((item) => {
+              if (!groupedData[item.Year]) {
+                groupedData[item.Year] = [];
+              }
+              groupedData[item.Year].push({
+                month: item.Month,
+                cases: item.Cases,
+              });
+            });
+
+            const months = [
+              "January",
+              "February",
+              "March",
+              "April",
+              "May",
+              "June",
+              "July",
+              "August",
+              "September",
+              "October",
+              "November",
+              "December",
+            ];
+            const datasets = Object.keys(groupedData).map((year) => {
+              return {
+                label: `Year ${year}`,
+                data: months.map((month) => {
+                  const entry = groupedData[year].find(
+                    (item) => item.month === month
+                  );
+                  return entry ? entry.cases : 0;
+                }),
+                borderColor: `hsl(${Math.random() * 360}, 70%, 50%)`,
+                fill: false,
+              };
+            });
+
+            const ctxMonth = document
+              .getElementById("dengureCasesMonth")
+              .getContext("2d");
+            new Chart(ctxMonth, {
+              type: "line",
+              data: {
+                labels: months,
+                datasets: datasets,
+              },
+              options: {
+                responsive: true,
+                scales: {
+                  y: {
+                    beginAtZero: true,
+                  },
+                },
+              },
+            });
+          })
+          .catch((error) =>
+            console.error("Error fetching monthly data:", error)
+          );
+      });
+    </script>
+    <script>
+      $(document).ready(function () {
+        function fetchAndAppendImage(endpoint, imageId) {
+          $.ajax({
+            url: endpoint,
+            type: "GET",
+            dataType: "json",
+            success: function (response) {
+              if (response.plot_url) {
+                $(imageId).attr("src", response.plot_url);
+              }
+            },
+            error: function (xhr, status, error) {
+              console.error("Error fetching image:", error);
+            },
+          });
+        }
+
+        fetchAndAppendImage(
+          "/getDengueCasesPrediction?prediction=Year",
+          "#yearlyPredictionImg"
+        );
+        fetchAndAppendImage(
+          "/getDengueCasesPrediction?prediction=Month",
+          "#monthlyPredictionImg"
+        );
+      });
+    </script>
+  </body>
+</html>

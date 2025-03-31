@@ -15,6 +15,10 @@ app = Flask(__name__)
 def root():
     return render_template('pages/index.html')
 
+@app.route('/analytics')
+def analytics():
+    return render_template('pages/analytics.html')
+
 @app.route('/geographic_mapping')
 def gis():
     return render_template('pages/mapping.html')

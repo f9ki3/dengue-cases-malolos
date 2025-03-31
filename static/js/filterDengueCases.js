@@ -1,7 +1,7 @@
 // Initialize the map
 const map = L.map("map", {
   center: [14.8435589, 120.7975402], // Default coordinates
-  zoom: 13,
+  zoom: 12,
   zoomControl: false, // Disable the default zoom control
 });
 
