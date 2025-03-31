@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Get Started</title>
+    <title>Landing</title>
     {% include 'components/header.html' %}
     <link
       rel="stylesheet"
@@ -12,6 +12,7 @@
   </head>
   <body>
     {% include 'components/navigation.html' %}
+
     <div
       class="container d-flex align-items-center justify-content-center vh-90"
     >
@@ -33,9 +34,12 @@
                   City.
                 </p>
                 <a
-                  href="/gis"
-                  class="btn rounded-5 w-auto px-4"
-                  style="background-color: #18b958"
+                  href="/geographic_mapping"
+                  class="btn text-light rounded-5 w-auto px-4"
+                  style="
+                    background-color: #18b958;
+                    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+                  "
                 >
                   Get Started
                 </a>

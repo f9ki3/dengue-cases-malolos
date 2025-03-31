@@ -15,7 +15,7 @@ app = Flask(__name__)
 def root():
     return render_template('pages/index.html')
 
-@app.route('/gis')
+@app.route('/geographic_mapping')
 def gis():
     return render_template('pages/mapping.html')
 
@@ -106,7 +106,6 @@ def getMonths():
         'months': months,
         'count': len(months)
     }
-
     return jsonify(months)
 
 @app.route('/getDengueCases')
@@ -472,4 +471,4 @@ def get_barangay_cases():
 #     return jsonify(result)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True, host="0.0.0.0")

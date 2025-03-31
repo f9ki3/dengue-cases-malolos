@@ -1,7 +1,7 @@
 // Initialize the map
 const map = L.map("map", {
   center: [14.8435589, 120.7975402], // Default coordinates
-  zoom: 12,
+  zoom: 13,
   zoomControl: false, // Disable the default zoom control
 });
 
@@ -113,7 +113,13 @@ function fetchBarangayCases() {
         const marker = L.marker([Latitude, Longitude], {
           icon: customIcon,
         }).addTo(map);
-        marker.bindPopup(`<b>${Barangay}</b><br>Cases: ${Cases}`);
+        marker.bindPopup(`
+          <b>${Barangay}</b><br>Cases: ${Cases}<br>
+          <button onclick="handleMoreInfo('${Barangay}', ${Cases})" class="btn rounded-5 btn-lg border mt-2" data-bs-toggle="modal" data-bs-target="#view">
+            <i class="bi bi-eye"></i>
+          </button>
+        `);
+
         markers.push(marker);
 
         const listItem = document.createElement("li");
@@ -216,3 +222,179 @@ legend.onAdd = function () {
 };
 
 legend.addTo(map);
+
+async function handleMoreInfo(barangay, cases) {
+  const modalBody = document.querySelector("#view .modal-body");
+  const modalDialog = document.querySelector("#view .modal-dialog");
+  const modalContent = document.querySelector("#view .modal-content");
+
+  modalDialog.style.height = "530px";
+  modalContent.style.height = "100%";
+  modalBody.style.overflowY = "auto";
+
+  modalBody.innerHTML = `
+    <div class="row mb-3">
+        <div class="col-6">
+          <div class="border p-3 rounded d-flex align-items-center justify-content-between gradient-bg">
+            <div>
+              <p class="text-muted m-0 p-0" style="font-size: 12px">Barangay</p>
+              <h3 class="fw-bolder">${barangay}</h3>
+            </div>
+            <i class="bi bi-geo-alt fs-4 text-secondary"></i> <!-- Location Icon at End -->
+          </div>
+        </div>
+        <div class="col-6">
+          <div class="border p-3 rounded d-flex align-items-center justify-content-between gradient-bg">
+            <div>
+              <p class="text-muted m-0 p-0" style="font-size: 12px">Total Cases</p>
+              <h3 class="fw-bolder">${cases}</h3>
+            </div>
+            <i class="bi bi-droplet fs-4 text-secondary"></i> <!-- Blood Icon at End -->
+          </div>
+        </div>
+      </div>
+
+
+
+
+    
+    <div id="history" >
+      <p class="fw-bold">Yearly Dengue Cases (Bar Chart)</p>
+      <div style="height: 250px"><canvas id="yearlyCasesChart"></canvas></div>
+      <p class="fw-bold mt-5">Monthly Dengue Cases (Line Chart)</p>
+      <div style="height: 400px"><canvas id="monthlyCasesChart"></canvas></div>
+    </div>
+
+    <div id="prediction">
+      <p class="fw-bold mt-3">Predicted Dengue Cases (Next 2 Years)</p>
+      <img src="static/plots/dengue_prediction_yearly.png" id="yearlyPredictionImg" class="w-100" style="max-height: 41 0px; object-fit: contain;">
+
+      <p class="fw-bold mt-3">Predicted Dengue Cases (Next 24 Months)</p>
+      <img src="static/plots/dengue_prediction_monthly.png" id="monthlyPredictionImg" class="w-100" style="max-height: 410px; object-fit: contain;">
+    </div>
+
+  `;
+
+  loadCharts(barangay);
+  loadPredictions(barangay);
+}
+
+// Function to load charts
+async function loadCharts(barangay) {
+  try {
+    const yearlyResponse = await fetch(
+      `getDengueCases?group_by=Year&barangay=${encodeURIComponent(barangay)}`
+    );
+    const yearlyData = await yearlyResponse.json();
+    const yearlyLabels = yearlyData.data.map((entry) => entry.Year.toString());
+    const yearlyCases = yearlyData.data.map((entry) => entry.Cases);
+
+    const ctxYearly = document
+      .getElementById("yearlyCasesChart")
+      .getContext("2d");
+    if (window.yearlyCasesChart instanceof Chart)
+      window.yearlyCasesChart.destroy();
+    window.yearlyCasesChart = new Chart(ctxYearly, {
+      type: "bar",
+      data: {
+        labels: yearlyLabels,
+        datasets: [
+          {
+            label: "Cases",
+            data: yearlyCases,
+            backgroundColor: "rgba(255, 99, 132, 0.6)",
+            borderColor: "rgba(255, 99, 132, 1)",
+            borderWidth: 1,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: { y: { beginAtZero: true } },
+      },
+    });
+
+    const monthlyResponse = await fetch(
+      `getDengueCases?group_by=Month&barangay=${encodeURIComponent(barangay)}`
+    );
+    const monthlyData = await monthlyResponse.json();
+    const monthlyLabels = monthlyData.data.map(
+      (entry) => `${entry.Month} ${entry.Year}`
+    );
+    const monthlyCases = monthlyData.data.map((entry) => entry.Cases);
+
+    const ctxMonthly = document
+      .getElementById("monthlyCasesChart")
+      .getContext("2d");
+    if (window.monthlyCasesChart instanceof Chart)
+      window.monthlyCasesChart.destroy();
+    window.monthlyCasesChart = new Chart(ctxMonthly, {
+      type: "line",
+      data: {
+        labels: monthlyLabels,
+        datasets: [
+          {
+            label: "Cases",
+            data: monthlyCases,
+            borderColor: "rgba(255, 99, 132, 1)",
+            backgroundColor: "rgba(255, 99, 132, 0.2)",
+            borderWidth: 2,
+            fill: true,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: { y: { beginAtZero: true } },
+      },
+    });
+  } catch (error) {
+    console.error("Error fetching dengue cases:", error);
+  }
+}
+
+// Function to load predictions
+async function loadPredictions(barangay) {
+  try {
+    const yearlyPredictionResponse = await fetch(
+      `/getDengueCasesPrediction?prediction=Year&barangay=${encodeURIComponent(
+        barangay
+      )}`
+    );
+    const yearlyPredictionData = await yearlyPredictionResponse.json();
+    document.getElementById("yearlyPredictionImg").src =
+      yearlyPredictionData.plot_url;
+  } catch (error) {
+    console.error("Error fetching yearly prediction:", error);
+  }
+
+  try {
+    const monthlyPredictionResponse = await fetch(
+      `/getDengueCasesPrediction?prediction=Month&barangay=${encodeURIComponent(
+        barangay
+      )}`
+    );
+    const monthlyPredictionData = await monthlyPredictionResponse.json();
+    document.getElementById("monthlyPredictionImg").src =
+      monthlyPredictionData.plot_url;
+  } catch (error) {
+    console.error("Error fetching monthly prediction:", error);
+  }
+}
+
+// 🔥 Fixed: Show/Hide Functionality using Event Delegation
+$(document)
+  .off("click", "#btn-history, #btn-prediction")
+  .on("click", "#btn-history, #btn-prediction", function () {
+    const isHistory = $(this).attr("id") === "btn-history";
+
+    // Show/Hide Sections
+    $("#history").toggle(isHistory);
+    $("#prediction").toggle(!isHistory);
+
+    // Toggle Active States
+    $("#btn-history, #btn-prediction").removeClass("active");
+    $(this).addClass("active");
+  });

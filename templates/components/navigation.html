@@ -1,27 +1,86 @@
 <div style="background-color: #18b958; padding: 10px 0" class="sticky-top">
   <div class="container d-flex justify-content-between align-items-center">
     <!-- Logo -->
-    <div>
-      <img src="../static/img/logo.png" alt="Logo" style="height: 50px" />
+    <div class="d-flex align-items-center">
+      <a href="/">
+        <img src="../static/img/logo.png" alt="Logo" style="height: 50px" />
+      </a>
+      <h5
+        class="text-light ms-2 fw-bolder gis-text"
+        style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)"
+      >
+        Geographic Information System
+      </h5>
     </div>
 
-    <!-- Navigation Links -->
-    <nav>
+    <!-- Navigation Links (Desktop) -->
+    <nav class="d-none d-md-block">
       <ul class="list-unstyled d-flex gap-4 m-0">
         <li>
-          <a href="/" class="text-dark text-decoration-none">Home</a>
+          <a
+            href="/analytics"
+            class="text-light text-decoration-none"
+            style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)"
+          >
+            Analytics and Trends
+          </a>
         </li>
         <li>
-          <a href="/gis" class="text-dark text-decoration-none"
-            >Geographic Mapping</a
+          <a
+            href="/geographic_mapping"
+            class="text-light text-decoration-none"
+            style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)"
           >
-        </li>
-        <li>
-          <a href="/analytics" class="text-dark text-decoration-none"
-            >Analytics and Trends</a
-          >
+            Geographic Mapping
+          </a>
         </li>
       </ul>
     </nav>
+
+    <!-- Mobile Menu Button -->
+    <button
+      class="btn d-md-none"
+      type="button"
+      data-bs-toggle="offcanvas"
+      data-bs-target="#mobileMenu"
+    >
+      <i style="font-size: 35px" class="bi text-light bi-app-indicator"></i>
+    </button>
   </div>
 </div>
+
+<!-- Offcanvas Mobile Menu -->
+<div class="offcanvas offcanvas-end" tabindex="-1" id="mobileMenu">
+  <div class="offcanvas-header">
+    <h5 class="offcanvas-title">Menu</h5>
+    <button
+      type="button"
+      class="btn-close"
+      data-bs-dismiss="offcanvas"
+    ></button>
+  </div>
+  <div class="offcanvas-body">
+    <ul class="list-unstyled">
+      <li>
+        <a href="/analytics" class="text-dark text-decoration-none d-block p-2"
+          >Analytics and Trends</a
+        >
+      </li>
+      <li>
+        <a
+          href="/geographic_mapping"
+          class="text-dark text-decoration-none d-block p-2"
+          >Geographic Mapping</a
+        >
+      </li>
+    </ul>
+  </div>
+</div>
+
+<style>
+  @media (max-width: 768px) {
+    .gis-text {
+      font-size: 15px;
+    }
+  }
+</style>

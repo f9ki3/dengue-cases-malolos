@@ -132,3 +132,36 @@
     {% include 'components/footer.html' %}
   </body>
 </html>
+
+<!-- Modal -->
+<div
+  class="modal mt-5 fade"
+  id="view"
+  tabindex="-1"
+  aria-labelledby="exampleModalLabel"
+  aria-hidden="true"
+>
+  <div class="modal-dialog modal-lg modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div>
+          <a href="#history" class="btn btn-sm border">
+            <i class="bi bi-card-list"></i> Records
+          </a>
+          <a href="#prediction" class="btn btn-sm border">
+            <i class="bi bi-graph-up"></i> Prediction
+          </a>
+        </div>
+        <button
+          type="button"
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Close"
+        ></button>
+      </div>
+      <div class="modal-body">
+        <!-- Content goes here -->
+      </div>
+    </div>
+  </div>
+</div>
